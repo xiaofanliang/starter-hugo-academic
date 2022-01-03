@@ -3,7 +3,7 @@ title: "Measuring McCities: Landscapes of chain and independent restaurants in t
 summary: An example of using the in-built project page.
 tags:
 - Urban Analytics
-date: "2021-06-0127T00:00:00Z"
+date: "2021-06-01"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -19,8 +19,8 @@ links:
   url: https://friendlycities.gatech.edu/data-interactive/
 - name: PDF 
   url: https://www.dropbox.com/s/ajlduy88l8oqc5i/ChainRestaurants.pdf?dl=0
-- name: Slides
-  url: "project/example/featured.png"
+- name: Poster
+  url: "project/example/PosterAAG.png"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
