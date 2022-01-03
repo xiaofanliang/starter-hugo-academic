@@ -26,11 +26,13 @@ content:
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
   - name: All
-    tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+    tag: "*"
+  - name: Spatial Social Networks
+    tag: Spatial Social Networks
+  - name: Urban Analytics
+    tag: Urban Analytics
+  - name: Digital Civics and Critical Data
+    tag: Digital Civics and Critical Data
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

@@ -1,6 +1,6 @@
 ---
 title: "Measuring McCities: Landscapes of chain and independent restaurants in the United States"
-summary: Which cities most resemble McCities and what kinds of built environment and sociodemographic characteristics are associated with the prevelance of chains?
+summary: Which cities most resemble McCities? What kinds of built environment and sociodemographic characteristics are associated with the prevelance of chain restaurants?
 tags:
 - Urban Analytics
 date: "2021-06-01"
