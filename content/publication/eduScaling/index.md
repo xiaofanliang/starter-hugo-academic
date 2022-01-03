@@ -1,5 +1,5 @@
 ---
-title: "A Review of Spatial Network Insights and Methods in the Context of Planning: Applications, Challenges, and Opportunities"
+title: "Systematic shifts in scaling behavior based on organizational strategy in universities"
 
 authors:
 - Ryan Taylor
@@ -14,7 +14,7 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 
-date: "2021-07-01T00:00:00Z"
+date: "2021-05-01T00:00:00Z"
 doi: "10.1371/journal.pone.0254582"
 
 # Publication type.

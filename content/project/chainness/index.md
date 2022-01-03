@@ -20,7 +20,7 @@ links:
 - name: PDF 
   url: https://www.dropbox.com/s/ajlduy88l8oqc5i/ChainRestaurants.pdf?dl=0
 - name: Poster
-  url: "project/example/PosterAAG.png"
+  url: "project/chainness/PosterAAG.png"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
