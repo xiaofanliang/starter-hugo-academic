@@ -1,39 +1,39 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Xiaofan Liang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: City and Regional Planning PhD
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Georgia Institute of Technology
+  url: https://planning.gatech.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include spatial social networks, urban analytics, and digital civics.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Spatial Social Networks
+- Urban Analytics (GIS, Machine Learning, Agent-based Modeling, etc.)
+- Digital Civics and Critical Data
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MCRP/PhD in City and Regional Planning
+    institution: Georgia Institute of Technology
+    year: 2019-2023
+  - course: BS in Computational Science
+    institution: Minerva University 
+    year: 2015-2019
+  - course: BA in Sociology
+    institution: University of California - Berkeley
+    year: 2013-2015
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -42,19 +42,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'xiaofan.l@gatech.edu'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/xiaofanliang
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=fMkIGgMAAAAJ&hl=en&oi=ao
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/xiaofanliang
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/xiaofan-liang-b5705481/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -70,8 +70,9 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a City and Regional Planning PhD at Georgia Institute of Technology. I work with Dr. Clio Andris at [Friendly Cities Lab](https://friendlycities.gatech.edu/). My research broadly sit in the realm of **urban analytics**. More specifically, I study **spatial and social networks in urban space**: how they organize people and cities socially and spatially and how they embody tensions between local communities and urban development. My approaches are largely inspired by the field of **critical data** and **digital civics**, and therefore aim to use technology consciously to support communities and public initiatives. I am exploring the following questions in my dissertation: 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+* When constructing a metro station cause displacement of local communities, how can we quantify the social costs in terms of the loss of social connections and memories? 
+* When building new transportation infrastructure for the 'Airport City', how can we advocate design scenarios for the benefits of nearby residents? 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Xiaofan_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.

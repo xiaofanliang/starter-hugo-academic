@@ -13,14 +13,14 @@ image:
   focal_point: Smart
 
 links:
-- name: MapLab
+- name: MapLab3
   url: https://www.bloomberg.com/news/newsletters/2021-06-16/maplab-how-many-chain-restaurants-are-in-your-city
 - name: Interactive Map
   url: https://friendlycities.gatech.edu/data-interactive/
 - name: PDF 
   url: https://www.dropbox.com/s/ajlduy88l8oqc5i/ChainRestaurants.pdf?dl=0
-- name: Slides
-  url: "project/example/featured.png"
+# - name: Slides
+#   url: "project/example/PosterAAG.png"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
