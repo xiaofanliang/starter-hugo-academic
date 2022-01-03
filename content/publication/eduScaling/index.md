@@ -2,20 +2,29 @@
 title: "A Review of Spatial Network Insights and Methods in the Context of Planning: Applications, Challenges, and Opportunities"
 
 authors:
+- Ryan Taylor
 - admin
-- Yuhao Kang
+- Manfred Laubichler
+- Geoffrey West
+- Christopher Kempes
+- Marion Dumas
+
+# Author notes (optional)
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 
 date: "2021-07-01T00:00:00Z"
-doi: "10.1007/978-3-030-76059-5_5"
+doi: "10.1371/journal.pone.0254582"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["6"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In book: Urban Informatics and Future Cities (pp.71-91)"
+publication: "PloS one"
 
 tags: []
 
@@ -24,8 +33,8 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-- name: Slides
-  url: 'project/review/CUPUM_Xiaofan.pdf'
+- name: News
+  url: 'https://www.santafe.edu/news-center/news/some-colleges-are-mammals-others-are-cities'
 
 url_pdf: ''
 url_code: ''
@@ -36,5 +45,5 @@ url_source: ''
 url_video: ''
 
 projects:
-- review
+- eduScaling
 ---
