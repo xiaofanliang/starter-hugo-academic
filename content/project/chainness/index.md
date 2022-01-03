@@ -1,6 +1,6 @@
 ---
 title: "Measuring McCities: Landscapes of chain and independent restaurants in the United States"
-summary: An example of using the in-built project page.
+summary: Which cities most resemble McCities and what kinds of built environment and sociodemographic characteristics are associated with the prevelance of chains?
 tags:
 - Urban Analytics
 date: "2021-06-01"
