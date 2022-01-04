@@ -29,6 +29,7 @@ links:
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
+This work is completed with Dr. Clio Andris. 
 
 In this research, we explored which (types of) places have an independent food culture and which resemble McCities: foodscapes where the food offerings in the landscape can be found just as easily in one place as in many other (often distant) places. We used a dataset of nearly 800,000 independent and chain restaurants for the contiguous United States and defined a chain restaurant using multiple methods. We performed a descriptive analysis of chainness prevalence at the urban area and metropolitan area level. We also identified socioeconomic and infrastructural factors that correlate with high or low “chainness” (a value indicating the likelihood of finding the same venue elsewhere) by combining a random forest model and linear regression. We then examined chainness variation across census tracts with similar sociodemographic values. Using common GIS operations, we evaluated the likelihood of finding chain restaurants of nearby water bodies, coastlines, and highway ramps.
 
