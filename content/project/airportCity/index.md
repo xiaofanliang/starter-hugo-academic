@@ -4,7 +4,7 @@ summary: Airport as a regional transportation hub tends to overshadow the surrou
 tags:
 - Urban Analytics
 - Spatial Social Networks
-date: "2022-01-02"
+date: "2021-12-06"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

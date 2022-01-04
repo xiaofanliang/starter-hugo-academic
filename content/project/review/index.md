@@ -1,5 +1,5 @@
 ---
-title: "A Review of Spatial Network Insights and Methods in the Context of Planning: Applications, Challenges, and Opportunities"
+title: "A review of spatial network insights and methods in the context of planning: Applications, challenges, and opportunities"
 summary: How have research knowledge of spatial network insights and methods been applied to study cities and planning? What are some of the challenges and opportunities, especially in collaborative planning? 
 tags:
 - Spatial Social Networks

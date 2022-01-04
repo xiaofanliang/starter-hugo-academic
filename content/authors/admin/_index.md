@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'xiaofan.l@gatech.edu'
+  link: 'mailto:xiaofan.l@gatech.edu'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/xiaofanliang

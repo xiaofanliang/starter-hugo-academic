@@ -1,9 +1,9 @@
 ---
-title: "AWhich area has clustered local social connections? Spatial social network (SSN) hot spot detection through scan methods"
+title: "Which area has clustered local social connections? Spatial social network (SSN) hot spot detection through scan methods"
 summary: How do you find clusters of incidents/individuals that are not only geographically close to each other, but also have dense local social connections? 
 tags:
 - Spatial Social Networks
-date: "2022-01-02"
+date: "2021-12-09"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

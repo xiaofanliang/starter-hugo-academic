@@ -3,7 +3,7 @@ title: "Untangling population and connectivity in city outcome"
 summary: We know cities scale with populaton in a systematic fashion, but how much of (and what kinds of) the city outcomes (e.g., GDP, innovation) can be explained by population and how much can be explained by inter-city connectivity? 
 tags:
 - Spatial Social Networks
-date: "2022-01-02"
+date: "2021-12-02"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

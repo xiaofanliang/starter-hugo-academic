@@ -1,9 +1,9 @@
 ---
-title: "Demographic characteristics of locals and jetsetters: A Study of Extensibility using the Neighborhood Connectivity Survey"
+title: "Demographic characteristics of locals and jetsetters: A study of extensibility using the Neighborhood Connectivity Survey"
 summary: What are the demographic characteristics of people who are locals vs. jetsetters? How may these people different in local social support, ability to leverage social networks for disaster evacuation, and frequency to travel or migrate between cities?  
 tags:
 - Spatial Social Networks
-date: "2022-01-01"
+date: "2021-12-03"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
