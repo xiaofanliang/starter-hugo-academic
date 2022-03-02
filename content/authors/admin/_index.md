@@ -20,7 +20,7 @@ bio: My research interests include spatial social networks, urban analytics, and
 interests:
 - Spatial Social Networks
 - Urban Analytics (GIS, Machine Learning, Agent-based Modeling, etc.)
-- Digital Civics and Critical Data
+- Digital Civics, Critical Data/GIS, Participatory and Collaborative Planning
 
 # Education to show in About widget
 education:
@@ -70,9 +70,8 @@ email: ""
 highlight_name: true
 ---
 
-I am currently a City and Regional Planning PhD at Georgia Institute of Technology. I work with Dr. Clio Andris at [Friendly Cities Lab](https://friendlycities.gatech.edu/). My research broadly sit in the realm of **urban analytics**. More specifically, I study **spatial and social networks in urban space**: how they organize people and cities socially and spatially and how they embody tensions between local communities and urban development. My approaches are largely inspired by the field of **critical data** and **digital civics**, and therefore aim to use technology consciously to support communities and public initiatives. I am exploring the following questions in my dissertation: 
+I am currently a City and Regional Planning PhD at Georgia Institute of Technology. I work with Dr. Clio Andris at [Friendly Cities Lab](https://friendlycities.gatech.edu/). My research broadly sit in the realm of **urban analytics**. More specifically, I study **spatial and social networks in urban space**: 1) how people are organized spatially and socially in cities from network perspectives and 2) how human networks interact with built environment and illuminate tensions between local communities and urban development. My approaches are largely inspired by the field of **digital civics**, **critical GIS**, and **participatory planning**, and therefore aim to use technology consciously to support communities and public initiatives. 
 
-* When constructing a metro station cause displacement of local communities, how can we quantify the social costs in terms of the loss of social connections and memories? 
-* When building new transportation infrastructure for the 'Airport City', how can we advocate design scenarios for the benefits of nearby residents? 
+In my dissertation, I want to understand the costs, tradeoffs, and impacts of material (built environment) infrastructure of spatial and social connectivity in city, and what planners can do to offset the negative impacts and amplify the positive ones. The message I want to bring home is a critical perspective on the hype of connectivity: while it is true that connectivity is key to a place's influence and growth, it begs the question of what kinds of connectivity for whom and at what cost.  
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Xiaofan_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
