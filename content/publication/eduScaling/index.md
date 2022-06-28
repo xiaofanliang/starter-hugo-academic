@@ -24,7 +24,7 @@ doi: "10.1371/journal.pone.0254582"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "PloS one"
+publication: "PloS one, 16 (10), e0254582"
 
 tags: []
 
