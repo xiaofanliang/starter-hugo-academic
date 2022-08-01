@@ -11,7 +11,7 @@ design:
   columns: '1'
 ---
 
-{{< hl >}}[New!]{{< /hl >}} Xiaofan was awarded $12,000 stipend from [The ACRP (Airport Cooperative Research Program) Graduate Research Award](https://vsgc.odu.edu/acrpgraduateresearchawards/) for the project _Toward an Inclusive Aerotropolis: Critical Connectivity Analysis around Atlanta Airport_ ! Xiaofan will work with Prof. Perry Yang and Aerotropolis Atlanta on this project. (Aug 1st, 2022)
+{{< hl >}}[New!]{{< /hl >}} Xiaofan was awarded $12,000 [The ACRP (Airport Cooperative Research Program) Graduate Research Award](https://vsgc.odu.edu/acrpgraduateresearchawards/) for the project _Toward an Inclusive Aerotropolis: Critical Connectivity Analysis around Atlanta Airport_ ! Xiaofan will work with Prof. Perry Yang and Aerotropolis Atlanta on this project. (Aug 1st, 2022)
 
 {{< hl >}}[New!]{{< /hl >}} Xiaofan was supported by Friendly Cities Lab to be a visiting scholar at Urban Analytics Lab (National University of Singapore) this summer 2022. She will continue to collaborate with Prof. Clio Andris and Prof. Filip Bijieck on a project of assessing social infrastructure POIs on a global scale using OpenStreetMap data (May 2022 - now).
 
@@ -25,11 +25,11 @@ Xiaofan attempted leading sessions at 2022 Annual Conference of American Geograp
 
 Xiaofan presented her collaborative work with the City of Savannah _Detecting Vacant, Abandoned, and Disinvested (VAD) Properties in Savannah, Georgia using Human-in-the-loop Machine Learning_ at the Annual Conference of Association of Collegiate Schools of Planning (ACSP). (Oct 2021).
 
-Xiaofan's new paper _Measuring McCities: Landscapes of chain and independent restaurants in the United States_ was published in Enviornmental Planning B: Urban Analytics and City Science (open access [here](https://www.xiaofanliang.com/publication/chainness/chainness.pdf)). This work was presented at GaTech College of Design Virtual Research Symposium on Point of Interest (April, 2021) and AAG (April, 2020).
+<!-- Xiaofan's new paper _Measuring McCities: Landscapes of chain and independent restaurants in the United States_ was published in Enviornmental Planning B: Urban Analytics and City Science (open access [here](https://www.xiaofanliang.com/publication/chainness/chainness.pdf)). This work was presented at GaTech College of Design Virtual Research Symposium on Point of Interest (April, 2021) and AAG (April, 2020).
 
 Xiaofan's paper _A Review of Spatial Network Insights and Methods in the Context of Planning: Applications, Challenges, and Opportunities_ is published in a book chapter in the book Urban Informatics and Future Cities (open access [here](https://www.xiaofanliang.com/publication/review/review.pdf)). She also presents the paper at The 17th International Conference on CUPUM – Computational Urban Planning and Urban Management. (June, 2021).
 
-Xiaofan founded the [Miaoqianzhi 'jie' Research Group](https://public.tableau.com/app/profile/lu.chen6557/viz/Miaoqianzhijie/Miaoqianzhijie), an activist research team based in Guangzhou that promotes public discourses and conducts quantitative and qualitative research around Miaoqianzhi 'jie' (a historic street that is planned to be demolished to build an additional metro station). (Nov 2020 - now). 
+Xiaofan founded the [Miaoqianzhi 'jie' Research Group](https://public.tableau.com/app/profile/lu.chen6557/viz/Miaoqianzhijie/Miaoqianzhijie), an activist research team based in Guangzhou that promotes public discourses and conducts quantitative and qualitative research around Miaoqianzhi 'jie' (a historic street that is planned to be demolished to build an additional metro station). (Nov 2020 - now).  -->
 
 <!-- Xiaofan presented her work _A R Online Tutorial for Visualizing Spatial Social Networks_ at MoVis: Information Visualization of Geospatial Networks, Flows, and Movements Workshop at IEEE VIS. (Oct, 2020).
 
