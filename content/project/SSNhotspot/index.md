@@ -1,5 +1,5 @@
 ---
-title: "Which area has clustered local social connections? Spatial social network (SSN) hot spot detection through scan methods"
+title: "Is Your Neighbor Your Friend? Scan Methods for Spatial Social Network (SSN) Hotspot Detection"
 summary: How do you find clusters of incidents/individuals that are not only geographically close to each other, but also have dense local social connections? 
 tags:
 - Spatial Social Networks
@@ -9,7 +9,7 @@ date: "2021-12-09"
 external_link: ""
 
 image:
-  caption: The result of EdgeScan and NDScan using a 2km euclidean distance moving window
+  caption: The result of EdgeScan using a 1km euclidean distance moving window
   focal_point: Smart
 
 # links:
