@@ -13,7 +13,7 @@ authors:
 - Guanghua Chi
 
 date: "2022-07-01T00:00:00Z"
-doi: "https://web.media.mit.edu/~gaikwad/assets/publications/kdd_dhm_2022.pdf"
+doi: ""
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -32,6 +32,8 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
+- name: PDF
+  url: 'publication/kdd/kdd_dhm_2022.pdf'
 - name: Workshop Website
   url: 'https://kdd-humanitarian-mapping.herokuapp.com/'
 
