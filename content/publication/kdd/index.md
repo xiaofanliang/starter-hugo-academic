@@ -37,7 +37,7 @@ links:
 - name: Workshop Website
   url: 'https://kdd-humanitarian-mapping.herokuapp.com/'
 
-url_pdf: ''
+url_pdf: 'publication/kdd/kdd_dhm_2022.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -46,5 +46,5 @@ url_source: ''
 url_video: ''
 
 projects:
-- 
+- ""
 ---
