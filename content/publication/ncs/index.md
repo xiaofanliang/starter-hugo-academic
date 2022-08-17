@@ -18,7 +18,7 @@ doi: "10.17645/si.v10i3.5366"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Social Inclusion, 10(3), https://doi.org/10.17645/si.v10i3.5366"
+publication: "Social Inclusion, 10(3)"
 
 tags: []
 

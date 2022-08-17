@@ -5,7 +5,7 @@ authors:
 - Snehalkumar ‘Neil’ S. Gaikwad
 - Shankar Iyer
 - Dalton Lunga 
-- Takahiro Yabe,
+- Takahiro Yabe
 - admin
 - Bhavani Ananthabhotla
 - Nikhil Behari
