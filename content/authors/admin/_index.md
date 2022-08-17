@@ -14,7 +14,7 @@ organizations:
   url: https://planning.gatech.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include spatial social networks, urban analytics, and digital civics.
+bio: My research interests include spatial social networks, urban analytics, and participatory planning.
 
 # Interests to show in About widget
 interests:
@@ -70,8 +70,8 @@ email: ""
 highlight_name: true
 ---
 
-I am currently a City and Regional Planning PhD at Georgia Institute of Technology. I work with Dr. Clio Andris at [Friendly Cities Lab](https://friendlycities.gatech.edu/). My research broadly sit in the realm of **urban analytics**. More specifically, I study **spatial and social networks in urban space**: 1) how people are organized spatially and socially in cities from network perspectives and 2) how human networks interact with built environment and subsequently illuminate interactions between local communities and urban environment. My approaches are largely inspired by the field of **digital civics**, **critical GIS**, and **participatory planning**, and therefore aim to use technology consciously to support communities and public initiatives. Through research, I hope to facilitate authentic human connections that motivate social changes. 
+I am currently a City and Regional Planning PhD candidate at Georgia Institute of Technology. I work with Dr. Clio Andris at [Friendly Cities Lab](https://friendlycities.gatech.edu/). My research broadly sit in the realm of **urban analytics**. More specifically, I study **spatial and social networks** on various spatial scales: 1) how human activities or cities are organized spatially and socially from network perspectives, and 2) how built environment and point of interests support/suppress human connections in contentious urban space. My approaches are largely inspired by the field of **network science**, **complex system**, and **critical & participatory approaches in GIS and planning**, and therefore ground my research in the pursuit of social inclusion and authentic human connections in the society. 
 
-In my dissertation, I want to understand the costs, tradeoffs, and impacts of material (built environment) infrastructure of spatial and social connectivity in city. The research question at hand is what kinds of connectivity are prioritized or supported (by infrastructure), for whom, at what cost, and what can planners do in actions to amplify/mitigate the impacts. The message I want to bring home is a critical perspective on the hype of connectivity: while it is true that connectivity is the key to a place's influence and growth, it also encodes inequality and exclusion.  
+My dissertation focuses on understanding the costs, tradeoffs, and impacts of material (built environment) infrastructure of spatial and social connectivity in city. I ask what kinds of connectivity are prioritized or supported (by infrastructure), for whom, at what cost, and what can planners do in actions to amplify/mitigate the impacts. While connectivity is the key to a place's influence and growth, it also encodes inequality and exclusion.  
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Xiaofan_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
