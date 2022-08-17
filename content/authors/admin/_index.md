@@ -74,4 +74,4 @@ I am currently a City and Regional Planning PhD candidate at Georgia Institute o
 
 My dissertation focuses on understanding the costs, tradeoffs, and impacts of material (built environment) infrastructure of spatial and social connectivity in city. I ask what kinds of connectivity are prioritized or supported (by infrastructure), for whom, at what cost, and what can planners do in actions to amplify/mitigate the impacts. While connectivity is the key to a place's influence and growth, it also encodes inequality and exclusion.  
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Xiaofan_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Xiaofan_Liang_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.

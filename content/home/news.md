@@ -13,15 +13,15 @@ design:
 
 :moneybag:**{{< hl >}}[New!]{{< /hl >}}** Xiaofan was awarded $12,000 [The ACRP (Airport Cooperative Research Program) Graduate Research Award](https://vsgc.odu.edu/acrpgraduateresearchawards/) for the project _Toward an Inclusive Aerotropolis: Critical Connectivity Analysis around Atlanta Airport_, in collaboration with Prof. Perry Yang and Aerotropolis Atlanta. (Aug 1st, 2022)
 
-:airplane:**{{< hl >}}[New!]{{< /hl >}}** Xiaofan was supported by Friendly Cities Lab to be a visiting scholar at Urban Analytics Lab (National University of Singapore) this summer 2022. She will continue to collaborate with Prof. Clio Andris and Prof. Filip Bijieck on a project of assessing social infrastructure POIs on a global scale using OpenStreetMap data (May 2022 - now).
+:airplane:**{{< hl >}}[New!]{{< /hl >}}** Xiaofan was supported by Friendly Cities Lab to be a visiting scholar at Urban Analytics Lab (National University of Singapore) this summer 2022. She will continue to collaborate with Prof. Clio Andris and Prof. Filip Bijieck on a project of assessing social infrastructure POIs on a global scale using OpenStreetMap data (May - July 2022).
 
 :raised_hands:**{{< hl >}}[New!]{{< /hl >}}** Xiaofan is a member of the organizing team of the 3rd workshop of [Data-driven Humanitarian Mapping: Harnessing Human-Machine Intelligence for High-Stake Public Policy and Resilience Planning](https://kdd-humanitarian-mapping.herokuapp.com/). The workshop is part of ACM KDD Conference on Knowledge Discovery and Data Mining Hybrid Conference on Aug 15, 2022. Download Workshop proceeding [PDF](https://dl.acm.org/doi/10.1145/3534678.3542918). 
 
 :page_facing_up:**{{< hl >}}[New!]{{< /hl >}}** Xiaofan's new paper with collaborators titled [Characteristics of Jetters and Little Boxes: An Extensibility Study Using the Neighborhood Connectivity Survey (PDF)](https://www.cogitatiopress.com/socialinclusion/article/view/5366) is published in Social Inclusion's special issue "on the interplay of space, places, and social networks". (July, 2022). This work was presented at North American Regional Science Conference (NARSC) in Nov, 2020. 
 
-:books: Xiaofan has passed her doctoral comprehensive exam! The major exam is on _Human-centered Approaches to Urban Analytics_ and minor exam is on _Digital Civics_ ! 
+:books: Xiaofan has passed her doctoral comprehensive exam! The major exam is on _Human-centered Approaches to Urban Analytics_ and minor exam is on _Digital Civics_! (May 2022) 
 
-:speaker: Xiaofan's abstract _Capturing the Social Impact of Demolishing a Historic Street for a New Subway Station: Evidence from a Participatory GIS Survey in Guangzhou, China_ is accepted to ACSP 2022 conference. She will present in Toronto this Nov! 
+:speaker: Xiaofan's abstract _Capturing the Social Impact of Demolishing a Historic Street for a New Subway Station: Evidence from a Participatory GIS Survey in Guangzhou, China_ is accepted to ACSP 2022 conference. She will present in Toronto this Nov! (May, 2022)
 
 :raised_hands: Xiaofan led sessions at 2022 Annual Conference of American Geographers (AAG)! She not only presented her work _Spatial Social Network (SSN) Hot Spot Detection: Scan Methods for Non-Planar Networks_, but also the session chair at the session: _Advancing Spatial and Social Networks in GIS_ and the co-organizer at session: _Perspectives and Tensions in Urban Redevelopment_. (Feb, 2022). 
 
