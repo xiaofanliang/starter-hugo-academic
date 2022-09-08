@@ -69,3 +69,5 @@ related:
       weight: 70
 security:
   _merge: deep
+include:
+  - _redirects
