@@ -4,8 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Xiaofan Liang # Website name
-baseurl: 'https://xiaofanliang.com/' # Website URL
-copyright: '' # Footer text, e.g. '© {2022} Xiaofan Liang'
+baseURL: 'https://xiaofanliang.com/' # Website URL
 
 ############################
 ## LANGUAGE
@@ -24,6 +23,7 @@ module:
   imports:
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify
+    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-reveal
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5
 
 ############################
@@ -68,6 +68,10 @@ related:
     - name: categories
       weight: 70
 security:
+  _merge: deep
+sitemap:
+  _merge: deep
+minify:
   _merge: deep
 include:
   - _redirects
