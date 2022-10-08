@@ -79,9 +79,9 @@ Make content appear incrementally
 
 Press `Space` to play!
 
-{{% fragment %}} One {{% /fragment %}}
+<!-- {{% fragment %}} One {{% /fragment %}}
 {{% fragment %}} **Two** {{% /fragment %}}
-{{% fragment %}} Three {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}} -->
 
 ---
 
