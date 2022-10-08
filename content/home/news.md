@@ -25,7 +25,7 @@ design:
 
 :books: I has passed my doctoral comprehensive exam! The major exam is on _Human-centered Approaches to Urban Analytics_ and minor exam is on _Digital Civics_! (May 2022) 
 
-:speaker: My abstract _Capturing the Social Impact of Demolishing a Historic Street for a New Subway Station: Evidence from a Participatory GIS Survey in Guangzhou, China_ is accepted to ACSP 2022 conference. She will present in Toronto this Nov! (May, 2022)
+:speaker: My abstract _Capturing the Social Impact of Demolishing a Historic Street for a New Subway Station: Evidence from a Participatory GIS Survey in Guangzhou, China_ is accepted to ACSP 2022 conference. I will present in Toronto this Nov! (May, 2022)
 
 :raised_hands: I led sessions at 2022 Annual Conference of American Geographers (AAG)! I not only presented my work _Spatial Social Network (SSN) Hot Spot Detection: Scan Methods for Non-Planar Networks_, but also become the session chair at the session: _Advancing Spatial and Social Networks in GIS_ and the co-organizer at session: _Perspectives and Tensions in Urban Redevelopment_. (Feb, 2022). 
 
