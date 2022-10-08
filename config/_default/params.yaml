@@ -9,7 +9,7 @@ appearance:
   theme_day: minimal
   theme_night: minimal
   font: minimal
-  font_size: L
+  font_size: M
 
 # SEO
 
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Xiaofan Liang. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -104,6 +104,9 @@ extensions:
   cms:
     branch: main
     local_backend: false
+  isotope:
+  # Enable if you use the Portfolio widget or Publication filter
+    enable: true
   academicons:
     enable: true
 
