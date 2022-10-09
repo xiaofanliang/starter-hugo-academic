@@ -17,7 +17,7 @@ design:
 
 :moneybag: **{{< hl >}}[New!]{{< /hl >}}** I was awarded $12,000 [The ACRP (Airport Cooperative Research Program) Graduate Research Award](https://vsgc.odu.edu/acrpgraduateresearchawards/) for the project _Toward an Inclusive Aerotropolis: Critical Connectivity Analysis around Atlanta Airport_, in collaboration with Prof. Perry Yang and Aerotropolis Atlanta. (Aug 1st, 2022)
 
-:airplane: **{{< hl >}}[New!]{{< /hl >}}** I was supported by Friendly Cities Lab to be a visiting scholar at Urban Analytics Lab (National University of Singapore) this summer 2022. I will continue to collaborate with Prof. Clio Andris and Prof. Filip Bijieck on a project of assessing social infrastructure POIs on a global scale using OpenStreetMap data (May - July 2022).
+:airplane: **{{< hl >}}[New!]{{< /hl >}}** I was supported by Friendly Cities Lab to be a visiting scholar at Urban Analytics Lab (National University of Singapore) this summer 2022. I will continue to collaborate with Prof. Clio Andris and Prof. Filip Biljecki on a project of assessing social infrastructure POIs on a global scale using OpenStreetMap data (May - July 2022).
 
 :raised_hands: I was a member of the organizing team of the 3rd workshop of [Data-driven Humanitarian Mapping: Harnessing Human-Machine Intelligence for High-Stake Public Policy and Resilience Planning](https://kdd-humanitarian-mapping.herokuapp.com/). The workshop was part of ACM KDD Conference on Knowledge Discovery and Data Mining Hybrid Conference on Aug 15, 2022. Download Workshop proceeding [PDF](https://dl.acm.org/doi/10.1145/3534678.3542918). 
 
