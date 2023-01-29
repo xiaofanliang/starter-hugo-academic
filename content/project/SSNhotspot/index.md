@@ -24,7 +24,7 @@ image:
 #slides: example
 ---
 
-(In Progress)
+(In Review, Leading author)
 
 This work is developed with Dr. Clio Andris, Joshua Baker, and Dr. Daniel Della Posta. 
 

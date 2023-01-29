@@ -14,7 +14,7 @@ image:
 
 links:
 - name: Interactive Explorer 
-  url: "https://github.gatech.edu/pages/vvangala3/PlaceSocialDiversityExplorer/"
+  url: "https://ujhwang.github.io/place-social-diversity-explorer/#"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
