@@ -41,8 +41,12 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-- name: Poster
-  url: 'project/chainness/PosterAAG.png'
+- name: Interactive Map
+  url: 'https://friendlycities-gatech.github.io/chainness/'
+
+links:
+- name: Data
+  url: 'https://github.com/friendlycities-gatech/chainness'
 
 url_pdf: ''
 url_code: ''
