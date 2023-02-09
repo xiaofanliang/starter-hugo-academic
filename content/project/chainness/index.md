@@ -13,14 +13,14 @@ image:
   focal_point: Smart
 
 links:
-- name: MapLab
-  url: https://www.bloomberg.com/news/newsletters/2021-06-16/maplab-how-many-chain-restaurants-are-in-your-city
+- name: Washington Post
+  url: https://www.washingtonpost.com/business/2022/09/29/chain-restaurant-capitals/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWJpZCI6IjMxMTY0NDc1IiwicmVhc29uIjoiZ2lmdCIsIm5iZiI6MTY2NDUzNjIzMCwiaXNzIjoic3Vic2NyaXB0aW9ucyIsImV4cCI6MTY2NTc0NTgzMCwiaWF0IjoxNjY0NTM2MjMwLCJqdGkiOiJmZjlmZDI4Zi1lYjRmLTRmZGEtODY1NS0xNzlkNmZmYzlmYzkiLCJ1cmwiOiJodHRwczovL3d3dy53YXNoaW5ndG9ucG9zdC5jb20vYnVzaW5lc3MvMjAyMi8wOS8yOS9jaGFpbi1yZXN0YXVyYW50LWNhcGl0YWxzLyJ9._tx8XDmZWM4JI-p6dUyVioU7T6imoddZPJowNCS8ryE
 - name: Interactive Map
-  url: https://friendlycities.gatech.edu/data-interactive/
+  url: https://friendlycities-gatech.github.io/chainness/
 - name: PDF 
   url: https://www.dropbox.com/s/ajlduy88l8oqc5i/ChainRestaurants.pdf?dl=0
-- name: Poster
-  url: "project/chainness/PosterAAG.png"
+- name: Data
+  url: https://github.com/friendlycities-gatech/chainness
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

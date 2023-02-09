@@ -14,6 +14,10 @@ image:
   caption: Miaoqianzhi 'jie'
   focal_point: Smart
 
+links:
+- name: Presentation 
+  url: "project/miaoqianzhijie/ACSP2022_XiaofanLiang.pdf"
+
 # links:
 # - name: Presentation 
 #   url: "https://www.youtube.com/watch?v=SDM_Xb2YBvk&feature=youtu.be&t=10501&ab_channel=IEEEVisualizationConference"

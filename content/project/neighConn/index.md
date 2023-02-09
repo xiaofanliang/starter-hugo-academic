@@ -12,11 +12,9 @@ image:
   caption: Connectivity Types
   focal_point: Smart
 
-# links:
-# - name: PDF 
-#   url: "publication/review/review.pdf"
-# - name: Slides
-#   url: "project/review/CUPUM_Xiaofan.pdf"
+links:
+- name: PDF 
+  url: "publication/ncs/ncs.pdf"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

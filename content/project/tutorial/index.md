@@ -16,6 +16,10 @@ links:
 - name: Presentation 
   url: "https://www.youtube.com/watch?v=SDM_Xb2YBvk&feature=youtu.be&t=10501&ab_channel=IEEEVisualizationConference"
 
+links:
+- name: Tutorial 
+  url: "https://friendlycities-gatech.github.io/SSN_tutorial/advanced-ssn-metrics.html#ssn-hot-spot-detection"
+
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
