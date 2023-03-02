@@ -10,7 +10,7 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
 ---
-:raised_hands: **{{< hl >}}[New!]{{< /hl >}}** My lab [Friendly Cities Lab](https://friendlycities.gatech.edu/) is organizing a spatial social network workshop in Atlanta from May 18 to May 19! I will proudly present the R package and R tutorial I developed on SSN metrics and visualization in R. Travel support is available. Apply [here](https://sites.gatech.edu/snoman/2023-ssn-workshop/).
+:raised_hands: **{{< hl >}}[New!]{{< /hl >}}** My lab [Friendly Cities Lab](https://friendlycities.gatech.edu/) is organizing a spatial social network workshop in Atlanta from May 18 to May 19! I will proudly present the [R package](https://github.com/friendlycities-gatech/SSNtools) and [R tutorial](https://friendlycities-gatech.github.io/SSN_tutorial/) I developed on SSN metrics and visualization in R. Travel support is available. Apply [here](https://sites.gatech.edu/snoman/2023-ssn-workshop/).
 
 :raised_hands: **{{< hl >}}[New!]{{< /hl >}}** I am proud to support my lab's first [Atlanta Environment Data + Mapping Hackathon](https://friendlycities.gatech.edu/hack/) (Feb 18th, 2023)! 
 
