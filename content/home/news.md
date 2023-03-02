@@ -32,7 +32,7 @@ design:
 
 :raised_hands: I was a member of the organizing team of the 3rd workshop of [Data-driven Humanitarian Mapping: Harnessing Human-Machine Intelligence for High-Stake Public Policy and Resilience Planning](https://kdd-humanitarian-mapping.herokuapp.com/). The workshop was part of ACM KDD Conference on Knowledge Discovery and Data Mining Hybrid Conference on Aug 15, 2022. Download Workshop proceeding [PDF](https://dl.acm.org/doi/10.1145/3534678.3542918). 
 
-<!-- :page_facing_up: My new paper with collaborators titled [Characteristics of Jetters and Little Boxes: An Extensibility Study Using the Neighborhood Connectivity Survey (PDF)](https://www.cogitatiopress.com/socialinclusion/article/view/5366) is published in Social Inclusion's special issue "on the interplay of space, places, and social networks". (July, 2022). This work was presented at North American Regional Science Conference (NARSC) in Nov, 2020.  -->
+:page_facing_up: My new paper with collaborators titled [Characteristics of Jetters and Little Boxes: An Extensibility Study Using the Neighborhood Connectivity Survey (PDF)](https://www.cogitatiopress.com/socialinclusion/article/view/5366) is published in Social Inclusion's special issue "on the interplay of space, places, and social networks". (July, 2022). This work was presented at North American Regional Science Conference (NARSC) in Nov, 2020. 
 
 <!-- :books: I has passed my doctoral comprehensive exam! The major exam is on _Human-centered Approaches to Urban Analytics_ and minor exam is on _Digital Civics_! (May 2022)  -->
 
