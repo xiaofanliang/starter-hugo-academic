@@ -10,14 +10,18 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
 ---
-:raised_hands: **{{< hl >}}[New!]{{< /hl >}}** My lab [Friendly Cities Lab](https://friendlycities.gatech.edu/) is organizing a spatial social network workshop in Atlanta from May 18 to May 19! I will proudly present the [R package](https://github.com/friendlycities-gatech/SSNtools) and [R tutorial](https://friendlycities-gatech.github.io/SSN_tutorial/) I developed on SSN metrics and visualization in R. Travel support is available. Apply [here](https://sites.gatech.edu/snoman/2023-ssn-workshop/).
+:raised_hands: **{{< hl >}}[New!]{{< /hl >}}** My lab [Friendly Cities Lab](https://friendlycities.gatech.edu/) is organizing a spatial social network workshop in Atlanta from May 18 to May 19! I will proudly present the [R package](https://github.com/friendlycities-gatech/SSNtools) and [R tutorial](https://friendlycities-gatech.github.io/SSN_tutorial/) I developed on SSN metrics and visualization in R. See workshop details [here](https://sites.gatech.edu/snoman/2023-ssn-workshop/).
 
-:moneybag: **{{< hl >}}[New!]{{< /hl >}}** I was awarded the 2023 ACSP Diversity and Inclusion Fellowship ($800) to support the writing and publication of my dissertation project [Capturing the Social Impact of Demolishing a Historic Street for a New Subway Station: Evidence from a Participatory GIS Survey in Guangzhou, China](https://www.xiaofanliang.com/project/miaoqianzhijie/)(March 30th, 2023)! 
+:raised_hands: **{{< hl >}}[New!]{{< /hl >}}** I would be a panel speaker at the event [Geography According to ChatGPT](https://www.airmeet.com/e/c4516530-ce69-11ed-a388-d572e3feeb08?preview=true). Register for the event [here] (May 4th, 2023).
+
+:page_facing_up: My new paper with collaborators titled [Is your neighbor your friend? Scan methods for spatial social network hotspot detection](https://onlinelibrary.wiley.com/doi/10.1111/tgis.13050) is published in *Transactions in GIS* for early view! You can replicate the methods in this paper through SSNtools [R package](https://github.com/friendlycities-gatech/SSNtools) and [R tutorial](https://friendlycities-gatech.github.io/SSN_tutorial/advanced-ssn-metrics.html#ssn-hotspots-detection) (more in-progress) (April 26th, 2023). 
+
+:moneybag: **{{< hl >}}[New!]{{< /hl >}}** I was awarded the 2023 ACSP Diversity and Inclusion Fellowship ($800) to support the writing and publication of my dissertation project [Capturing the Social Impact of Demolishing a Historic Street for a New Subway Station: Evidence from a Participatory GIS Survey in Guangzhou, China](https://www.xiaofanliang.com/project/miaoqianzhijie/) (March 30th, 2023)! 
 
 :speaker: **{{< hl >}}[New!]{{< /hl >}}** I organized the **Participatory AI** session at AAG 2023 with Prof. Renee Sieber, Prof. Xinyue Ye, and PhD Jiaxin Du. The session explored how AI can support or even transform traditional participatory practices, which includes public consultation, decision support, stakeholder engagement, and up to citizen control.
 I presented my research of [human-in-the-loop machine learning](https://www.xiaofanliang.com/project/savannah/) (March 26th, 2023)! 
 
-:raised_hands: **{{< hl >}}[New!]{{< /hl >}}** I am proud to support my lab's first [Atlanta Environment Data + Mapping Hackathon](https://friendlycities.gatech.edu/hack/) (Feb 18th, 2023)! 
+:raised_hands: I am proud to support my lab's first [Atlanta Environment Data + Mapping Hackathon](https://friendlycities.gatech.edu/hack/) (Feb 18th, 2023)! 
 
 :speaker: I gave a guest lecture titled "Spatial Social Networks Application in PPGIS" at University of Waterloo "GEOG-609 GIS and Spatial Decision Support for Planning and Resource Management" (Feb 14th, 2023). 
 
@@ -35,7 +39,7 @@ I presented my research of [human-in-the-loop machine learning](https://www.xiao
 
 :airplane: I was a visiting scholar at Urban Analytics Lab (National University of Singapore) this summer 2022 (May - July 2022).
 
-:raised_hands: I was a member of the organizing team of the 3rd workshop of [Data-driven Humanitarian Mapping: Harnessing Human-Machine Intelligence for High-Stake Public Policy and Resilience Planning](https://kdd-humanitarian-mapping.herokuapp.com/). The workshop was part of ACM KDD Conference on Knowledge Discovery and Data Mining Hybrid Conference on Aug 15, 2022. Download Workshop proceeding [PDF](https://dl.acm.org/doi/10.1145/3534678.3542918). 
+<!-- :raised_hands: I was a member of the organizing team of the 3rd workshop of [Data-driven Humanitarian Mapping: Harnessing Human-Machine Intelligence for High-Stake Public Policy and Resilience Planning](https://kdd-humanitarian-mapping.herokuapp.com/). The workshop was part of ACM KDD Conference on Knowledge Discovery and Data Mining Hybrid Conference on Aug 15, 2022. Download Workshop proceeding [PDF](https://dl.acm.org/doi/10.1145/3534678.3542918).  -->
 
 <!-- :page_facing_up: My new paper with collaborators titled [Characteristics of Jetters and Little Boxes: An Extensibility Study Using the Neighborhood Connectivity Survey (PDF)](https://www.cogitatiopress.com/socialinclusion/article/view/5366) is published in Social Inclusion's special issue "on the interplay of space, places, and social networks". (July, 2022). This work was presented at North American Regional Science Conference (NARSC) in Nov, 2020.  -->
 
