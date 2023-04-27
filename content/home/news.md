@@ -12,7 +12,7 @@ design:
 ---
 :raised_hands: **{{< hl >}}[New!]{{< /hl >}}** My lab [Friendly Cities Lab](https://friendlycities.gatech.edu/) is organizing a spatial social network workshop in Atlanta from May 18 to May 19! I will proudly present the [R package](https://github.com/friendlycities-gatech/SSNtools) and [R tutorial](https://friendlycities-gatech.github.io/SSN_tutorial/) I developed on SSN metrics and visualization in R. See workshop details [here](https://sites.gatech.edu/snoman/2023-ssn-workshop/). Check out our [SNOMAN (Social Network Mapping Nexus)](https://sites.gatech.edu/snoman/) website for more on-going work and SSN paper collection!
 
-:speaker: **{{< hl >}}[New!]{{< /hl >}}** I will be a panel speaker at the event [Geography According to ChatGPT](https://www.airmeet.com/e/c4516530-ce69-11ed-a388-d572e3feeb08?preview=true). Register the event [here](https://www.airmeet.com/e/c4516530-ce69-11ed-a388-d572e3feeb08?preview=true), sharing my exploration of ChatGPT's performance at spatial social network reasoning and visualization (May 4th, 2023).
+:speaker: **{{< hl >}}[New!]{{< /hl >}}** I will be a panel speaker at the event [Geography According to ChatGPT](https://www.airmeet.com/e/c4516530-ce69-11ed-a388-d572e3feeb08?preview=true). Register the event [here](https://www.airmeet.com/e/c4516530-ce69-11ed-a388-d572e3feeb08?preview=true). I will share my exploration of ChatGPT's performance at spatial social network reasoning and visualization (May 4th, 2023).
 
 :trophy: **{{< hl >}}[New!]{{< /hl >}}** I was awarded the Professional Excellence Award by Georgia Tech School of City and Regional Planning! (April 26th, 2023)
 
