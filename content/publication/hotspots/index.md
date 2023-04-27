@@ -1,5 +1,5 @@
 ---
-title: "Measuring McCities: Landscapes of chain and independent restaurants in the United States"
+title: "Is Your Neighbor Your Friend? Scan Methods for Spatial Social Network (SSN) Hotspot Detection"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
