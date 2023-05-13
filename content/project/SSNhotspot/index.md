@@ -12,13 +12,14 @@ image:
   caption: The result of EdgeScan using a 1km euclidean distance moving window
   focal_point: Smart
 
-links:
-- name: R package 
-  url: "https://github.com/friendlycities-gatech/SSNtools"
 
 links:
 - name: Tutorial 
   url: "https://friendlycities-gatech.github.io/SSN_tutorial/advanced-ssn-metrics.html#ssn-hot-spot-detection"
+- name: R package 
+  url: "https://github.com/friendlycities-gatech/SSNtools"
+- name: PDF 
+  url: "publication/hotspots/SSNHotspots.pdf"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
