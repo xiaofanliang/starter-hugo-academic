@@ -48,8 +48,6 @@ links:
   url: 'https://friendlycities-gatech.github.io/SSN_tutorial/advanced-ssn-metrics.html#ssn-hotspots-detection'
 - name: R package
   url: 'https://github.com/friendlycities-gatech/SSNtools'
-- name: PDF 
-  url: "publication/hotspots/SSNHotspots.pdf"
 
 url_pdf: ''
 url_code: ''
