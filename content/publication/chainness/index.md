@@ -41,12 +41,10 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-- name: Interactive Map
-  url: 'https://friendlycities-gatech.github.io/chainness/'
-
-links:
 - name: Data
   url: 'https://github.com/friendlycities-gatech/chainness'
+- name: Interactive Map
+  url: 'https://friendlycities-gatech.github.io/chainness/'
 
 url_pdf: ''
 url_code: ''
