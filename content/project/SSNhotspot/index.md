@@ -28,8 +28,6 @@ links:
 #slides: example
 ---
 
-(In Review, Leading author)
-
 This work is developed with Dr. Clio Andris, Joshua Baker, and Dr. Daniel Della Posta. 
 
 **Abstract** 
@@ -38,5 +36,5 @@ In GIS, we use moving window and hot spot detection to analyze point patterns wi
 
 Here, we share two GIS methods, EdgeScan and NDScan, for capturing areas with high and low levels of local social connections. Both methods are moving window processes that count the number of edges and network density, respectively, for each node in a given focal area (window area). We implement these methods on a case study of 1960s connections between members of the Mafia in New York City with various definitions of a focal neighborhood (e.g., Euclidean, K Nearest Neighbor etc.). These methods successfully capture focal areas where Mafia members are highly connected, yet differ from traditional spatial hot spots derived through point patterns. 
 
-To make our methods publicly available, we published the EdgeScan and NDScan algorithms in an [R package](https://github.com/friendlycities-gatech/SSNtools) and provided examples to replicate such analyses to other studies in a bookdown [tutorial](https://friendlycities-gatech.github.io/SSN_tutorial/advanced-ssn-metrics.html#ssn-hot-spot-detection).  
+To make our methods publicly available, we published the EdgeScan and NDScan algorithms in the `SSNtools` [R package](https://github.com/friendlycities-gatech/SSNtools) and provided examples to replicate such analyses to other studies in a bookdown [tutorial](https://friendlycities-gatech.github.io/SSN_tutorial/advanced-ssn-metrics.html#ssn-hot-spot-detection).  
 

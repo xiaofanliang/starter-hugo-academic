@@ -1,6 +1,6 @@
 ---
-title: "Untangling population and connectivity in city outcome"
-summary: We know cities scale with populaton in a systematic fashion, but how much of (and what kinds of) the city outcomes (e.g., GDP, innovation) can be explained by population and how much can be explained by inter-city connectivity? 
+title: "Intercity Connectivity Accelerates Innovation"
+summary: Given the same levels of GDP, education, and population, do cities outperform at intercity connectivity also outperform at innovation? 
 tags:
 - Spatial Social Networks
 date: "2021-12-02"
@@ -9,7 +9,7 @@ date: "2021-12-02"
 external_link: ""
 
 image:
-  caption: how a city’s total GDP, employment, and patents, scale with population and with these three networks
+  caption: Three intercity networks at China
   focal_point: Smart
 
 # links:
