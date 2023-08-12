@@ -1,5 +1,5 @@
 ---
-title: "Toward an Inclusive Aerotropolis: contest network infrastructure duality for airport-adjacent residents around Hartsfield-Jackson Atlanta Airport"
+title: "Transforming Mobility Barriers to Connectivity: Examining the Impact of the AeroATL Greenway Plan in Reconnecting Communities Around Aerotropolis Atlanta"
 summary: Airport as a regional transportation hub is a large, restricted land use that inhibits local mobility flows. With the newly proposed AeroATL Greenway Plan, how can planners engage citizens to evaluate and assess benefits of this trail network infrastructure for the nearby residents? 
 tags:
 - Urban Analytics
@@ -7,15 +7,18 @@ tags:
 date: "2021-12-06"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://github.com/xiaofanliang/AeroATLGreenway"
 
 image:
-  caption: Contrasting role of the ATL airport at facilitating regional flows yet inhibiting local flows. Airport is often constituted of giant land use, hostile environment for pedestrian and public transit, and serve as an infrastructure sink. 
+  caption: An image of the AeroATL Greenway Plan web tool that shows the study area, parcel-level land uses, and parts of the Greenway Plan (teal lines) used in scenario modeling computation (including existing bike paths, Model Miles, and Priority Network). 
   focal_point: Smart
 
-# links:
-# - name: Presentation 
-#   url: "https://www.youtube.com/watch?v=SDM_Xb2YBvk&feature=youtu.be&t=10501&ab_channel=IEEEVisualizationConference"
+links:
+- name: Interactive Web Tool 
+  url: https://xiaofanliang.github.io/AeroATLGreenway/
+
+- name: Draft Manuscript
+  url: https://github.com/xiaofanliang/AeroATLGreenway/blob/main/Manuscript_XiaofanLiang_06222023.pdf
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -27,19 +30,17 @@ image:
 
 (In Progress, Leading author)
 
-This work is developed with Dr. Perry Yang and curated through Aerotropolis design studio in 2020 and 2021. This project is funded by The ACRP (Airport Cooperative Research Program) Graduate Research Award 2022. 
+This work is developed with Dr. Perry Yang and curated through Aerotropolis design studio in 2020 and 2021. This project is funded by The ACRP (Airport Cooperative Research Program) Graduate Research Award 2022, and supported by Aerotropolis Atlanta. 
 
-**Introduction**
+**Abstract**
 
-Airports are key stakeholders in global networks. They help regions improve global competitiveness and drive local economy. However, at the micro level, an airport is a large and restricted land use that is difficult for the nearby residents to move around and an ‘infrastructure sink’ that congregates resources to serve aviation and related industries alone without considering the needs of the adjacent communities.
- 
-Hartsfield-Jackson Atlanta International Airport (ATL Airport) presents a great context that embodies the conflicting connectivity discourses on a regional versus local scale. For example, ATL Airport is the world’s busiest airport by passenger traffic until 2019, yet only 20% of its workers live by the airport. The disconnected communities nearby the airport are also well below the median income level and host a large African American population. In 2014, Aerotropolis Atlanta Alliance, a nonprofit public-private partnership organization, is established to bring communities together around the airport to collaboratively leverage the airport leadership and development for the welfare of nearby residents. In 2017, Aerotropolis Atlanta Alliance (together with ATL Airport Community Improvement Districts) proposed a AeroATL Greenway Trail plan to improve trail connectivity in the Aerotropolis region and the plan is further funded in 2020. This trail connectivity infrastructure has the potential to alleviate the car-centric traffic around the airport, provide a walkable public space, and connect residents and job locations around the airport. 
- 
-Under such context, we propose to study ATL airport as a case study to critically examine the current connectivity scheme in the area as well as the impact of the AeroATL Greenway Trail plan on airport-adjacent residents. We ask two research questions: 1) is airport an barrier to nearby residents' mobility and if so, how to quantify the barrier effect, and 2) what tools we can develop to help planners and airport stakeholders to evaluate the impacts of the AeroATL Greenway plan to Aerotropolis residents and engage them to identify critical challenges and solutions. We will work with Aerotropolis Atlanta Alliance as partners to set our goals, engage with stakeholders, and validate our model and results.
- 
-To answer the first question, we will conduct a mobility analysis. Our data come from the Atlanta Regional Commission’s activity-based model (the state-of-the-art regional travel demand model)’s predicted trips. By comparing the direction, diversity, travel mode, and trip purposes of the predicted trips related to the airport and neighborhoods in Aerotropolis region, we expect to see different connectivity profiles between the airport and neighborhoods.
- 
-To answer the second question, we plan to build an agent-based model in the GAMA software to simulate the multimodal traffic flow (car, public transit, bike/walk) around the airport with and without the promised Greenway trails. We will measure how the built scenario (with the trail) in the model may lower car travel, expand access to livable wage jobs, and improve walkability in the surrounding neighborhoods. We will also host a participatory modeling workshop with Aerotropolis Atlanta to engage community collective members to identify challenges and solutions. 
+Airports are critical connectivity infrastructure that supports regional mobility flows and elevates cities’ positions in an interconnected global network. Yet, airports can also be mobility barriers that incentivize car-centric developments, preventing locals from getting to non-airport destinations. Using Hartsfield-Jackson Atlanta International Airport (H-JAIA) and AeroATL Greenway (the Greenway), a newly proposed trail plan in Atlanta Aerotropolis region, as a comparative case study, we quantified H-JAIA’s barrier effect on Aerotropolis residents’ biking and walking trips and evaluated the effect of the Greenway on improving residents’ biking and walking trips distance and experience. Our results show evidence that H-JAIA and its surrounding environment impede local mobility flows. The Greenway has stronger impact at improving trip experience than reducing distance, yet the specific effect varies by segments and implementation scenarios. These results are further validated on the route level with community stakeholders as they interact with a Greenway web tool we developed in a participatory modeling workshop. Insights are consolidated into community trust and commitment to further the Greenway implementation. 
 
-We believe our research will contribute to an inclusive Aerotropolis future in Atlanta and create lessons for airport stakeholders elsewhere.
+**Keywords: Airport; Aerotropolis; Mobility; Greenway; Participatory Modeling**
+
+[Link to Interactive AeroATL Greenway Planning Tool](https://xiaofanliang.github.io/AeroATLGreenway/)
+
+[Link to Draft Manuscript](https://github.com/xiaofanliang/AeroATLGreenway/blob/main/Manuscript_XiaofanLiang_06222023.pdf)
+
+[Link to Project Details, Web Tool Implementation, and Data](https://github.com/xiaofanliang/AeroATLGreenway)
 
