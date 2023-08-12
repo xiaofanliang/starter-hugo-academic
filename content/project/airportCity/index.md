@@ -7,7 +7,7 @@ tags:
 date: "2021-12-06"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/xiaofanliang/AeroATLGreenway"
+# external_link: "https://github.com/xiaofanliang/AeroATLGreenway"
 
 image:
   caption: An image of the AeroATL Greenway Plan web tool that shows the study area, parcel-level land uses, and parts of the Greenway Plan (teal lines) used in scenario modeling computation (including existing bike paths, Model Miles, and Priority Network). 
