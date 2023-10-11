@@ -11,7 +11,7 @@ design:
   columns: '1'
 ---
 
-:page_facing_up: My new paper with collaborators titled [Impacts of COVID-19 on Biodiversity Conservation and Community Networks at Kibale National Park, Uganda](https://www.tandfonline.com/doi/full/10.1080/00330124.2023.2250416) is published in *The Professional Geographers* for early view! In the paper, I mapped how COVID-19 affects the research field station employees' economic networks (September 28th, 2023). 
+:page_facing_up: **{{< hl >}}[New!]{{< /hl >}}** My new paper with collaborators titled [Impacts of COVID-19 on Biodiversity Conservation and Community Networks at Kibale National Park, Uganda](https://www.tandfonline.com/doi/full/10.1080/00330124.2023.2250416) is published in *The Professional Geographers* for early view! In the paper, I mapped how COVID-19 affects the research field station employees' economic networks (September 28th, 2023). 
 
 :moneybag: **{{< hl >}}[New!]{{< /hl >}}** I was awarded the [2023 ACSP Student Travel Award](https://www.acsp.org/news/647592/ACSP-Announces-2023-Student-Paper-Award-Winners.htm)! Looking forward to friends and colleagues at Chicago in October! (Sept, 2023)
 
