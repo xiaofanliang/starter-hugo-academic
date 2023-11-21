@@ -11,6 +11,8 @@ design:
   columns: '1'
 ---
 
+:books: **{{< hl >}}[New!]{{< /hl >}}** I will be defending my PhD dissertation _Connectivity for whom and at what cost: Contesting network infrastructure duality in urban planning_ on Dec. 6th 10am-12pm ET timezone. The defense is open to the public and feel free to join online via https://gatech.zoom.us/my/xiaofanliang (September 28th, 2023). 
+
 :page_facing_up: **{{< hl >}}[New!]{{< /hl >}}** My new paper with collaborators titled [Impacts of COVID-19 on Biodiversity Conservation and Community Networks at Kibale National Park, Uganda](https://www.tandfonline.com/doi/full/10.1080/00330124.2023.2250416) is published in *The Professional Geographers* for early view! In the paper, I mapped how COVID-19 affects the research field station employees' economic networks (September 28th, 2023). 
 
 :moneybag: **{{< hl >}}[New!]{{< /hl >}}** I was awarded the [2023 ACSP Student Travel Award](https://www.acsp.org/news/647592/ACSP-Announces-2023-Student-Paper-Award-Winners.htm)! Looking forward to friends and colleagues at Chicago in October! (Sept, 2023)
