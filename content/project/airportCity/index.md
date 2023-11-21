@@ -4,7 +4,7 @@ summary: Airport as a regional transportation hub is a large, restricted land us
 tags:
 - Urban Analytics
 - Spatial Social Networks
-date: "2021-12-06"
+date: "2023-11-21"
 
 # Optional external URL for project (replaces project detail page).
 # external_link: "https://github.com/xiaofanliang/AeroATLGreenway"

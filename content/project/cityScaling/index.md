@@ -3,7 +3,7 @@ title: "Intercity Connectivity Accelerates Innovation"
 summary: Given the same levels of GDP, education, and population, do cities outperform at intercity connectivity also outperform at innovation? 
 tags:
 - Spatial Social Networks
-date: "2021-12-02"
+date: "2023-11-20"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

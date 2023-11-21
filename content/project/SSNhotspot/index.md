@@ -3,7 +3,7 @@ title: "Is Your Neighbor Your Friend? Scan Methods for Spatial Social Network (S
 summary: How do you find clusters of incidents/individuals that are not only geographically close to each other, but also have dense local social connections? 
 tags:
 - Spatial Social Networks
-date: "2021-12-09"
+date: "2023-11-18"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

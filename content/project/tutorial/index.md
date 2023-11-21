@@ -3,7 +3,7 @@ title: "A R Online Tutorial for Visualizing Spatial Social Networks"
 summary: Designed for social scientists, geographers, and planners to visualize spatial social networks in R. The tutorial comes with a R package that embed advanced functions and sample datasets. 
 tags:
 - Spatial Social Networks
-date: "2021-12-08"
+date: "2023-11-18"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

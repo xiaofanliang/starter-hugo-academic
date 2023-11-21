@@ -4,7 +4,7 @@ summary: What are the main factors that are predictive of blighted properties in
 tags:
 - Digital Civics and Critical Data
 - Urban Analytics
-date: "2021-12-04"
+date: "2023-11-20"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

@@ -5,7 +5,7 @@ tags:
 - Digital Civics and Critical Data
 - Urban Analytics
 - Spatial Social Networks
-date: "2021-12-07"
+date: "2023-11-21"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
