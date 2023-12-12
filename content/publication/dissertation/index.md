@@ -16,7 +16,7 @@ date: "2023-12-06T00:00:00Z"
 publication_types: ["7"]
 
 # Publication name and optional abbreviated publication name.
-#publication: "Environment and Planning B: Urban Analytics and City Science, 49(2), 585-602"
+publication: "PhD Thesis at Georgia Institute of Technology"
 #publication_short: In *EPB*
 
 # Summary. An optional shortened abstract.

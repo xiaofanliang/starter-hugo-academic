@@ -13,7 +13,7 @@ design:
 
 :speaker: **{{< hl >}}[New!]{{< /hl >}}** I will be hiring two UMich undergraduate/graduate student research assistant for Winter 2024. Stay tuned for announcement here or through school emails (Dec. 15). 
 
-:books: **{{< hl >}}[New!]{{< /hl >}}** I successfully defended my PhD dissertation [_Connectivity for whom and at what cost: Contesting network infrastructure duality in urban planning_](https://drive.google.com/file/d/13Sw_MrCVd8wByFGI1lXgDVwhEQ3XqN_N/view?usp=sharing) (Dec. 6th).
+:books: **{{< hl >}}[New!]{{< /hl >}}** I successfully defended my PhD dissertation [Connectivity for Whom and at What Cost: Contesting Network Infrastructure Duality in Urban Planning_](https://drive.google.com/file/d/13Sw_MrCVd8wByFGI1lXgDVwhEQ3XqN_N/view?usp=sharing) (Dec. 6th).
 
 :page_facing_up: **{{< hl >}}[New!]{{< /hl >}}** My new paper with collaborators titled [Impacts of COVID-19 on Biodiversity Conservation and Community Networks at Kibale National Park, Uganda](https://www.tandfonline.com/doi/full/10.1080/00330124.2023.2250416) is published in *The Professional Geographers* for early view! In the paper, I mapped how COVID-19 affects the research field station employees' economic networks (September 28th, 2023). 
 
