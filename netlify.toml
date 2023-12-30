@@ -19,3 +19,11 @@
   package = "netlify-plugin-hugo-cache-resources"
   [plugins.inputs]
     debug = true
+
+[[redirects]]
+  from = "/urp535"
+  to = "https://plausible-whimsey-d36.notion.site/Urban-Informatics-URP-535-SI-536-96bce3057e964ec7913b079429be135f?pvs=4"
+  status = 301
+  force = false
+  query = {path = ":path"}
+  conditions = {Language = ["en"], Country = ["US"], Role = ["admin"]}
