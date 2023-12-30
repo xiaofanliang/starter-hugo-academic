@@ -22,6 +22,6 @@
 
 [[redirects]]
   from = "/urp535"
-  to = "https://xfliang.notion.site/Urban-Informatics-URP-535-SI-536-96bce3057e964ec7913b079429be135f?pvs=4"
+  to = "https://xfliang.notion.site/Urban-Informatics-URP-535-SI-536-96bce3057e964ec7913b079429be135f"
   status = 200
   force = true # COMMENT: ensure that we always redirect
