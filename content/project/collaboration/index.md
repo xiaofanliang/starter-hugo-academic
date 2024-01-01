@@ -1,5 +1,5 @@
 ---
-title: "The heterogenous impact of COVID-19 pandemic on global scientific collaboration"
+title: "The Heterogenous Impact of COVID-19 Pandemic on Global Scientific Collaboration"
 summary: How has COVID-19 pandemic impacted international scientific collaboration? Which disciplines or which countries suffer more? Do developing countries leverage COVID-19 to grow their research influence in the scientific networks? 
 tags:
 - Spatial Social Networks

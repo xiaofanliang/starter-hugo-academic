@@ -1,5 +1,5 @@
 ---
-title: "Systematic shifts in scaling behavior based on organizational strategy in universities"
+title: "Systematic Shifts in Scaling Behavior Based on Organizational Strategy in Universities"
 summary: Some colleges are mammals, others are cities. How scale of universities affect factors like tuition, research production, and teaching salaries? What are the tradeoffs and constraints for universities to be scale efficiently? 
 tags:
 - ""

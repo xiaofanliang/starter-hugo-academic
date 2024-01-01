@@ -1,5 +1,5 @@
 ---
-title: "Place social diversity explorer"
+title: "Place Social Diversity Explorer"
 summary: A D3 explorer to show the racial and income diversity of people visiting point of interests (POI) in Atlanta. What kinds of POI are most/least diverse and where do they locate? 
 tags:
 - Digital Civics and Critical Data

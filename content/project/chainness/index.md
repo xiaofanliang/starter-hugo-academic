@@ -1,5 +1,5 @@
 ---
-title: "Measuring McCities: Landscapes of chain and independent restaurants in the United States"
+title: "Measuring McCities: Landscapes of Chain and Independent Restaurants in the United States"
 summary: Which cities most resemble McCities? What kinds of built environment and sociodemographic characteristics are associated with the prevelance of chain restaurants?
 tags:
 - Urban Analytics
