@@ -13,7 +13,7 @@ design:
 
 :speaker: **{{< hl >}}[New!]{{< /hl >}}** I am hiring three UMich undergraduate/graduate hourly research student assistants for Winter 2024. See job descriptions and application details [here](https://www.xiaofanliang.com/uploads/RA_hiring.pdf). Application review will start on Jan 14th. (Jan. 10)
 
-:books: **{{< hl >}}[New!]{{< /hl >}}** I successfully defended my PhD dissertation [Connectivity for Whom and at What Cost: Contesting Network Infrastructure Duality in Urban Planning](https://drive.google.com/file/d/13Sw_MrCVd8wByFGI1lXgDVwhEQ3XqN_N/view?usp=sharing) (Dec. 6th).
+:books: **{{< hl >}}[New!]{{< /hl >}}** I successfully defended my PhD dissertation [Connectivity for Whom and at What Cost: Contesting Network Infrastructure Duality in Urban Planning](https://repository.gatech.edu/items/17423254-589d-4fc3-84a3-e66b05eab76e) (Dec. 6th).
 
 :page_facing_up: **{{< hl >}}[New!]{{< /hl >}}** My new paper with collaborators titled [Impacts of COVID-19 on Biodiversity Conservation and Community Networks at Kibale National Park, Uganda](https://www.tandfonline.com/doi/full/10.1080/00330124.2023.2250416) is published in *The Professional Geographers* for early view! In the paper, I mapped how COVID-19 affects the research field station employees' economic networks (September 28th, 2023). 
 

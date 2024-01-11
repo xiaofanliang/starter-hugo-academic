@@ -41,4 +41,4 @@ In this study, we ask two research questions:
 
 **Keywords: Subway Station; Social Infrastructure; OpenStreetMap**
 
-The draft manuscript is available for view as **Chapter 3 in Xiaofan Liang's [PhD Dissertation](https://drive.google.com/file/d/13Sw_MrCVd8wByFGI1lXgDVwhEQ3XqN_N/view)**. 
+The draft manuscript is available for view as **Chapter 3 in Xiaofan Liang's [PhD Dissertation](https://repository.gatech.edu/items/17423254-589d-4fc3-84a3-e66b05eab76e)**. 

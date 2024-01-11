@@ -30,7 +30,7 @@ featured: false
 # Custom links (uncomment lines below)
 links:
 - name: PDF
-  url: 'https://drive.google.com/file/d/13Sw_MrCVd8wByFGI1lXgDVwhEQ3XqN_N/view?usp=sharing'
+  url: 'https://repository.gatech.edu/items/17423254-589d-4fc3-84a3-e66b05eab76e'
 
 url_pdf: ''
 url_code: ''
