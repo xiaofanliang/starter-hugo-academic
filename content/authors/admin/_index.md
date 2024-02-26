@@ -20,8 +20,8 @@ bio: My research interests include spatial social networks, urban analytics, and
 interests:
 - Spatial Social Networks
 - Urban Analytics (GIS, Computational Methods, Agent-based Modeling, etc.)
-- Social and Transportation Infrastructure Planning
-- Participatory and Collaborative Planning Methods 
+- Inclusive Social Infrastructure and Transportation Planning
+- Digital Civics, Critical Data, and Participatory and Collaborative Planning Methods
 
 # Education to show in About widget
 education:
@@ -73,6 +73,6 @@ highlight_name: true
 
 I am an [Assistant Professor of Urban and Regional Planning](https://taubmancollege.umich.edu/faculty/directory/xiaofan-liang/) at Taubman College of Architecture & Urban Planning, University of Michigan - Ann Arbor. My research interests are to support social life in cities and participatory/collaborative processes in planning through urban analytics. My approaches are largely inspired by the field of **network science**, **complex system**, and **critical & participatory approaches in GIS and planning**, and therefore ground my research in the pursuit of authentic human connections and social inclusion in cities. These interests and approaches are rooted in my past research experience at GeorgiaTech [Friendly Cities Lab](https://friendlycities.gatech.edu/), NUS [Urban Analytics Lab](https://ual.sg/), and [Santa Fe Institute](https://www.santafe.edu/). 
 
-My current work focuses on two themes: 1) exmaining how network infrastructure (e.g., transportation and social infrastructure) ecan simultaneously be inclusive and exclusive, offering connectivity and access for certain populations, places, or types of flows, while marginalizing or restricting others, 2) exploring how data, technology, and AI can support, transform, or challenge participatory practices in planning. These two themes build on my dissertation: [Connectivity for whom and at what cost: contesting network infrastructure duality in urban planning] (https://repository.gatech.edu/items/17423254-589d-4fc3-84a3-e66b05eab76e). 
+My current work focuses on two themes: 1) exmaining how network infrastructure (e.g., transportation and social infrastructure) can simultaneously be inclusive and exclusive, offering connectivity and access for certain populations, places, or types of flows, while marginalizing or restricting others, 2) exploring how data, technology, and AI can support, transform, or challenge participatory practices in planning. These two themes build on my dissertation: [Connectivity for whom and at what cost: contesting network infrastructure duality in urban planning](https://repository.gatech.edu/items/17423254-589d-4fc3-84a3-e66b05eab76e). 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Xiaofan_Liang_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
