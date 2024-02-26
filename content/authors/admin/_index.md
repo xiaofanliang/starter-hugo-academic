@@ -21,7 +21,7 @@ interests:
 - Spatial Social Networks
 - Urban Analytics (GIS, Computational Methods, Agent-based Modeling, etc.)
 - Inclusive Social Infrastructure and Transportation Planning
-- Digital Civics, Critical Data, and Participatory and Collaborative Planning Methods
+- Digital Civics, Critical Data, and Participatory and Collaborative Planning
 
 # Education to show in About widget
 education:

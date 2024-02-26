@@ -17,7 +17,7 @@ design:
 
 :page_facing_up: **{{< hl >}}[New!]{{< /hl >}}** My new paper with collaborators titled [Impacts of COVID-19 on Biodiversity Conservation and Community Networks at Kibale National Park, Uganda](https://www.tandfonline.com/doi/full/10.1080/00330124.2023.2250416) is published in *The Professional Geographers* for early view! In the paper, I mapped how COVID-19 affects the research field station employees' economic networks (September 28th, 2023). 
 
-:moneybag: I was awarded the [2023 ACSP Student Travel Award](https://www.acsp.org/news/647592/ACSP-Announces-2023-Student-Paper-Award-Winners.htm)! Looking forward to friends and colleagues at Chicago in October! (Sept, 2023)
+<!-- :moneybag: I was awarded the [2023 ACSP Student Travel Award](https://www.acsp.org/news/647592/ACSP-Announces-2023-Student-Paper-Award-Winners.htm)! Looking forward to friends and colleagues at Chicago in October! (Sept, 2023)
 
 :raised_hands: My lab [Friendly Cities Lab](https://friendlycities.gatech.edu/) is organizing a spatial social network workshop in Atlanta from May 18 to May 19! I will proudly present the [R package](https://github.com/friendlycities-gatech/SSNtools) and [R tutorial](https://friendlycities-gatech.github.io/SSN_tutorial/) I developed on SSN metrics and visualization in R. See workshop details [here](https://sites.gatech.edu/snoman/2023-ssn-workshop/). Check out our [SNOMAN (Social Network Mapping Nexus)](https://sites.gatech.edu/snoman/) website for more on-going work and SSN paper collection! (May, 18, 2023)
 
@@ -36,7 +36,7 @@ I presented my research of [human-in-the-loop machine learning](https://www.xiao
 
 :speaker: I gave a guest lecture titled "Spatial Social Networks Application in PPGIS" at University of Waterloo "GEOG-609 GIS and Spatial Decision Support for Planning and Resource Management" (Feb 14th, 2023). 
 
-:books: I have defended my dissertation proposal _Connectivity for whom and at what cost: Contesting network infrastructure duality in urban planning_ (Dec 15th, 2022)! 
+:books: I have defended my dissertation proposal _Connectivity for whom and at what cost: Contesting network infrastructure duality in urban planning_ (Dec 15th, 2022)!  -->
 
 <!-- :speaker: I was invited by prof. Xiang 'Jacob' Yan to give a guest lecture titled "Spatial Networks Application in Transportation Planning" at his class "Applied Data Science in Civil and Environmental Engineering" at University of Florida. The lecture will feature my publication [A Review of Spatial Network Insights and Methods in the Context of Planning: Applications, Challenges, and Opportunities](https://www.xiaofanliang.com/publication/review/review.pdf) and my dissertation projects using network analytics to examine the role of [airport](https://www.xiaofanliang.com/project/airportcity/) and [metro stations](https://www.xiaofanliang.com/project/miaoqianzhijie/) (Dec 1st, 2022). 
 
