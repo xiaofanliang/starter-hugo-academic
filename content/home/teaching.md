@@ -21,7 +21,7 @@ Cities contain many interconnected networks for infrastructure, human mobility, 
 
 This course introduces students to essential methods and techniques used in planning practice and urban research. Analytic approaches include research design, multivariate regression, population forecasting, survey research, case study research, evaluation, and graphic data presentation. The emphasis is on methods in the context of planning and urban policy research, and matching the methods to the problem. We will cover computer applications for data analysis, including some computer lab time scheduled periodically through the semester.
 
-**Winter 2024**
+### Winter 2024
 
 [URP 535/UT 402 Introduction to Urban Informatics](https://taubmancollege.umich.edu/course/urp535-introduction-to-urban-informatics-section-1-winter-2024/)
 
