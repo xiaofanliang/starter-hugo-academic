@@ -11,7 +11,7 @@ design:
   columns: '1'
 ---
 
-**Fall 2024**
+### Fall 2024
 
 [URP 610/UT 402 Urban Networks](https://taubmancollege.umich.edu/course/urp610-urban-networks-section-3-fall-2024/)
 
