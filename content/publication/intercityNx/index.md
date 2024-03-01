@@ -48,6 +48,8 @@ links:
   url: 'https://github.com/xiaofanliang/intercity_connectivity'
 - name: Interactive Map
   url: 'https://xiaofanliang.github.io/intercity_connectivity/'
+- name: PDF
+  url: 'publication/intercityNx/intercityNx.pdf'
 
 url_pdf: ''
 url_code: ''
