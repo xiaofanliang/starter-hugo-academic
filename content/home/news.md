@@ -11,11 +11,14 @@ design:
   columns: '1'
 ---
 
-:speaker: **{{< hl >}}[New!]{{< /hl >}}** I am hiring three UMich undergraduate/graduate hourly research student assistants for Winter 2024. See job descriptions and application details [here](https://www.xiaofanliang.com/uploads/RA_hiring.pdf). Application review will start on Jan 14th. (Jan. 10)
 
-:books: **{{< hl >}}[New!]{{< /hl >}}** I successfully defended my PhD dissertation [Connectivity for Whom and at What Cost: Contesting Network Infrastructure Duality in Urban Planning](https://repository.gatech.edu/items/17423254-589d-4fc3-84a3-e66b05eab76e) (Dec. 6th).
+:page_facing_up: **{{< hl >}}[New!]{{< /hl >}}** My new paper titled [Intercity Connectivity and Urban Innovation](https://www.sciencedirect.com/science/article/pii/S0198971524000218) is published in **Computers, Environment and Urban Systems**! This paper takes FIVE years to publiation, involves collaborators from TRHEE continents, and processed millions of data for SIX intercity networks to understand the relationship between intercity connectivity and innovation. An [interactive network data dashboard](https://xiaofanliang.github.io/intercity_connectivity/) is available for exploration and data can be [downloaded](https://github.com/xiaofanliang/intercity_connectivity) (March 1st). 
 
-:page_facing_up: **{{< hl >}}[New!]{{< /hl >}}** My new paper with collaborators titled [Impacts of COVID-19 on Biodiversity Conservation and Community Networks at Kibale National Park, Uganda](https://www.tandfonline.com/doi/full/10.1080/00330124.2023.2250416) is published in *The Professional Geographers* for early view! In the paper, I mapped how COVID-19 affects the research field station employees' economic networks (September 28th, 2023). 
+:speaker: **{{< hl >}}[New!]{{< /hl >}}** [CLOSED] I am hiring three UMich undergraduate/graduate hourly research student assistants for Winter 2024. See job descriptions and application details [here](https://www.xiaofanliang.com/uploads/RA_hiring.pdf). Application review will start on Jan 14th. (Jan. 10)
+
+:books: I successfully defended my PhD dissertation [Connectivity for Whom and at What Cost: Contesting Network Infrastructure Duality in Urban Planning](https://repository.gatech.edu/items/17423254-589d-4fc3-84a3-e66b05eab76e). I will start my Assistant Professor position at UMich in Jan 2024 (Dec. 6th).
+
+:page_facing_up: My new paper with collaborators titled [Impacts of COVID-19 on Biodiversity Conservation and Community Networks at Kibale National Park, Uganda](https://www.tandfonline.com/doi/full/10.1080/00330124.2023.2250416) is published in *The Professional Geographers* for early view! In the paper, I mapped how COVID-19 affects the research field station employees' economic networks (September 28th, 2023). 
 
 <!-- :moneybag: I was awarded the [2023 ACSP Student Travel Award](https://www.acsp.org/news/647592/ACSP-Announces-2023-Student-Paper-Award-Winners.htm)! Looking forward to friends and colleagues at Chicago in October! (Sept, 2023)
 
