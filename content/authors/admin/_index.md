@@ -6,7 +6,7 @@ title: Xiaofan Liang
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor of City and Regional Planning
+role: Assistant Professor of Urban and Regional Planning
 
 # Organizations/Affiliations to show in About widget
 organizations:
