@@ -6,7 +6,7 @@ title: Xiaofan Liang
 superuser: true
 
 # Role/position/tagline
-role: City and Regional Planning PhD
+role: Assistant Professor of City and Regional Planning
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -75,4 +75,4 @@ I am an [Assistant Professor of Urban and Regional Planning](https://taubmancoll
 
 My current work focuses on two themes: 1) exmaining how network infrastructure (e.g., transportation and social infrastructure) can simultaneously be inclusive and exclusive, offering connectivity and access for certain populations, places, or types of flows, while marginalizing or restricting others, 2) exploring how data, technology, and AI can support, transform, or challenge participatory practices in planning. These two themes build on my dissertation: [Connectivity for whom and at what cost: contesting network infrastructure duality in urban planning](https://repository.gatech.edu/items/17423254-589d-4fc3-84a3-e66b05eab76e). 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Xiaofan_Liang_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Xiaofan_Liang_CV.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
