@@ -18,7 +18,7 @@ links:
 - name: Interactive Map
   url: https://xiaofanliang.github.io/intercity_connectivity/
 - name: Data
-  url: https://xiaofanliang.github.io/intercity_connectivity/
+  url: https://github.com/xiaofanliang/intercity_connectivity
 ---
 
 This work is completed with Dr. César A. Hidalgo, Dr. Pierre-Alexandre Balland, Dr. Siqi Zheng, and Dr. Jianghao Wang. 
@@ -29,6 +29,12 @@ View and download intercity connectivity dataset [HERE](https://github.com/xiaof
 
 See published manuscript [HERE]()
 
-Urban outputs, from economy to innovation, are known to grow as a power of a city’s population. But, since large cities tend to be central in transportation and communication networks, the effects attributed to city size may be confounded with those of intercity connectivity. Here, we map intercity networks for the world’s two largest
-economies (the United States and China) to explore whether a city’s position in the networks of communication, human mobility, and scientific collaboration explains variance in a city’s patenting activity that is unaccounted for by its population. We find evidence that models incorporating intercity connectivity outperform populationbased models and exhibit stronger predictive power for patenting activity, particularly for technologies of more recent vintage (which we expect to be more complex or sophisticated). The effects of intercity connectivity are more robust in China, even after controlling for population, GDP, and education, but not in the United States once adjusted for GDP and education. This divergence suggests distinct urban network dynamics driving innovation in these regions. In China, models with social media and mobility networks explain more heterogeneity in
-the scaling of innovation, whereas in the United States, scientific collaboration plays a more significant role. These findings support the significance of a city’s position within the intercity network in shaping its success in innovative activities.
+**Methods and Insights**
+
+We measured intercity connectivity with three networks (social media, mobility, and intercity connectivity) for the two largest economies, China and the US. Then we incorporated network metrics and cities' population, GDP, and education into scaling models to explore the variances -- differences in innovation for cities with similar characteristics.
+
+We found that when incorporating intercity connectivity inputs, scaling models are more powerful at predicting patents, especially for more complex patents. The results are more robust for China, after controlling for population, GDP, and education, than for the U.S. We also found that social media and mobility intercity connectivity help explain the variance in city-wide patent outputs in China, while scientific collaboration plays a more significant role in the U.S.
+
+What this means is that while big cities have advantages in producing complex patents due to their dominant positions in multiple networks, small cities may catch up if they improve their intercity connectivity. Causal relationships need to be further tested. Still, the correlation poses interesting questions about the future of cities marginalized/outperforming in intercity networks, such as small cities dedicated to tourism (for enhanced mobility flows) and digital nomads (for enhanced digital connectivity), or those fly-over towns that are losing tractions in both population and ideas alike.
+
+This paper also attempts to bring two separate conversations together -- one in scaling literature which usually discusses the return of scale in innovation solely based on population, and the other in regional science, which often uses regression models to examine relationships between various regional characteristics and innovation. This in-between position of the paper is uncomfortable to grapple with (which is reflected in our review process) but valuable to reflect on the theoretical basis to understand regional issues.
