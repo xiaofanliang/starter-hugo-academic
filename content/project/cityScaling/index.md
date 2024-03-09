@@ -14,7 +14,7 @@ image:
 
 links:
 - name: PDF
-  url: 
+  url: https://www.xiaofanliang.com/publication/intercitynx/intercitynx.pdf
 - name: Interactive Map
   url: https://xiaofanliang.github.io/intercity_connectivity/
 - name: Data
@@ -27,7 +27,7 @@ View intercity connectivity interactive data dashboard [HERE](https://xiaofanlia
 
 View and download intercity connectivity dataset [HERE](https://github.com/xiaofanliang/intercity_connectivity). 
 
-See published manuscript [HERE]()
+See published manuscript [HERE](https://www.xiaofanliang.com/publication/intercitynx/intercitynx.pdf)
 
 **Methods and Insights**
 

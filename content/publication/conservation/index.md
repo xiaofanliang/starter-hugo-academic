@@ -32,16 +32,7 @@ featured: false
 # Custom links (uncomment lines below)
 links:
 - name: PDF
-  url: 'project/conservation/conservation.pdf'
-
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_source: ''
-url_video: ''
-
+  url: 'publication/conservation/conservation.pdf'
 projects:
 - conservation
 ---
