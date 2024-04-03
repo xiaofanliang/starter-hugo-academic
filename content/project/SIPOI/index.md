@@ -29,7 +29,7 @@ image:
 
 (In Progress, Leading author)
 
-This work is developed with Dr. Clio Andris and Dr. Filip Biljecki 
+This work is developed with Dr. Clio Andris, Dr. Filip Biljecki, and my RA Qifan Wu
 
 **Abstract**
 
@@ -38,6 +38,8 @@ Social infrastructure (i.e., third places) and subway stations play crucial role
 In this study, we ask two research questions:
 - Where does social infrastructure exist near subway stations?
 - How do built environment factors (e.g., population density, building area,road length, and car-oriented infrastructure) affect colocation patterns?
+
+We are currently developing a cool web map tool that allows exploration and download of social infrastructure POI around subway stations around the world. 
 
 **Keywords: Subway Station; Social Infrastructure; OpenStreetMap**
 
