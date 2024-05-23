@@ -12,7 +12,7 @@ doi: "10.1007/978-3-030-76059-5_5"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["6"]
+publication_types: ["book-section"]
 
 # Publication name and optional abbreviated publication name.
 publication: "In book: Urban Informatics and Future Cities (pp.71-91)"

@@ -3,7 +3,7 @@
   publish = "public"
 
 [build.environment]
-  HUGO_VERSION = "0.97.3"
+  HUGO_VERSION = "0.125.7"
   HUGO_ENABLEGITINFO = "true"
 
 [context.production.environment]
@@ -19,9 +19,3 @@
   package = "netlify-plugin-hugo-cache-resources"
   [plugins.inputs]
     debug = true
-
-[[redirects]]
-  from = "/urp535"
-  to = "https://xfliang.notion.site/Urban-Informatics-URP-535-SI-536-96bce3057e964ec7913b079429be135f"
-  status = 301
-  force = true # COMMENT: ensure that we always redirect
