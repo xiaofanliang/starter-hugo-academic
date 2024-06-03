@@ -9,7 +9,7 @@ sections:
       text: |-
         ### An Open Urban Data Guide for Geospatial Analytics in Michigan
 
-        [Data Guide Link]((https://xfliang.notion.site/An-Open-Urban-Data-Guide-for-Geospatial-Analytics-in-Michigan-77190f5b741444079988bae9b925ac06?pvs=4)); 
+        [Data Guide Link](https://xfliang.notion.site/An-Open-Urban-Data-Guide-for-Geospatial-Analytics-in-Michigan-77190f5b741444079988bae9b925ac06?pvs=4); 
         [Database Link](https://xfliang.notion.site/3764127bcf3b47d4b7bd239b21c35f5c?v=6d29c0eeaf934af2bbc06b72e76e85f7)
 
         This data guide is an informal effort as Xiaofan learn and explore the data landscape in Michigan for her research and teaching. It is designed for students, researchers, and interested citizens who are looking for **open (free) urban data, that can be mapped or used in urban or geospatial analytics**, with a particular focus in Michigan contexts. This data guide features a tabular database and a user guide. 
