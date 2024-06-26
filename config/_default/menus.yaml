@@ -22,3 +22,6 @@ main:
   - name: People
     url: people
     weight: 60
+  - name: Work with Me 
+    url: workwithme
+    weight: 70
