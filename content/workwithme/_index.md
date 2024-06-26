@@ -13,7 +13,7 @@ sections:
 
         If you are a student at the University of Michigan, I encourage you to take my classes (see in [my teaching](https://www.xiaofanliang.com/teaching/)) as they prepare you for common skills used in my projects. 
 
-        I had worked with students in two formats: 1) paid research assistant, and 2) independent study with academic credits. The first option is often project-based, and will usually have a formal announcement through Taubman College’s newsletter. The second option is opportunity-based. I am more likely to agree to advise an independent project if I already know that you are capable of conducting independent work and the project contributes to my research agenda. 
+        I had worked with students in two formats: 1) paid research assistant, and 2) independent study with academic credits. The first option is often project-based, and will usually have a formal announcement through Taubman College’s newsletter. The second option is opportunity-based. For the first option, they are likely to be announced in the first few weeks of the semesters, if any. For the second option, I am more likely to agree to advise an independent project if I already know that you are capable of conducting independent work and/or the project contributes to my research agenda. 
 
         **Rolling Opportunity: An Open Call for Independent Student Project Proposal around Network Duality Theme; Updated by June 25th, 2024; Submit [Here](https://docs.google.com/forms/d/e/1FAIpQLScRpCf1LDuzdVgRdC-1EahwE03jgHtXTUGL_m2S3l2Smn4fxQ/viewform)**  
 
@@ -34,8 +34,6 @@ sections:
         **MURP Applicant** 
 
         To apply to our [Urban and Regional Planning Master program](https://taubmancollege.umich.edu/academics/urban-and-regional-planning/master-of-urban-and-regional-planning/), you do not need to seek out an advisor. I do not have Graduate Research Assistantships (tuition included kind) funding available at the moment. Rackham Graduate School administers [application fee waivers](https://taubmancollege.umich.edu/admissions/apply/master-of-urban-and-regional-planning/) if you fit certain criterions, though this is unlikely to be available to international students.
-
-
          
     design:
       # See Page Builder docs for all section customization options.
