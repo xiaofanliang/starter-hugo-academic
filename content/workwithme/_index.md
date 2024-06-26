@@ -5,15 +5,37 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: Teaching
+      title: Work with Me
       text: |-
-        ### Fall 2024 
-        [URP 610/UT 402 Urban Networks](https://taubmancollege.umich.edu/course/urp610-urban-networks-section-3-fall-2024/)
+        I work with [undergraduate and graduate students](https://www.xiaofanliang.com/people/) at all levels to conduct research, prioritizing those from the University of Michigan. If you are interested in working with me, please read this page in detail, whether you are a current or prospective student.
 
-        [URP 506 Planning Methods](https://taubmancollege.umich.edu/course/urp506-planning-methods-section-1-fall-2024/)
+        ### For Current Students
 
-        ### Winter 2024 
-        [URP 535/UT 402/SI 536 Introduction to Urban Informatics](https://taubmancollege.umich.edu/course/urp535-introduction-to-urban-informatics-section-1-winter-2024/); [2024 Syllabus](https://www.xiaofanliang.com/teaching/URP535_Syllabus_W24_Liang.pdf). 
+        If you are a student at the University of Michigan, I encourage you to take my classes (see in [my teaching](https://www.xiaofanliang.com/teaching/)) as they prepare you for common skills used in my projects. 
+
+        I had worked with students in two formats: 1) paid research assistant, and 2) independent study with academic credits. The first option is often project-based, and will usually have a formal announcement through Taubman College’s newsletter. The second option is opportunity-based. I am more likely to agree to advise an independent project if I already know that you are capable of conducting independent work and the project contributes to my research agenda. 
+
+        **Rolling Opportunity: An Open Call for Independent Student Project Proposal around Network Duality Theme; Updated by June 25th, 2024; Submit [Here](https://docs.google.com/forms/d/e/1FAIpQLScRpCf1LDuzdVgRdC-1EahwE03jgHtXTUGL_m2S3l2Smn4fxQ/viewform)**  
+
+        I am currently accepting independent student project proposals that will advance the network duality research theme. Research is a two-way street, and I had enjoyed inspirations brought by my students in the past. [Please read the link here for details](https://xfliang.notion.site/Network-Duality-Project-Proposal-cb4ed93ac0e64d76861fb509b1267dac?pvs=4). If your proposal is accepted, I will reach out and discuss the best way forward (i.e., research assistant, independent study credits, etc.). 
+
+        **Reference Letter** 
+
+        I usually write reference letters to students who have taken at least two of my courses or had actively worked with me through research assistantship or independent studies. Exceptions may be possible. If you have this intention, please come talk to me as early as possible so we can align expectations.
+
+        ### For Prospective Students
+
+        **PhD Applicant**
+
+        To apply to our [Urban and Regional Planning PhD program](https://taubmancollege.umich.edu/urbanplanning/degrees/phd-urban-and-regional-planning), you do not need to seek out an advisor or create a research proposal before applying. The selection process is divided into two stages. The Faculty Admissions Committee will select some outstanding candidates from the applicant pool and faculty members with expertise in the applicant's area are asked to evaluate these applications and indicate their availability to serve as the initial advisor. This advisor may change if the student's interests evolve after enrollment. Our PhDs are fully funded by UMich Rackham Graduate School fellowships. 
+
+        My availability to take in PhDs is a little fluid at the moment. I am not actively seeking for PhDs, but I am always open to talk to candidates whose work closely align with my research agenda and happy to make a case for strong applicants. You are welcome to email me and discuss mutual interests. 
+
+        **MURP Applicant** 
+
+        To apply to our [Urban and Regional Planning Master program](https://taubmancollege.umich.edu/academics/urban-and-regional-planning/master-of-urban-and-regional-planning/), you do not need to seek out an advisor. I do not have Graduate Research Assistantships (tuition included kind) funding available at the moment. Rackham Graduate School administers [application fee waivers](https://taubmancollege.umich.edu/admissions/apply/master-of-urban-and-regional-planning/) if you fit certain criterions, though this is unlikely to be available to international students.
+
+
          
     design:
       # See Page Builder docs for all section customization options.
