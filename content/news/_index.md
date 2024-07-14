@@ -7,13 +7,17 @@ sections:
     content:
       title: News
       text: |-
+        :speaker: I announced a rolling opportunity for advanced students to submit project proposals on the research theme of network duality. Please see details at [Work with Me](https://www.xiaofanliang.com/workwithme/) (June 25th). 
+
+        :speaker: I gave a guest lecture at Monash University, Indonesia (June 20th). 
+
         :speaker: Four research assistants who worked with me in Winter 2024 presented their work as posters at Taubman Research Day! I am proud of you all! (April 18th). 
 
         :page_facing_up: My new paper titled [Intercity Connectivity and Urban Innovation](https://www.sciencedirect.com/science/article/pii/S0198971524000218) is published in **Computers, Environment and Urban Systems**! This paper takes FIVE years to publiation, involves collaborators from TRHEE continents, and processed millions of data for SIX intercity networks to understand the relationship between intercity connectivity and innovation. An [interactive network data dashboard](https://xiaofanliang.github.io/intercity_connectivity/) is available for exploration and data can be [downloaded](https://github.com/xiaofanliang/intercity_connectivity) (March 1st). 
 
         :speaker: I gave a talk titled Beyond Nodes and Edges: Integrating Spatial Contexts into Urban Network Science at UMich Center for the Study of Complex Systems on March 26th. Recording is available [here](https://www.mivideo.it.umich.edu/media/t/1_j7w8kv54). (March 1st)
 
-        :speaker: [CLOSED] I am hiring three UMich undergraduate/graduate hourly research student assistants for Winter 2024. See job descriptions and application details [here](https://www.xiaofanliang.com/uploads/RA_hiring.pdf). Application review will start on Jan 14th. (Jan. 10)
+        <!--:speaker: [CLOSED] I am hiring three UMich undergraduate/graduate hourly research student assistants for Winter 2024. See job descriptions and application details [here](https://www.xiaofanliang.com/uploads/RA_hiring.pdf). Application review will start on Jan 14th. (Jan. 10) -->
 
         <!-- :books: I successfully defended my PhD dissertation [Connectivity for Whom and at What Cost: Contesting Network Infrastructure Duality in Urban Planning](https://repository.gatech.edu/items/17423254-589d-4fc3-84a3-e66b05eab76e). I will start my Assistant Professor position at UMich in Jan 2024 (Dec. 6th). -->
 

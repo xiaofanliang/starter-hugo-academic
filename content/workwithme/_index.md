@@ -15,7 +15,7 @@ sections:
 
         I had worked with students in two formats: 1) paid research assistant, and 2) independent study with academic credits. The first option is often project-based, and will usually have a formal announcement through Taubman College’s newsletter. The second option is opportunity-based. For the first option, they are likely to be announced in the first few weeks of the semesters, if any. For the second option, I am more likely to agree to advise an independent project if I already know that you are capable of conducting independent work and/or the project contributes to my research agenda. 
 
-        **Rolling Opportunity: An Open Call for Independent Student Project Proposal around Network Duality Theme; Updated by June 25th, 2024; Submit [Here](https://docs.google.com/forms/d/e/1FAIpQLScRpCf1LDuzdVgRdC-1EahwE03jgHtXTUGL_m2S3l2Smn4fxQ/viewform)**  
+        **Rolling Opportunity: An Open Call for Independent Student Project Proposals around Network Duality Theme; Updated by June 25th, 2024; Submit [Here](https://docs.google.com/forms/d/e/1FAIpQLScRpCf1LDuzdVgRdC-1EahwE03jgHtXTUGL_m2S3l2Smn4fxQ/viewform)**  
 
         I am currently accepting independent student project proposals that will advance the network duality research theme. Research is a two-way street, and I had enjoyed inspirations brought by my students in the past. [Please read the link here for details](https://xfliang.notion.site/Network-Duality-Project-Proposal-cb4ed93ac0e64d76861fb509b1267dac?pvs=4). If your proposal is accepted, I will reach out and discuss the best way forward (i.e., research assistant, independent study credits, etc.). 
 
