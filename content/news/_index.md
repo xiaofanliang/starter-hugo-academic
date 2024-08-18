@@ -7,7 +7,7 @@ sections:
     content:
       title: News
       text: |-
-        :speaker: **[NEW]** I am highly motivated to work with a PhD student who is interested in the participatory AI direction (aka human-computer collaboration to enhance public services and citizen engagement in the planning process, most recent examples [here](https://arxiv.org/abs/2407.11138) and [here](https://github.com/xiaofanliang/ai_for_local_governments)) in the upcoming years. Given the PhD funding structure at Taubman College, I cannot directly "hire" a PhD, but if you are interested, please contact me at xfliang@umich.edu and apply for the upcoming cycle! Find more details at [Work with Me](https://www.xiaofanliang.com/workwithme/) page (August 5th)
+        :speaker: **[NEW]** I am highly motivated to work with a PhD student who is interested in the participatory AI direction (aka human-computer collaboration to enhance public services and citizen engagement in the planning process, most recent examples [here](https://arxiv.org/abs/2407.11138) and [here](https://github.com/xiaofanliang/ai_for_local_governments)) in the upcoming years. Given the PhD funding structure at Taubman College, I cannot directly "hire" a PhD, but if you are interested, please contact me at xfliang@umich.edu and apply for the upcoming cycle! Find more details at [Work with Me](https://www.xiaofanliang.com/workwithme/) page (August 19th)
 
         :speaker: **[NEW]** I am hiring a student research assistant on AI-related projects for Fall 2024 term. See the job description [here](https://xfliang.notion.site/F24-Hourly-Research-Assistant-on-AI-Projects-with-Prof-Xiaofan-Liang-1f94cba9764b481bb10a97504cc52c98?pvs=4) and apply by August 30th (August 19th). 
 
