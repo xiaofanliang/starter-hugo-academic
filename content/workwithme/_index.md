@@ -29,7 +29,9 @@ sections:
 
         To apply to our [Urban and Regional Planning PhD program](https://taubmancollege.umich.edu/urbanplanning/degrees/phd-urban-and-regional-planning), you do not need to seek out an advisor or create a research proposal before applying. The selection process is divided into two stages. The Faculty Admissions Committee will select some outstanding candidates from the applicant pool and faculty members with expertise in the applicant's area are asked to evaluate these applications and indicate their availability to serve as the initial advisor. This advisor may change if the student's interests evolve after enrollment. Our PhDs are fully funded by UMich Rackham Graduate School fellowships. 
 
-        My availability to take in PhDs is a little fluid at the moment. I am not actively seeking for PhDs, but I am always open to talk to candidates whose work closely align with my research agenda and happy to make a case for strong applicants. You are welcome to email me and discuss mutual interests. 
+        **[NEW]** I am highly motivated to work with a PhD student who is interested in the participatory AI direction (aka human-computer collaboration to enhance public services and citizen engagement in the planning process, most recent examples [here](https://arxiv.org/abs/2407.11138) and [here](https://github.com/xiaofanliang/ai_for_local_governments)) in the upcoming years. PhDs in our college are usually funded by the college, and thus all PhD admission goes through the faculty admission committee first before consulting individual faculty. I am not able to directly "hire" a PhD. Yet, if you are interested in this direction, please contact me at **xfliang@umich.edu** and if it is a good fit, I will advocate for you in the admission cycle (still no garantuee in admission). 
+
+          The ideal candidate should have strong CS skills and have demonstrated interests and commitments to enhance ethical and responsible use of AI, data, and technology in public sector and/or community engagement. It is a bonus if you are also interested in network methodology though this is not required. 
 
         **MURP Applicant** 
 

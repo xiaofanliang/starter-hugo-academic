@@ -7,7 +7,13 @@ sections:
     content:
       title: News
       text: |-
-        :speaker: I announced a rolling opportunity for advanced students to submit project proposals on the research theme of network duality. Please see details at [Work with Me](https://www.xiaofanliang.com/workwithme/) (June 25th). 
+        :speaker: **[NEW]** I am highly motivated to work with a PhD student who is interested in the participatory AI direction (aka human-computer collaboration to enhance public services and citizen engagement in the planning process, most recent examples [here](https://arxiv.org/abs/2407.11138) and [here](https://github.com/xiaofanliang/ai_for_local_governments)) in the upcoming years. Given the PhD funding structure at Taubman College, I cannot directly "hire" a PhD, but if you are interested, please contact me at xfliang@umich.edu and apply for the upcoming cycle! Find more details at [Work with Me](https://www.xiaofanliang.com/workwithme/) page (August 5th)
+
+        :speaker: **[NEW]** I am hiring a student research assistant on AI-related projects for Fall 2024 term. See the job description [here](https://xfliang.notion.site/F24-Hourly-Research-Assistant-on-AI-Projects-with-Prof-Xiaofan-Liang-1f94cba9764b481bb10a97504cc52c98?pvs=4) and apply by August 30th (August 19th). 
+
+        :speaker: **[NEW]** I gave a seminar talk at Shenzhen University and was interviewed by Prof. Yue Yang. See Bilibili talk links here ([“乐谈GIS”——对话梁晓帆博士（上） | 跨学科的碰撞：社会学+AI+规划的“青椒”学术之旅](https://www.bilibili.com/video/BV19EYXejEiJ/?spm_id_from=333.337.search-card.all.click); [“乐谈GIS”——对话梁晓帆博士（下） | 文科生如何转换思维写代码](https://www.bilibili.com/video/BV1CrYXeaEmz/?spm_id_from=333.337.search-card.all.click)) (August 5th). 
+
+        :speaker: **[NEW]** I announced a rolling opportunity for advanced students to submit project proposals on the research theme of network duality. Please see details at [Work with Me](https://www.xiaofanliang.com/workwithme/) (June 25th). 
 
         :speaker: I gave a guest lecture at Monash University, Indonesia (June 20th). 
 
@@ -15,7 +21,7 @@ sections:
 
         :page_facing_up: My new paper titled [Intercity Connectivity and Urban Innovation](https://www.sciencedirect.com/science/article/pii/S0198971524000218) is published in **Computers, Environment and Urban Systems**! This paper takes FIVE years to publiation, involves collaborators from TRHEE continents, and processed millions of data for SIX intercity networks to understand the relationship between intercity connectivity and innovation. An [interactive network data dashboard](https://xiaofanliang.github.io/intercity_connectivity/) is available for exploration and data can be [downloaded](https://github.com/xiaofanliang/intercity_connectivity) (March 1st). 
 
-        :speaker: I gave a talk titled Beyond Nodes and Edges: Integrating Spatial Contexts into Urban Network Science at UMich Center for the Study of Complex Systems on March 26th. Recording is available [here](https://www.mivideo.it.umich.edu/media/t/1_j7w8kv54). (March 1st)
+        <!--:speaker: I gave a talk titled Beyond Nodes and Edges: Integrating Spatial Contexts into Urban Network Science at UMich Center for the Study of Complex Systems on March 26th. Recording is available [here](https://www.mivideo.it.umich.edu/media/t/1_j7w8kv54). (March 1st) -->
 
         <!--:speaker: [CLOSED] I am hiring three UMich undergraduate/graduate hourly research student assistants for Winter 2024. See job descriptions and application details [here](https://www.xiaofanliang.com/uploads/RA_hiring.pdf). Application review will start on Jan 14th. (Jan. 10) -->
 
