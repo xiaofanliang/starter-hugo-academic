@@ -31,7 +31,7 @@ sections:
 
         **[NEW]** I am highly motivated to work with a PhD student who is interested in the **participatory AI** direction (aka human-computer collaboration to enhance public services and citizen engagement in the planning process, most recent examples [here](https://arxiv.org/abs/2407.11138) and [here](https://github.com/xiaofanliang/ai_for_local_governments)) in the upcoming years. PhDs in our college are usually funded by the college, and thus all PhD admission goes through the faculty admission committee first before consulting individual faculty. I am not able to directly "hire" a PhD. Yet, if you are interested in this direction, please contact me at **xfliang@umich.edu** and apply for this admission cycle (apply in 2024 Fall, start in 2025 Fall). If it is a good fit, I will advocate for you in the admission cycle (still no garantuee in admission). 
 
-          The ideal candidate should have strong CS skills and have demonstrated interests and commitments to enhance ethical and responsible use of AI, data, and technology in public sector and/or community engagement. It is a bonus if you are also interested in network methodology though this is not required. 
+          The ideal candidate should have strong CS skills and have demonstrated interests and commitments to enhance ethical and responsible use of AI, data, and technology in public sector and/or community engagement. Expertise with geospatial data and interests in network methodology are bonus points but not required. 
 
         **MURP Applicant** 
 
