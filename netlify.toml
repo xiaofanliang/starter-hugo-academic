@@ -21,13 +21,13 @@
     debug = true
 
 [[redirects]]
-  from = "/urp506"
+  from = "/f24urp506"
   to = "https://xfliang.notion.site/FALL-24-URP-506-Planning-Methods-61df025314da4610864331cd46dca52a?pvs=4"
   status = 301
   force = true # COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "/urp610"
+  from = "/f24urp610"
   to = "https://xfliang.notion.site/FALL-24-URP-610-UT-401-Urban-Networks-1bcba1533a934578861584b1494db158?pvs=4"
   status = 301
   force = true # COMMENT: ensure that we always redirect
