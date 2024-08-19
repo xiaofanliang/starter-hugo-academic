@@ -11,6 +11,8 @@ sections:
 
         ### For Current Students
 
+        **[NEW]** I am hiring a student research assistant on AI-related projects for Fall 2024 term. See the job description [here](https://xfliang.notion.site/F24-Hourly-Research-Assistant-on-AI-Projects-with-Prof-Xiaofan-Liang-1f94cba9764b481bb10a97504cc52c98?pvs=4) and apply by August 30th.
+
         If you are a student at the University of Michigan, I encourage you to take my classes (see in [my teaching](https://www.xiaofanliang.com/teaching/)) as they prepare you for common skills used in my projects. 
 
         I had worked with students in two formats: 1) paid research assistant, and 2) independent study with academic credits. The first option is often project-based, and will usually have a formal announcement through Taubman College’s newsletter. The second option is opportunity-based. For the first option, they are likely to be announced in the first few weeks of the semesters, if any. For the second option, I am more likely to agree to advise an independent project if I already know that you are capable of conducting independent work and/or the project contributes to my research agenda. 
