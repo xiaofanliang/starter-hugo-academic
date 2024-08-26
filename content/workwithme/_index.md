@@ -11,7 +11,7 @@ sections:
 
         ### For Current Students
 
-        **[NEW]** I am hiring a student research assistant on AI-related projects for Fall 2024 term. See the job description [here](https://xfliang.notion.site/F24-Hourly-Research-Assistant-on-AI-Projects-with-Prof-Xiaofan-Liang-1f94cba9764b481bb10a97504cc52c98?pvs=4) and apply by August 30th.
+        **[NEW] I am hiring a student research assistant on AI-related projects for Fall 2024 term. See the job description [here](https://xfliang.notion.site/F24-Hourly-Research-Assistant-on-AI-Projects-with-Prof-Xiaofan-Liang-1f94cba9764b481bb10a97504cc52c98?pvs=4) and apply by August 30th.**
 
         If you are a student at the University of Michigan, I encourage you to take my classes (see in [my teaching](https://www.xiaofanliang.com/teaching/)) as they prepare you for common skills used in my projects. 
 
