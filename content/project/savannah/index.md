@@ -16,6 +16,8 @@ image:
 links:
 - name: Presentation 
   url: "project/savannah/savannah.pdf"
+- name: PDF 
+  url: "https://arxiv.org/abs/2407.11138"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -25,9 +27,9 @@ links:
 #slides: example
 ---
 
-(In Review, Leading author)
+(Accepted for Publication at Journal of Planning Education and Research, Leading author)
 
-This work is developed with Dr. Clio Andris and Senior Planner Brian Brainerd.
+This work is developed with Dr. Clio Andris at Georgia Institute of Technology and Senior Planner Brian Brainerd. Click to see open-access version of the [final paper at arxiv](https://arxiv.org/abs/2407.11138).  
 
 Friendly Cities Lab has a new collaboration with the City of Savannah to strategize decisions to address vacant and blighted properties in the community. Neighborhoods experiencing blight suffer from safety concerns and lower housing values, leading to suboptimal living conditions for already marginalized residents. Savannah’s Housing & Neighborhood Services Department also estimated that every blighted property bleeds $1300 of public funds annually. These funds are used to cover the unrecoverable costs of overgrown grass, litter, illegal dumping, securing open structures, and demolishing properties. In 2019, local voters approved the use of 10 million dollars to acquire and redevelop of at least 1,000 abandoned, blighted residential properties over the next 10 years to effect meaningful change in neighborhoods long neglected or exploited by profit-driven investors. However, strategizing which properties to intervene first and what kinds of interventions can be best applied for equitable development remains a challenge.
 

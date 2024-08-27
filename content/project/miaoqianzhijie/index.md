@@ -17,6 +17,8 @@ image:
 links:
 - name: Presentation 
   url: "project/miaoqianzhijie/ACSP2022_XiaofanLiang.pdf"
+- name: PDF 
+  url: "https://arxiv.org/abs/2407.10952"
 
 # links:
 # - name: Presentation 
