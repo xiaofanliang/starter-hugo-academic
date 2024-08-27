@@ -1,5 +1,5 @@
 ---
-title: "A Network Lens on Social Costs: Demolishing a Historic Street for a New Subway Stations"
+title: "A Network Lens on Social Costs: Demolishing a Historic Street for a New Subway Station"
 summary: While a new metro station enhances transit connetivity in the metro network, its construction plans to demolish a historic neighborhood in Guangzhou China. How can we quantify the social cost of the station in terms of loss in social connections and memories?
 tags:
 - Digital Civics and Critical Data
