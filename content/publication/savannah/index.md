@@ -48,8 +48,6 @@ links:
   url: "project/savannah/savannah.pdf"
 - name: Arxiv 
   url: "https://arxiv.org/abs/2407.11138"
-- name: PDF 
-- url: "publication/savannah/savannah.pdf"
 
 url_pdf: ''
 url_code: ''
