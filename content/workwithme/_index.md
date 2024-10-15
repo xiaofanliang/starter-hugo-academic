@@ -7,8 +7,8 @@ sections:
     content:
       title: Work with Me
       text: |-
-        I am highly motivated to work with a PhD student who is interested in the **participatory AI** and/or **urban network systems** direction in the upcoming admission cycle (start Fall 2025). Please see details [here](https://xfliang.notion.site/PhD-Invitation-to-work-with-Dr-Liang-e81f61ec6cd849cbad2e639880bca0f6?pvs=4).
-        
+        > I am highly motivated to work with a PhD student who is interested in the **participatory AI** and/or **urban network systems** direction in the upcoming admission cycle (start Fall 2025). Please see details [here](https://xfliang.notion.site/PhD-Invitation-to-work-with-Dr-Liang-e81f61ec6cd849cbad2e639880bca0f6?pvs=4).
+
         I work with [undergraduate and graduate students](https://www.xiaofanliang.com/people/) at all levels to conduct research, prioritizing those from the University of Michigan. If you are interested in working with me, please read this page in detail, whether you are a current or prospective student.
 
         ### For Current Students
@@ -31,9 +31,7 @@ sections:
 
         To apply to our [Urban and Regional Planning PhD program](https://taubmancollege.umich.edu/urbanplanning/degrees/phd-urban-and-regional-planning), you do not need to seek out an advisor or create a research proposal before applying. The selection process is divided into two stages. The Faculty Admissions Committee will select some outstanding candidates from the applicant pool and faculty members with expertise in the applicant's area are asked to evaluate these applications and indicate their availability to serve as the initial advisor. This advisor may change if the student's interests evolve after enrollment. Our PhDs are fully funded by UMich Rackham Graduate School fellowships. 
 
-        **[NEW] I am highly motivated to work with a PhD student who is interested in the **participatory AI** direction (aka human-computer collaboration to enhance public services and citizen engagement in the planning process, most recent examples [here](https://arxiv.org/abs/2407.11138) and [here](https://github.com/xiaofanliang/ai_for_local_governments)) in the upcoming years**. PhDs in our college are usually funded by the college, and thus all PhD admission goes through the faculty admission committee first before consulting individual faculty. I am not able to directly "hire" a PhD. Yet, if you are interested in this direction, please contact me at **xfliang@umich.edu** and apply for this admission cycle (apply in 2024 Fall, start in 2025 Fall). If it is a good fit, I will advocate for you in the admission cycle (still no garantuee in admission). 
-
-          The ideal candidate should have strong CS skills and have demonstrated interests and commitments to enhance ethical and responsible use of AI, data, and technology in public sector and/or community engagement. Expertise with geospatial data and interests in network methodology are bonus points but not required. 
+        **[NEW] I am looking for an interested PhD in the **participatory AI** and/or **urban network systems** direction. Please see details [here](https://xfliang.notion.site/PhD-Invitation-to-work-with-Dr-Liang-e81f61ec6cd849cbad2e639880bca0f6?pvs=4)
 
         **[NEW]** If you are a underrepresented student from the United States and want to apply for UMich Urban and Regional Planning PhD, check out [The Future Planning Scholars Program](https://taubmancollege.umich.edu/academics/pre-college-programs/future-planning-scholars-program/). International applicants should consider applying to the virtual Pre-Doctoral Workshop for Underrepresented Students of Color and LGBTQIA+ Students, or the International Planning Students Workshop, both held by the Association of Collegiate Schools of Planning. 
 
