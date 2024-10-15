@@ -7,11 +7,11 @@ sections:
     content:
       title: Work with Me
       text: |-
+        I am highly motivated to work with a PhD student who is interested in the **participatory AI** and/or **urban network systems** direction in the upcoming admission cycle (start Fall 2025). Please see details [here](https://xfliang.notion.site/PhD-Invitation-to-work-with-Dr-Liang-e81f61ec6cd849cbad2e639880bca0f6?pvs=4).
+        
         I work with [undergraduate and graduate students](https://www.xiaofanliang.com/people/) at all levels to conduct research, prioritizing those from the University of Michigan. If you are interested in working with me, please read this page in detail, whether you are a current or prospective student.
 
         ### For Current Students
-
-        **[NEW] I am hiring a student research assistant on AI-related projects for Fall 2024 term. See the job description [here](https://xfliang.notion.site/F24-Hourly-Research-Assistant-on-AI-Projects-with-Prof-Xiaofan-Liang-1f94cba9764b481bb10a97504cc52c98?pvs=4) and apply by August 30th.**
 
         If you are a student at the University of Michigan, I encourage you to take my classes (see in [my teaching](https://www.xiaofanliang.com/teaching/)) as they prepare you for common skills used in my projects. 
 
