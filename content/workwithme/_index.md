@@ -8,7 +8,7 @@
         title: Work with Me
         text: |-
 
-          > I am highly motivated to work with a PhD student who is interested in the **participatory AI** and/or **urban network systems** direction in the upcoming admission cycle (start Fall 2025)**. Please see details [here](https://xfliang.notion.site/PhD-Invitation-to-work-with-Dr-Liang-e81f61ec6cd849cbad2e639880bca0f6?pvs=4). 
+          {{< hl >}} I am highly motivated to work with a PhD student who is interested in the **participatory AI** and/or **urban network systems** direction in the upcoming admission cycle (start Fall 2025)**. Please see details [here](https://xfliang.notion.site/PhD-Invitation-to-work-with-Dr-Liang-e81f61ec6cd849cbad2e639880bca0f6?pvs=4).{{< /hl >}} 
 
           I work with [undergraduate and graduate students](https://www.xiaofanliang.com/people/) at all levels to conduct research, prioritizing those from the University of Michigan. If you are interested in working with me, please read this page in detail, whether you are a current or prospective student.
 
