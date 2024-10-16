@@ -31,3 +31,9 @@
   to = "https://xfliang.notion.site/FALL-24-URP-610-UT-402-Urban-Networks-1bcba1533a934578861584b1494db158?pvs=4"
   status = 301
   force = true # COMMENT: ensure that we always redirect
+
+[[redirects]]
+  from = "/urbanai"
+  to = "https://xfliang.notion.site/Urban-AI-Pedagogy-Workshop-Series-d327e035fbf34ad1a74efd9b26ee7cc0"
+  status = 301
+  force = true # COMMENT: ensure that we always redirect
