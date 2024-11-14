@@ -1,11 +1,11 @@
 ---
 # Display name
-name: Maina Wachira
-title: Maina Wachira
+name: Meixin Yuan
+title: Meixin Yuan
 
 # Username (this should match the folder name)
 authors:
-- maina
+- mei
 
 # Is this the primary user of the site?
 superuser: false
