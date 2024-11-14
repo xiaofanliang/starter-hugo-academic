@@ -1,11 +1,11 @@
 ---
 # Display name
-name: Allison Yu
-title: Allison Yu
+name: Maina Wachira
+title: Maina Wachira
 
 # Username (this should match the folder name)
 authors:
-- allison
+- maina
 
 # Is this the primary user of the site?
 superuser: false
@@ -23,10 +23,12 @@ bio: []
 
 education:
   courses:
-  - course: Master in Urban and Regional Planning
-    institution: University of Michigan - Ann Arbor
-  - course: Bachelor in Architecture
-    institution: University of Detroit Mercy
+  - course: M.S. in Urban and Regional Planning  
+    institution: University of Michigan
+  - course: M.S. in Information Science  
+    institution: University of Michigan
+  - course: B.A. in Landscape Architecture 
+    institution: Northwest A&F University
 
 
 # Social/Academic Networking
@@ -43,7 +45,7 @@ education:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Alumni
+- Students
 ---
 
-Allison Yu is currently a graduate student completing her Master in Urban and Regional Program at Taubman College, University of Michigan. She earned her Bachelor of Science in Architecture from University of Detroit Mercy School of Architecture and Community Development. She is dedicated to advancing accessible, mixed-used and people-centered design; with a particular interest in neighborhoods, campuses and urban streetscape typologies.
+Mei is a doctoral candidate in Urban and Regional Planning at Taubman College, University of Michigan. Her research leverages urban analytics and information technologies to understand urban dynamics and develop planning practices that foster healthy, equitable cities. With diverse training in urban planning, data science, and landscape architecture, Mei is deeply interested in the interplay between emerging technologies and urban planning needs. She has also investigated various planning topics and datasets, including transportation, scenario planning, social media, post-hazard assessment, eviction, and urban design.

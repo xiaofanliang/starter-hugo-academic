@@ -43,7 +43,7 @@ education:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Students
+- Alumni
 ---
 
 Aritra is an Associate Planner at the City of Anchorage, Alaska. Prior to this role, he was a graduate student at Taubman College, University of Michigan - Ann Arbor in the Urban and Regional Planning program. His general interests lie in geospatial data, land economics and housing finance. His research projects have focused primarily on housing and data, with a few projects encompassing scenario planning, parking studies and real estate market analysis.

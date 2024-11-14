@@ -41,7 +41,7 @@ education:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Students
+- Alumni
 ---
 
 I am a second-year BS Urban Technology student in Taubman College at the University of Michigan. I assisted Dr. Liang with research on the network duality principle. My study and research interests involve transportation of all sorts and urban and regional equity issues, analysed through tools like GIS and data presentation/visualisation software. Broadly, I seek to understand urban systems through the lenses of code and design.
