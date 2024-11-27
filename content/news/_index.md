@@ -7,6 +7,10 @@ sections:
     content:
       title: News
       text: |-
+        :speaker: **[NEW]** My course URP 535 Introduction to Urban Informatics is hiring a Graduate Student Instructor (tuition waived + stipend); this is only open to current UMich students. Apply before December 3rd [here](https://careers.umich.edu/job_detail/257119/taubman-college-w25-urban-planning-gsi-limited-availability-positions). (November 27th)
+
+        :speaker: **[NEW]** My students and I presented at [Detroit GIS Day](https://www.detroitgisday.com/)! (November 20th)
+
         :speaker: **[NEW]** I joined Michigan Institute for Data & AI in Society as [an affiliated faculty](https://midas.umich.edu/directory/xiaofan-liang/)! (November 4th)
 
         :speaker: **[NEW]** I will be at ACSP 2024 and AAG 2025 this calendar year. Looking forward to meeting friends and colleagues (November 4th)
