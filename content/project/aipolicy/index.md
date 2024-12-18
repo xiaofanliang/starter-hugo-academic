@@ -4,7 +4,7 @@ summary: What stakeholders are involved in local governments' AI governance? Doe
 tags:
 - Urban Analytics
 - Spatial Social Networks
-date: "2023-11-21"
+date: "2024-12-01"
 
 # Optional external URL for project (replaces project detail page).
 # external_link: "https://github.com/xiaofanliang/AeroATLGreenway"
