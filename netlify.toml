@@ -33,6 +33,18 @@
   force = true # COMMENT: ensure that we always redirect
 
 [[redirects]]
+  from = "/w25urp535"
+  to = "https://xfliang.notion.site/W25-Introduction-to-Urban-Informatics-340984aff625494c8f9ce915157f0fad?pvs=4"
+  status = 301
+  force = true # COMMENT: ensure that we always redirect
+
+[[redirects]]
+  from = "/w25urp610"
+  to = "https://xfliang.notion.site/W25-Urban-AI-aabd6eb602104600915624f2e55fa52d?pvs=4"
+  status = 301
+  force = true # COMMENT: ensure that we always redirect
+
+[[redirects]]
   from = "/urbanai"
   to = "https://xfliang.notion.site/Urban-AI-Pedagogy-Workshop-Series-d327e035fbf34ad1a74efd9b26ee7cc0"
   status = 301
