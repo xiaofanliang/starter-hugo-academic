@@ -7,7 +7,7 @@ sections:
     content:
       title: Talks
       text: |-
-        <h2>**Beyond Nodes and Edges: Integrating Spatial Contexts into Urban Network Science (April, 2024) @ Center for the Study of Complex Systems, University of Michigan **</h2>
+        <h2>Beyond Nodes and Edges: Integrating Spatial Contexts into Urban Network Science (April, 2024) @ Center for the Study of Complex Systems, University of Michigan</h2>
 
         Cities are complex sociotechnical systems comprising intricate networks of infrastructure, human mobility, and relationships. However, conventional applications of network science in urban topics often simplify these systems into nodes and edges, disregarding the spatial and infrastructural contexts in which these networks operate. This limits our understanding of how network dynamics intersect with physical space and infrastructure, hindering meaningful changes that can be enacted through urban planning and policy adjustments.
 
@@ -15,10 +15,10 @@ sections:
 
         <iframe width="100%" height="450" src="https://www.mivideo.it.umich.edu/media/t/1_j7w8kv54" frameborder="0" allowfullscreen></iframe>
 
-        <h2>**“乐谈GIS”——对话梁晓帆博士（上） | 跨学科的碰撞：社会学+AI+规划的“青椒”学术之旅 (August, 2024) @ Shenzhen University, China**</h2>
+        <h2>“乐谈GIS”——对话梁晓帆博士（上） | 跨学科的碰撞：社会学+AI+规划的“青椒”学术之旅 (August, 2024) @ Shenzhen University, China</h2>
         <iframe width="100%" height="450" src="https://www.bilibili.com/video/BV19EYXejEiJ/" frameborder="0" allowfullscreen></iframe>
 
-        <h2>**““乐谈GIS”——对话梁晓帆博士（下） | 文科生如何转换思维写代码 (August, 2024) @ Shenzhen University, China **</h2>
+        <h2>“乐谈GIS”——对话梁晓帆博士（下） | 文科生如何转换思维写代码 (August, 2024) @ Shenzhen University, China</h2>
         <iframe width="100%" height="450" src="https://www.bilibili.com/video/BV1CrYXeaEmz/" frameborder="0" allowfullscreen></iframe>
          
     design:

@@ -13,7 +13,7 @@ main:
   - name: News
     url: news
     weight: 30
-  - ame: Talks
+  - name: Talks
     url: talk
     weight: 40
   - name: Teaching
