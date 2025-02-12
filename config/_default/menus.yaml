@@ -13,15 +13,18 @@ main:
   - name: News
     url: news
     weight: 30
+  - ame: Talks
+    url: talk
+    weight: 40
   - name: Teaching
     url: teaching
-    weight: 40
+    weight: 50
   - name: Data and Maps
     url: data
-    weight: 50
+    weight: 60
   - name: People
     url: people
-    weight: 60
+    weight: 70
   - name: Work with Me 
     url: workwithme
-    weight: 70
+    weight: 80
