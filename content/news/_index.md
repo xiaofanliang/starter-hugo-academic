@@ -21,7 +21,7 @@ sections:
 
         :page_facing_up: My new paper titled [Lessons from a Human-in-the-Loop Machine Learning Approach for Identifying Vacant, Abandoned, and Deteriorated Properties in Savannah, Georgia](https://journals.sagepub.com/eprint/4PZVYRJYYYE3UKG7IBGJ/full) is published in **Journal of Planning Education and Research**! This multi-year project works with City of Savannah to explore how human expertise can be integrated into machine learning model and how such human-in-the-loop model may differ from a traditional ML model and the city's current practice. 
 
-        :speaker: I gave a seminar talk at Shenzhen University and was interviewed by Prof. Yue Yang. See Bilibili talk links here ([“乐谈GIS”——对话梁晓帆博士（上） | 跨学科的碰撞：社会学+AI+规划的“青椒”学术之旅](https://www.bilibili.com/video/BV19EYXejEiJ/?spm_id_from=333.337.search-card.all.click); [“乐谈GIS”——对话梁晓帆博士（下） | 文科生如何转换思维写代码](https://www.bilibili.com/video/BV1CrYXeaEmz/?spm_id_from=333.337.search-card.all.click)) (August 5th). 
+        <!--:speaker: I gave a seminar talk at Shenzhen University and was interviewed by Prof. Yue Yang. See Bilibili talk links here ([“乐谈GIS”——对话梁晓帆博士（上） | 跨学科的碰撞：社会学+AI+规划的“青椒”学术之旅](https://www.bilibili.com/video/BV19EYXejEiJ/?spm_id_from=333.337.search-card.all.click); [“乐谈GIS”——对话梁晓帆博士（下） | 文科生如何转换思维写代码](https://www.bilibili.com/video/BV1CrYXeaEmz/?spm_id_from=333.337.search-card.all.click)) (August 5th). -->
 
         <!--:speaker: I am hiring a student research assistant on AI-related projects for Fall 2024 term. See the job description [here](https://xfliang.notion.site/F24-Hourly-Research-Assistant-on-AI-Projects-with-Prof-Xiaofan-Liang-1f94cba9764b481bb10a97504cc52c98?pvs=4) and apply by August 30th (August 19th) [CLOSED]. -->
 
