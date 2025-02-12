@@ -9,6 +9,7 @@ sections:
       text: |-
         ### Winter 2025
         [URP 535/URP 402/SI 536 Introduction to Urban Informatics](https://taubmancollege.umich.edu/course/urp535-introduction-to-urban-informatics-section-1-winter-2025/)
+        
         [URP 610/UT 402 Urban AI](https://taubmancollege.umich.edu/course/urp610-urban-ai-section-1-winter-2025/)
 
         ### Fall 2024 
