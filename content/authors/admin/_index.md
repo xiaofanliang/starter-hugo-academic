@@ -21,10 +21,9 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Urban Networks and Social Inclusion 
-  - Inclusive Social, Digital, and Transportation Infrastructure
-  - Data and AI Governance in Cities 
-  - Participatory and Critical Data Methods for Planning 
+  - The Network Effects of Social, Digital, and Transportation Infrastructure   
+  - Data Governance and Infrastructure in Cities 
+  - Human Agency in Urban AI Governance and Applications 
 
 education:
   courses:
