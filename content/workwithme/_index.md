@@ -29,7 +29,7 @@ sections:
 
         **PhD Applicant**
 
-        To apply to our [Urban and Regional Planning PhD program](https://taubmancollege.umich.edu/urbanplanning/degrees/phd-urban-and-regional-planning), you do not need to seek out an advisor or create a research proposal before applying. The selection process is divided into two stages. The Faculty Admissions Committee will select some outstanding candidates from the applicant pool and faculty members with expertise in the applicant's area are asked to evaluate these applications and indicate their availability to serve as the initial advisor. This advisor may change if the student's interests evolve after enrollment. Our PhDs are fully funded by UMich Rackham Graduate School fellowships. 
+        If you are interested to work with me, I highly encourage you to reach out to me before application. During the admission process, the Faculty Admissions Committee will select some outstanding candidates from the applicant pool and faculty members with expertise in the applicant's area are asked to evaluate these applications and indicate their availability to serve as the initial advisor. This advisor may change if the student's interests evolve after enrollment. Our PhDs are fully funded by UMich Rackham Graduate School fellowships for 4-5 years. 
 
         **[NEW]** I am looking for an interested PhD in the **participatory AI** and/or **urban network systems** direction. Please see details [here](https://xfliang.notion.site/PhD-Invitation-to-work-with-Dr-Liang-e81f61ec6cd849cbad2e639880bca0f6?pvs=4)
 

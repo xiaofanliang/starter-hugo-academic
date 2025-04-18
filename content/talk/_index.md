@@ -7,6 +7,10 @@ sections:
     content:
       title: Talks
       text: |-
+        <h2>Lessons from a human-in-the-loop machine learning approach to identify vacant, abandoned, and deteriorated properties in Savannah, Georgia (April, 2025) @ Michigan Institute for Data & AI in Society, University of Michigan</h2>
+
+        <iframe width="100%" height="450" src="https://www.youtube.com/watch?v=eU48pxr92Zs" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
         <h2>Beyond Nodes and Edges: Integrating Spatial Contexts into Urban Network Science (April, 2024) @ Center for the Study of Complex Systems, University of Michigan</h2>
 
         Cities are complex sociotechnical systems comprising intricate networks of infrastructure, human mobility, and relationships. However, conventional applications of network science in urban topics often simplify these systems into nodes and edges, disregarding the spatial and infrastructural contexts in which these networks operate. This limits our understanding of how network dynamics intersect with physical space and infrastructure, hindering meaningful changes that can be enacted through urban planning and policy adjustments.
