@@ -9,7 +9,7 @@ sections:
       text: |-
         <h2>Lessons from a human-in-the-loop machine learning approach to identify vacant, abandoned, and deteriorated properties in Savannah, Georgia (April, 2025) @ Michigan Institute for Data & AI in Society, University of Michigan</h2>
 
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/eU48pxr92Zs?si=KSAjiTN-niD3ftP2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe width="100%" height="450" src="https://www.youtube.com/embed/eU48pxr92Zs?si=KSAjiTN-niD3ftP2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
         <h2>Beyond Nodes and Edges: Integrating Spatial Contexts into Urban Network Science (April, 2024) @ Center for the Study of Complex Systems, University of Michigan</h2>
 
