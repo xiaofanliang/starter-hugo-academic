@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Research Assistant
+role: Alumni
 
 # Organizations/Affiliations
 organizations:
@@ -45,7 +45,7 @@ education:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Students
+- Alumni
 ---
 
 I recently completed my dual Master's degree in Landscape Architecture and Information Science from the University of Michigan. Prior to that, I earned my Bachelor's degree in Urban Planning from Tongji University. Currently, I am working as a research assistant with Dr. Xiaofan Liang in the Taubman College of Architecture and Urban Planning. My research interests lie in GIS, transportation, urban analytics, and sustainable planning.
