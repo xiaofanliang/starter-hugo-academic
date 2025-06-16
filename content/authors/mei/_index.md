@@ -45,7 +45,7 @@ education:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Students
+- Alumni
 ---
 
 Mei is a doctoral candidate in Urban and Regional Planning at Taubman College, University of Michigan. Her research leverages urban analytics and information technologies to understand urban dynamics and develop planning practices that foster healthy, equitable cities. With diverse training in urban planning, data science, and landscape architecture, Mei is deeply interested in the interplay between emerging technologies and urban planning needs. She has also investigated various planning topics and datasets, including transportation, scenario planning, social media, post-hazard assessment, eviction, and urban design.

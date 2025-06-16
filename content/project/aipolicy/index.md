@@ -1,16 +1,16 @@
 ---
-title: "Who Has a Say in Local Goverment AI Governance? A Stakeholder Network Analysis on AI-related Public Documents"
+title: "Decoding the Municipal AI Landscape: Generative AI-Driven Insights for AI Governance and Application in the City of Seattle"
 summary: What stakeholders are involved in local governments' AI governance? Does the stakeholder scene changes based on particular document types / topics? Do the stakeholder networks vary significantly across cities?  
 tags:
 - Urban Analytics
-- Spatial Social Networks
-date: "2024-12-01"
+- Urban AI
+date: "2025-06-12"
 
 # Optional external URL for project (replaces project detail page).
 # external_link: "https://github.com/xiaofanliang/AeroATLGreenway"
 
 image:
-  caption: An image of stakeholder network at the City of Seattle, produced by Jack Bernard. 
+  caption: Human-AI Collboration Workflow to Identify Relevant Contents in Public Documents
   focal_point: Smart
 
 links:
@@ -25,11 +25,13 @@ links:
 
 (In Progress)
 
-This work is in development with URP PhD Meixin Yuan and UT undergrad Jack Bernard. 
+This work is in development with Meixin Yuan, Jack Bernard, and Qifan Wu. 
 
 **Abstract**
 
-As local governments start to embrace AI technology in application and governance, a big unknown lies at who has a say in the process and how different actors interact in shaping the application and governance landscape, especially when it comes to the sub-domain of AI applications. Using public documents released by the local governments as traces for technology governance and adoption, we first classified the public documents based on whether they are AI-relevant, defined as whether they mention AI regulation, governance, or application. Then we used large language model to help extract stakeholders from the document and form networks for analysis. 
+We explore a novel human-AI workflow for identifying and categorizing grey literature related to AI governance and application, using the City of Seattle as a case study. Our goal is to move beyond simple keyword searches to accurately detect predefined AI topics, retrieve supporting evidence, and minimize hallucinations common in end-to-end LLM applications. The ultimate vision is to enable the public to find relevant AI topics in a large volume of public documents and provide a mechanism to trace back to the original supporting texts.
+
+Our workflow has iterated on chunking strategies, retrieval methods, and opportunities for human validation. While the workflow remains in an early prototype stage, we share key challenges, design decisions, and preliminary findings that shed light on the complexity of using generative AI to understand municipal AI landscapes. We applied our methods to all public documents released by City of Seattle as a case study to test validity. 
 
 **Keywords: AI governance; stakeholders; network**
 
