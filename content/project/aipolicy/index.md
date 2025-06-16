@@ -1,6 +1,7 @@
 ---
 title: "Decoding the Municipal AI Landscape: Generative AI-Driven Insights for AI Governance and Application in the City of Seattle"
-summary: What stakeholders are involved in local governments' AI governance? Does the stakeholder scene changes based on particular document types / topics? Do the stakeholder networks vary significantly across cities?  
+summary: How can we design a document analysis workflow that finds relevant contents in public documents, while making the process transparent, trackable, with high validity? What specific actions are being taken by the city or its vendors to apply or govern AI technologies in the public sector?
+ 
 tags:
 - Urban Analytics
 - Urban AI
