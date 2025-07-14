@@ -7,19 +7,31 @@ sections:
     content:
       title: News
       text: |-
-        :speaker: **[NEW]** My course URP 535 Introduction to Urban Informatics is hiring a Graduate Student Instructor (tuition waived + stipend); this is only open to current UMich students. Apply before December 3rd [here](https://careers.umich.edu/job_detail/257119/taubman-college-w25-urban-planning-gsi-limited-availability-positions). (November 27th)
+        :speaker: **[ROLLING]** I am highly motivated to work with a PhD student who is interested in the urban AI and/or urban networks system direction, starting Fall 2026. Find more details at [PhD Invitation](https://xfliang.notion.site/PhD-Invitation-to-work-with-Dr-Liang-e81f61ec6cd849cbad2e639880bca0f6). 
 
-        :speaker: **[NEW]** My students and I presented at [Detroit GIS Day](https://www.detroitgisday.com/)! (November 20th)
+        :speaker: **[NEW]** I am hiring a full-time, nine months, Urban AI research associate to start in September, 2025. Interested candidate should apply as soon as possible as the deadline is rolling. Please see application details [here](https://careers.umich.edu/job_detail/265983/urban-artificial-intelligence-ai-research-associate). (July, 2025)
 
-        :speaker: **[NEW]** I joined Michigan Institute for Data & AI in Society as [an affiliated faculty](https://midas.umich.edu/directory/xiaofan-liang/)! (November 4th)
+        :moneybag: **[NEW]** I am awarded 2025 Michigan Institute of Data & AI in Society PODS grant, co-funded by Microsoft to work on project ["Governing AI’s Footprint: A Scalable Human-AI Workflow to Extract Zoning Codes for Data Centers and Renewable Energy Sitting"](https://midas.umich.edu/research/research-resources/funding-support/propelling-original-data-science/awardees/) (July, 2025)
 
-        :speaker: **[NEW]** I will be at ACSP 2024 and AAG 2025 this calendar year. Looking forward to meeting friends and colleagues (November 4th)
+        :speaker: **[NEW]** I presented team research "Decoding the Municipal AI Landscape: Generative AI-Driven Insights for AI Governance and Application in the City of Seattle" at CUPUM 2025. (June, 2025)
 
-        :speaker: **[NEW]** I gave a talk on our [Intercity Conenctivity and Innovation](https://www.sciencedirect.com/science/article/abs/pii/S0198971524000218) paper at Asia Cities Research Workshop at MIT Center for Real Estate (October 7th)
+        :speaker: **[NEW]** I am grateful to have the opportunity to present a collection of my research on exploring Human-AI Collaboration at Urban Big Data Centre @ University of Glasgow. (June, 2025)
 
-        :speaker: **[NEW]** I am highly motivated to work with a PhD student who is interested in the participatory AI and/or urban networks system direction. Find more details at [Work with Me](https://www.xiaofanliang.com/workwithme/) page (August 19th)
+        :speaker: **[NEW]** I am honored to give a seminar talk at UCL CASA to share my thoughts on how human (including planners!) and AI can better collaborate in the future. (June, 2025)
 
-        :page_facing_up: My new paper titled [Lessons from a Human-in-the-Loop Machine Learning Approach for Identifying Vacant, Abandoned, and Deteriorated Properties in Savannah, Georgia](https://journals.sagepub.com/eprint/4PZVYRJYYYE3UKG7IBGJ/full) is published in **Journal of Planning Education and Research**! This multi-year project works with City of Savannah to explore how human expertise can be integrated into machine learning model and how such human-in-the-loop model may differ from a traditional ML model and the city's current practice. 
+        :speaker: My course URP 535 Introduction to Urban Informatics is hiring a Graduate Student Instructor (tuition waived + stipend); this is only open to current UMich students. Apply before December 3rd [here](https://careers.umich.edu/job_detail/257119/taubman-college-w25-urban-planning-gsi-limited-availability-positions). (November 27th)
+
+        :speaker: My students and I presented at [Detroit GIS Day](https://www.detroitgisday.com/)! (November 20th)
+
+        :speaker: I joined Michigan Institute for Data & AI in Society as [an affiliated faculty](https://midas.umich.edu/directory/xiaofan-liang/)! (November 4th)
+
+        <!--:speaker: I will be at ACSP 2024 and AAG 2025 this calendar year. Looking forward to meeting friends and colleagues (November 4th)-->
+
+        <!--:speaker: I gave a talk on our [Intercity Conenctivity and Innovation](https://www.sciencedirect.com/science/article/abs/pii/S0198971524000218) paper at Asia Cities Research Workshop at MIT Center for Real Estate (October 7th)-->
+
+        <!--:speaker: I am highly motivated to work with a PhD student who is interested in the participatory AI and/or urban networks system direction. Find more details at [Work with Me](https://www.xiaofanliang.com/workwithme/) page (August 19th)-->
+
+        <!--:page_facing_up: My new paper titled [Lessons from a Human-in-the-Loop Machine Learning Approach for Identifying Vacant, Abandoned, and Deteriorated Properties in Savannah, Georgia](https://journals.sagepub.com/eprint/4PZVYRJYYYE3UKG7IBGJ/full) is published in **Journal of Planning Education and Research**! This multi-year project works with City of Savannah to explore how human expertise can be integrated into machine learning model and how such human-in-the-loop model may differ from a traditional ML model and the city's current practice. -->
 
         <!--:speaker: I gave a seminar talk at Shenzhen University and was interviewed by Prof. Yue Yang. See Bilibili talk links here ([“乐谈GIS”——对话梁晓帆博士（上） | 跨学科的碰撞：社会学+AI+规划的“青椒”学术之旅](https://www.bilibili.com/video/BV19EYXejEiJ/?spm_id_from=333.337.search-card.all.click); [“乐谈GIS”——对话梁晓帆博士（下） | 文科生如何转换思维写代码](https://www.bilibili.com/video/BV1CrYXeaEmz/?spm_id_from=333.337.search-card.all.click)) (August 5th). -->
 
