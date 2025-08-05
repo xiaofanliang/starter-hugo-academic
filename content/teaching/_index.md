@@ -7,6 +7,11 @@ sections:
     content:
       title: Teaching
       text: |-
+        ### Fall 2025
+        [URP 538/UT 438 Urban Networks](https://taubmancollege.umich.edu/course/urp538-urban-networks-section-1-fall-2025/)
+
+        [URP 506 Planning Methods](https://taubmancollege.umich.edu/course/urp506-planning-methods-section-1-fall-2025/)
+
         ### Winter 2025
         [URP 535/URP 402/SI 536 Introduction to Urban Informatics](https://taubmancollege.umich.edu/course/urp535-introduction-to-urban-informatics-section-1-winter-2025/); [2025 Syllabus](https://www.xiaofanliang.com/teaching/URP535_w25.pdf)
         
