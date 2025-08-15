@@ -49,3 +49,15 @@
   to = "https://xfliang.notion.site/Urban-AI-Pedagogy-Workshop-Series-d327e035fbf34ad1a74efd9b26ee7cc0"
   status = 301
   force = true # COMMENT: ensure that we always redirect
+
+[[redirects]]
+  from = "/f25urp506"
+  to = "https://xfliang.notion.site/F25-URP-506-Planning-Methods-250c9e21f8d3804083d5ceadc30cb64f"
+  status = 301
+  force = true # COMMENT: ensure that we always redirect
+
+[[redirects]]
+  from = "/f25urp538"
+  to = "https://xfliang.notion.site/F25-Urban-Networks-URP-538-UT-438-22dc9e21f8d380df9f1df097cbcd3d47"
+  status = 301
+  force = true # COMMENT: ensure that we always redirect
