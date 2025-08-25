@@ -46,4 +46,4 @@ user_groups:
 - Students
 ---
 
-Maina is a first year PhD student in Urban and Regional Planning at the University of Michigan. He earned an M.S. in Quantitative Methods and Social Analysis from Northeastern University and a B.A. in Philosophy from the University of Chicago. He is interested in bringing this background to bear in his research, with an emerging focus on how computational methods (e.g., network science, simulation, urban informatics, etc.) can come together with traditional urban theory to help us better understand, and more equitably plan for, cities in Africa and beyond.
+Maina is a second year PhD student in Urban and Regional Planning at the University of Michigan. He earned an M.S. in Quantitative Methods and Social Analysis from Northeastern University and a B.A. in Philosophy from the University of Chicago. He is interested in bringing this background to bear in his research, with emerging interests in (1) the application of computational tools to planning and (2) the connections between theories of global development and planning.
