@@ -5,7 +5,7 @@ summary: How are data centers and solar farms regulated in zoning codes in the M
 tags:
 - Urban Analytics
 - Urban AI
-date: "2025-08-26"
+date: "2025-08-25"
 
 # Optional external URL for project (replaces project detail page).
 # external_link: "https://github.com/xiaofanliang/AeroATLGreenway"
