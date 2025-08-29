@@ -23,6 +23,8 @@ sections:
 
         :speaker: **[NEW]** I am honored to give a seminar talk at UCL CASA to share my thoughts on how human (including planners!) and AI can better collaborate in the future. (June, 2025)
 
+        :speaker: **[NEW]** I shared my network research at NYU Center for Urban Science + Progress, hosted by Prof. Takahiro Yabe. (June, 2025)
+
         :speaker: My course URP 535 Introduction to Urban Informatics is hiring a Graduate Student Instructor (tuition waived + stipend); this is only open to current UMich students. Apply before December 3rd [here](https://careers.umich.edu/job_detail/257119/taubman-college-w25-urban-planning-gsi-limited-availability-positions). (November 27th)
 
         :speaker: My students and I presented at [Detroit GIS Day](https://www.detroitgisday.com/)! (November 20th)
