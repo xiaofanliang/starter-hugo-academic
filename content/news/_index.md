@@ -13,7 +13,7 @@ sections:
 
         :speaker: **[NEW]** I am hiring 1-3 research assistants Fall 2025 to support a project exploring the planning and community implications of data centers. Please apply through this [Google Form](https://docs.google.com/forms/d/1XjkAPlJ0gSCNYkR-yAQQYgp7ZloxhSBuXXAMxHgBwUo/preview). Application is due September 3rd. (August, 2025)
 
-        :speaker: **[NEW]** I am hiring a full-time, nine months, Urban AI research associate to start in September, 2025. Interested candidate should apply as soon as possible as the deadline is rolling. Please see application details [here](https://careers.umich.edu/job_detail/265983/urban-artificial-intelligence-ai-research-associate). (July, 2025)
+        :speaker: **[CLOSED]** I am hiring a full-time, nine months, Urban AI research associate to start in September, 2025. Interested candidate should apply as soon as possible as the deadline is rolling. Please see application details [here](https://careers.umich.edu/job_detail/265983/urban-artificial-intelligence-ai-research-associate). (July, 2025)
 
         :moneybag: **[NEW]** I am awarded 2025 Michigan Institute of Data & AI in Society PODS grant, co-funded by Microsoft to work on project ["Governing AI’s Footprint: A Scalable Human-AI Workflow to Extract Zoning Codes for Data Centers and Renewable Energy Sitting"](https://midas.umich.edu/research/research-resources/funding-support/propelling-original-data-science/awardees/) (July, 2025)
 
