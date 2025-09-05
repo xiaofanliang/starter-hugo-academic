@@ -26,6 +26,8 @@ links:
 
 (In Progress)
 
+Feel free to check out the Urban AI course syllabus and student project portfolio in 2025 at: https://www.xiaofanliang.com/teaching/
+
 
 **Abstract**
 
