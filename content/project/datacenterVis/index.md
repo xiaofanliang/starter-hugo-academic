@@ -26,14 +26,15 @@ links:
 
 (In Progress)
 
-This work is in development with Zhixuan Qi, Sarah Mills. 
+This work is in development with Matthew Wizinsky, Yajun Dai, Samuel Sav, Huy Dung Lou, and Katherine Cafaro. 
 
 **Abstract**
 
 The project examines data centers through three interrelated layers:
-• People Layer: Who are the stakeholders in the data center ecosystem? What are their relationships, motivations, and jurisdictions of influence?
-• Infrastructure Layer: What urban infrastructures (e.g., water, energy, utilities) are required to support data centers, and how are these systems connected?
-• Governance Layer: What are the planning and community considerations—social, environmental, tax, land use, future of work—when a data center comes to town? What does the local approval process look like, and how can we estimate community impacts?
+
+- People Layer: Who are the stakeholders in the data center ecosystem? What are their relationships, motivations, and jurisdictions of influence?
+- Infrastructure Layer: What urban infrastructures (e.g., water, energy, utilities) are required to support data centers, and how are these systems connected?
+- Governance Layer: What are the planning and community considerations—social, environmental, tax, land use, future of work—when a data center comes to town? What does the local approval process look like, and how can we estimate community impacts?
 
 **Keywords: data center; community impacts; inforgraphics**
 
