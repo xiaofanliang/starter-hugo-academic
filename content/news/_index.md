@@ -11,25 +11,35 @@ sections:
 
         :speaker: **[ROLLING]** I am seeking to speak with *Network Practitioners* (broadly defined)! As part of my research, I’m looking to better understand how practitioners engage with multi-network urban systems—especially when the priorities of one network system impose tradeoffs, barriers, or unintended consequences on others. I’m interested in how people work through data complexity, representation mismatches, infrastructural interdependencies, and overlapping flows, particularly when the systems they work with operate at different scales, speeds, or purposes. Find more details at this [LinkedIn Post](https://www.linkedin.com/posts/xiaofan-liang-b5705481_interest-form-for-network-practitioners-activity-7346520911254069248-UmjH?utm_source=share&utm_medium=member_desktop&rcm=ACoAABFFRnMB9Ulf66iu5vlWUTmOjdEDdhFHdCI). 
 
-        :speaker: **[NEW]** I am hiring 1-3 research assistants Fall 2025 to support a project exploring the planning and community implications of data centers. Please apply through this [Google Form](https://docs.google.com/forms/d/1XjkAPlJ0gSCNYkR-yAQQYgp7ZloxhSBuXXAMxHgBwUo/preview). Application is due September 3rd. (August, 2025)
+        :speaker: **NEW** I am invited as speaker at [Urban Tech Summit](https://www.urbantechsummit.com/speakers-2025) at Cornell Tech on November 11-12th to share our recent research on data center and zoning. 
+
+        :speaker: **NEW** I am invited as a roundtable panelist at University of Michigan Symposium on AI, Data Center Infrastructure, and Climate Change Challenge on October 30th. Register [here](https://docs.google.com/forms/d/e/1FAIpQLSfK0Y_uUg5Zvc1_CMOBX53__AXPis66Ju_iZahdy_OQanPvMg/viewform). 
+
+        :speaker: **NEW** I am going to present a variety of projects at ACSP 2025 and is open to meet with prospective PhD students in-person during the conference! Please reach out to me in email early to schedule a time (October, 2025). 
+
+        :speaker: **NEW** I spoke at UMSI (School of Information) again in a data center panel in the UM Climate Week. (October, 2025)
+
+        :speaker: **NEW** I presented the work on Decoding Municipal AI Landscape at UM School of Information Computational Social Science Seminar (see [details](https://www.si.umich.edu/about-umsi/events/computational-social-science-seminar-xiaofan-liang-u-m-taubman-college)). (October, 2025)
+
+        :speaker: **[CLOSED]** I am hiring 1-3 research assistants Fall 2025 to support a project exploring the planning and community implications of data centers. Please apply through this [Google Form](https://docs.google.com/forms/d/1XjkAPlJ0gSCNYkR-yAQQYgp7ZloxhSBuXXAMxHgBwUo/preview). Application is due September 3rd. (August, 2025)
 
         :speaker: **[CLOSED]** I am hiring a full-time, nine months, Urban AI research associate to start in September, 2025. Interested candidate should apply as soon as possible as the deadline is rolling. Please see application details [here](https://careers.umich.edu/job_detail/265983/urban-artificial-intelligence-ai-research-associate). (July, 2025)
 
-        :moneybag: **[NEW]** I am awarded 2025 Michigan Institute of Data & AI in Society PODS grant, co-funded by Microsoft to work on project ["Governing AI’s Footprint: A Scalable Human-AI Workflow to Extract Zoning Codes for Data Centers and Renewable Energy Sitting"](https://midas.umich.edu/research/research-resources/funding-support/propelling-original-data-science/awardees/) (July, 2025)
+        :moneybag: I am awarded 2025 Michigan Institute of Data & AI in Society PODS grant, co-funded by Microsoft to work on project ["Governing AI’s Footprint: A Scalable Human-AI Workflow to Extract Zoning Codes for Data Centers and Renewable Energy Sitting"](https://midas.umich.edu/research/research-resources/funding-support/propelling-original-data-science/awardees/) (July, 2025)
 
-        :speaker: **[NEW]** I presented team research "Decoding the Municipal AI Landscape: Generative AI-Driven Insights for AI Governance and Application in the City of Seattle" at CUPUM 2025. (June, 2025)
+        :speaker: I presented team research "Decoding the Municipal AI Landscape: Generative AI-Driven Insights for AI Governance and Application in the City of Seattle" at CUPUM 2025. (June, 2025)
 
-        :speaker: **[NEW]** I am grateful to have the opportunity to present a collection of my research on exploring Human-AI Collaboration at Urban Big Data Centre @ University of Glasgow. (June, 2025)
+        :speaker: I am grateful to have the opportunity to present a collection of my research on exploring Human-AI Collaboration at Urban Big Data Centre @ University of Glasgow. (June, 2025)
 
-        :speaker: **[NEW]** I am honored to give a seminar talk at UCL CASA to share my thoughts on how human (including planners!) and AI can better collaborate in the future. (June, 2025)
+        :speaker: I am honored to give a seminar talk at UCL CASA to share my thoughts on how human (including planners!) and AI can better collaborate in the future. (June, 2025)
 
-        :speaker: **[NEW]** I shared my network research at NYU Center for Urban Science + Progress, hosted by Prof. Takahiro Yabe. (June, 2025)
+        :speaker: I shared my network research at NYU Center for Urban Science + Progress, hosted by Prof. Takahiro Yabe. (June, 2025)
 
-        :speaker: My course URP 535 Introduction to Urban Informatics is hiring a Graduate Student Instructor (tuition waived + stipend); this is only open to current UMich students. Apply before December 3rd [here](https://careers.umich.edu/job_detail/257119/taubman-college-w25-urban-planning-gsi-limited-availability-positions). (November 27th)
+        <!--:speaker: My course URP 535 Introduction to Urban Informatics is hiring a Graduate Student Instructor (tuition waived + stipend); this is only open to current UMich students. Apply before December 3rd [here](https://careers.umich.edu/job_detail/257119/taubman-college-w25-urban-planning-gsi-limited-availability-positions). (November 27th)-->
 
-        :speaker: My students and I presented at [Detroit GIS Day](https://www.detroitgisday.com/)! (November 20th)
+        <!--:speaker: My students and I presented at [Detroit GIS Day](https://www.detroitgisday.com/)! (November 20th)-->
 
-        :speaker: I joined Michigan Institute for Data & AI in Society as [an affiliated faculty](https://midas.umich.edu/directory/xiaofan-liang/)! (November 4th)
+        <!--:speaker: I joined Michigan Institute for Data & AI in Society as [an affiliated faculty](https://midas.umich.edu/directory/xiaofan-liang/)! (November 4th)-->
 
         <!--:speaker: I will be at ACSP 2024 and AAG 2025 this calendar year. Looking forward to meeting friends and colleagues (November 4th)-->
 
