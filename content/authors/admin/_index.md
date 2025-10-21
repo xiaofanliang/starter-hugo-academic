@@ -22,8 +22,8 @@ organizations:
 
 interests:
   - The Network Effects of Social, Digital, and Transportation Infrastructure   
-  - Data Governance and Infrastructure in Cities 
-  - Human Agency in Urban AI Governance and Applications 
+  - Effective, Appropriate, and Human-centered AI Applications for Urban Planning
+  - Planning Implications of AI Infrastructure 
 
 education:
   courses:
