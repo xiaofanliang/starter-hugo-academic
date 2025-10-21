@@ -11,9 +11,12 @@ sections:
 
         :speaker: **[ROLLING]** I am seeking to speak with *Network Practitioners* (broadly defined)! As part of my research, I’m looking to better understand how practitioners engage with multi-network urban systems—especially when the priorities of one network system impose tradeoffs, barriers, or unintended consequences on others. I’m interested in how people work through data complexity, representation mismatches, infrastructural interdependencies, and overlapping flows, particularly when the systems they work with operate at different scales, speeds, or purposes. Find more details at this [LinkedIn Post](https://www.linkedin.com/posts/xiaofan-liang-b5705481_interest-form-for-network-practitioners-activity-7346520911254069248-UmjH?utm_source=share&utm_medium=member_desktop&rcm=ACoAABFFRnMB9Ulf66iu5vlWUTmOjdEDdhFHdCI). 
 
+
         :speaker: **NEW** I am invited as speaker at [Urban Tech Summit](https://www.urbantechsummit.com/speakers-2025) at Cornell Tech on November 11-12th to share our recent research on data center and zoning. 
 
         :speaker: **NEW** I am invited as a roundtable panelist at University of Michigan Symposium on AI, Data Center Infrastructure, and Climate Change Challenge on October 30th. Register [here](https://docs.google.com/forms/d/e/1FAIpQLSfK0Y_uUg5Zvc1_CMOBX53__AXPis66Ju_iZahdy_OQanPvMg/viewform). 
+
+        :speaker: **NEW** I was invited to join UM Science, Technology, and Public Policy Program as an Affiliated Faculty! (October, 2025)
 
         :speaker: **NEW** I am going to present a variety of projects at ACSP 2025 and is open to meet with prospective PhD students in-person during the conference! Please reach out to me in email early to schedule a time (October, 2025). 
 
