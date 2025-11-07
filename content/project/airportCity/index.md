@@ -18,7 +18,7 @@ links:
   url: https://xiaofanliang.github.io/AeroATLGreenway/
 
 - name: Manuscript
-  url: https://journals.sagepub.com/eprint/CBF8CYTYZDD66UHZEFKS/full
+  url: https://www.xiaofanliang.com/publication/aerotropolis/Aerotropolis_Accepted.pdf
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -38,7 +38,7 @@ This project is developed with Perry Yang and curated through Aerotropolis desig
 
 [Link to Interactive AeroATL Greenway Planning Tool](https://xiaofanliang.github.io/AeroATLGreenway/)
 
-[Link to Published Manuscript](https://journals.sagepub.com/eprint/CBF8CYTYZDD66UHZEFKS/full)
+[Link to Published Manuscript](https://www.xiaofanliang.com/publication/aerotropolis/Aerotropolis_Accepted.pdf)
 
 [Link to Project Details, Web Tool Implementation, and Data](https://github.com/xiaofanliang/AeroATLGreenway)
 
