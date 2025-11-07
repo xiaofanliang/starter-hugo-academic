@@ -11,8 +11,9 @@ sections:
 
         :speaker: **[ROLLING]** I am seeking to speak with *Network Practitioners* (broadly defined)! As part of my research, I’m looking to better understand how practitioners engage with multi-network urban systems—especially when the priorities of one network system impose tradeoffs, barriers, or unintended consequences on others. I’m interested in how people work through data complexity, representation mismatches, infrastructural interdependencies, and overlapping flows, particularly when the systems they work with operate at different scales, speeds, or purposes. Find more details at this [LinkedIn Post](https://www.linkedin.com/posts/xiaofan-liang-b5705481_interest-form-for-network-practitioners-activity-7346520911254069248-UmjH?utm_source=share&utm_medium=member_desktop&rcm=ACoAABFFRnMB9Ulf66iu5vlWUTmOjdEDdhFHdCI). 
 
+        :page_facing_up: **NEW** My dissertation project "Transforming Mobility Barriers to Connectivity: Examining the Impact of the AeroATL Greenway Plan in Reconnecting Communities Around Aerotropolis Atlanta" is published at Transportation Research Record: Journal of the Transportation Research Board!
 
-        :speaker: **NEW** I am invited as speaker at [Urban Tech Summit](https://www.urbantechsummit.com/speakers-2025) at Cornell Tech on November 11-12th to share our recent research on data center and zoning. 
+        :speaker: **NEW** I am invited as speaker at [Urban Tech Summit](https://www.urbantechsummit.com/speakers-2025) at Cornell Tech on November 11-12th to share our recent research on data center and zoning (November, 2025).
 
         :speaker: **NEW** I am invited as a roundtable panelist at University of Michigan Symposium on AI, Data Center Infrastructure, and Climate Change Challenge on October 30th. Register [here](https://docs.google.com/forms/d/e/1FAIpQLSfK0Y_uUg5Zvc1_CMOBX53__AXPis66Ju_iZahdy_OQanPvMg/viewform). 
 

@@ -17,8 +17,8 @@ links:
 - name: Interactive Web Tool 
   url: https://xiaofanliang.github.io/AeroATLGreenway/
 
-- name: Draft Manuscript
-  url: https://github.com/xiaofanliang/AeroATLGreenway/blob/main/Manuscript_XiaofanLiang_06222023.pdf
+- name: Manuscript
+  url: https://journals.sagepub.com/eprint/CBF8CYTYZDD66UHZEFKS/full
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -28,19 +28,17 @@ links:
 #slides: example
 ---
 
-(In Progress, Leading author)
-
-This work is developed with Dr. Perry Yang and curated through Aerotropolis design studio in 2020 and 2021. This project is funded by The ACRP (Airport Cooperative Research Program) Graduate Research Award 2022, and supported by Aerotropolis Atlanta. 
-
 **Abstract**
 
 Airports are critical connectivity infrastructure that supports regional mobility flows and elevates cities’ positions in an interconnected global network. Yet, airports can also be mobility barriers that incentivize car-centric developments, preventing locals from getting to non-airport destinations. Using Hartsfield-Jackson Atlanta International Airport (H-JAIA) and AeroATL Greenway (the Greenway), a newly proposed trail plan in Atlanta Aerotropolis region, as a comparative case study, we quantified H-JAIA’s barrier effect on Aerotropolis residents’ biking and walking trips and evaluated the effect of the Greenway on improving residents’ biking and walking trips distance and experience. Our results show evidence that H-JAIA and its surrounding environment impede local mobility flows. The Greenway has stronger impact at improving trip experience than reducing distance, yet the specific effect varies by segments and implementation scenarios. These results are further validated on the route level with community stakeholders as they interact with a Greenway web tool we developed in a participatory modeling workshop. Insights are consolidated into community trust and commitment to further the Greenway implementation. 
+
+This project is developed with Prof. Perry Yang and curated through Aerotropolis design studio at Georgia Tech in 2020 and 2021. It is funded by The ACRP (Airport Cooperative Research Program) Graduate Research Award 2022, and supported by Aerotropolis Atlanta. 
 
 **Keywords: Airport; Aerotropolis; Mobility; Greenway; Participatory Modeling**
 
 [Link to Interactive AeroATL Greenway Planning Tool](https://xiaofanliang.github.io/AeroATLGreenway/)
 
-[Link to Draft Manuscript](https://github.com/xiaofanliang/AeroATLGreenway/blob/main/Manuscript_XiaofanLiang_06222023.pdf)
+[Link to Published Manuscript](https://journals.sagepub.com/eprint/CBF8CYTYZDD66UHZEFKS/full)
 
 [Link to Project Details, Web Tool Implementation, and Data](https://github.com/xiaofanliang/AeroATLGreenway)
 
