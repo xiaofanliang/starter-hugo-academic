@@ -30,7 +30,14 @@ This work is in development with Matthew Wizinsky, Yajun Dai, Samuel Sav, Huy Du
 
 **Abstract**
 
-The project examines data centers through three interrelated layers:
+We want to create an infographic and/or an interactive web media that helps urban planners, local government officials, and even the public to understand components of data centers and the interconnections between people, infrastructure, and governance layers of implications AND ask the right questions. Specially, we want to
+
+- Decompose data center infrastructure into elements, which serves as an anchor to collect information. 
+- Map elements to respective implications (e.g., water lines to water implications) to scaffold information. 
+- Reveals complexity in infrastructure, governance, and people layers through narratives. 
+- Give practitioners something concrete to grasp by providing memorable case studies. 
+
+Here are some guiding questions in the background: 
 
 - People Layer: Who are the stakeholders in the data center ecosystem? What are their relationships, motivations, and jurisdictions of influence?
 - Infrastructure Layer: What urban infrastructures (e.g., water, energy, utilities) are required to support data centers, and how are these systems connected?
