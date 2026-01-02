@@ -22,30 +22,6 @@
     debug = true
 
 [[redirects]]
-  from = "/f24urp506"
-  to = "https://xfliang.notion.site/FALL-24-URP-506-Planning-Methods-61df025314da4610864331cd46dca52a?pvs=4"
-  status = 301
-  force = true # COMMENT: ensure that we always redirect
-
-[[redirects]]
-  from = "/f24urp610"
-  to = "https://xfliang.notion.site/FALL-24-URP-610-UT-402-Urban-Networks-1bcba1533a934578861584b1494db158?pvs=4"
-  status = 301
-  force = true # COMMENT: ensure that we always redirect
-
-[[redirects]]
-  from = "/w25urp535"
-  to = "https://xfliang.notion.site/W25-Introduction-to-Urban-Informatics-340984aff625494c8f9ce915157f0fad?pvs=4"
-  status = 301
-  force = true # COMMENT: ensure that we always redirect
-
-[[redirects]]
-  from = "/w25urp610"
-  to = "https://xfliang.notion.site/W25-Urban-AI-aabd6eb602104600915624f2e55fa52d?pvs=4"
-  status = 301
-  force = true # COMMENT: ensure that we always redirect
-
-[[redirects]]
   from = "/urbanai"
   to = "https://xfliang.notion.site/Urban-AI-Pedagogy-Workshop-Series-d327e035fbf34ad1a74efd9b26ee7cc0"
   status = 301
@@ -60,5 +36,17 @@
 [[redirects]]
   from = "/f25urp538"
   to = "https://xfliang.notion.site/F25-Urban-Networks-URP-538-UT-438-22dc9e21f8d380df9f1df097cbcd3d47"
+  status = 301
+  force = true # COMMENT: ensure that we always redirect
+
+[[redirects]]
+  from = "/w26urp535"
+  to = "https://xfliang.notion.site/W26-Introduction-to-Urban-Informatics-230c9e21f8d3809b8657c9cc613bae4c?source=copy_link"
+  status = 301
+  force = true # COMMENT: ensure that we always redirect
+
+  [[redirects]]
+  from = "/w26urp530"
+  to = "https://xfliang.notion.site/W26-Urban-AI-22bc9e21f8d38013957ad41734b926e5?source=copy_link"
   status = 301
   force = true # COMMENT: ensure that we always redirect
