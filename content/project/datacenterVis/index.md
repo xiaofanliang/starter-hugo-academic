@@ -24,11 +24,13 @@ links:
 #slides: example
 ---
 
-(In Progress)
+**"From Infrastructure to Implications: Data Center 101 for Urban Planners" White Paper is released!**
 
-This work is in development with Matthew Wizinsky, Yajun Dai, Samuel Sav, Huy Dung Lou, and Katherine Cafaro. 
+Read [HERE](https://www.xiaofanliang.com/publication/DataCenterVis/DataCenter101.pdf) 
 
-**Abstract**
+**Project Introduction**
+
+This work is developed with Matthew Wizinsky, Yajun Dai, Samuel Sav, Huy Dung Lou, and Katherine Cafaro. 
 
 We want to create an infographic and/or an interactive web media that helps urban planners, local government officials, and even the public to understand components of data centers and the interconnections between people, infrastructure, and governance layers of implications AND ask the right questions. Specially, we want to
 
