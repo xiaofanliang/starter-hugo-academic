@@ -42,14 +42,12 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-- name: PDF
-  url: 'https://www.xiaofanliang.com/publication/aerotropolis/Aerotropolis_Accepted.pdf'
 - name: GitHub
   url: 'https://github.com/xiaofanliang/AeroATLGreenway'
 - name: Interactive Map
   url: 'https://xiaofanliang.github.io/AeroATLGreenway/'
 
-# url_pdf: 'https://www.xiaofanliang.com/publication/aerotropolis/Aerotropolis_Accepted.pdf'
+url_pdf: 'https://www.xiaofanliang.com/publication/aerotropolis/Aerotropolis_Accepted.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
