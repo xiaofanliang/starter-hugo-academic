@@ -11,7 +11,7 @@ date: "2025-08-26"
 # external_link: "https://github.com/xiaofanliang/AeroATLGreenway"
 
 image:
-  caption: Idea Sketch (Credit Matthew Wizinsky)
+  caption: "Data Center Infrastructure Components (Image Credit: Yajun Dai, Matthew Wizinsky, Xiaofan Liang)"
   focal_point: Smart
 
 links:
