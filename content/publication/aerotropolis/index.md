@@ -49,7 +49,7 @@ links:
 - name: Interactive Map
   url: 'https://xiaofanliang.github.io/AeroATLGreenway/'
 
-url_pdf: 'https://www.xiaofanliang.com/publication/aerotropolis/Aerotropolis_Accepted.pdf'
+# url_pdf: 'https://www.xiaofanliang.com/publication/aerotropolis/Aerotropolis_Accepted.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
