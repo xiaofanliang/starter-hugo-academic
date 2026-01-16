@@ -11,6 +11,8 @@ sections:
 
         :speaker: **[ROLLING]** I am seeking to speak with *Network Practitioners* (broadly defined)! As part of my research, I’m looking to better understand how practitioners engage with multi-network urban systems—especially when the priorities of one network system impose tradeoffs, barriers, or unintended consequences on others. I’m interested in how people work through data complexity, representation mismatches, infrastructural interdependencies, and overlapping flows, particularly when the systems they work with operate at different scales, speeds, or purposes. Find more details at this [LinkedIn Post](https://www.linkedin.com/posts/xiaofan-liang-b5705481_interest-form-for-network-practitioners-activity-7346520911254069248-UmjH?utm_source=share&utm_medium=member_desktop&rcm=ACoAABFFRnMB9Ulf66iu5vlWUTmOjdEDdhFHdCI). 
 
+        :moneybag: I am awarded [2026 Graham Sustainability Catalyst grant](https://graham.umich.edu/news/catalyst-grants-2026) with a team of faculty, looking into how data centers shape water, energy, and communities. (Jan, 2026)
+
         :page_facing_up: **NEW** My dissertation project [Transforming Mobility Barriers to Connectivity: Examining the Impact of the AeroATL Greenway Plan in Reconnecting Communities Around Aerotropolis Atlanta](https://www.xiaofanliang.com/publication/aerotropolis/Aerotropolis_Accepted.pdf) is published at Transportation Research Record: Journal of the Transportation Research Board!
 
         :speaker: **NEW** I am invited as speaker at [Urban Tech Summit](https://www.urbantechsummit.com/speakers-2025) at Cornell Tech on November 11-12th to share our recent research on data center and zoning (November, 2025).
