@@ -28,6 +28,10 @@ links:
 
 Read [HERE](https://www.xiaofanliang.com/publication/DataCenterVis/DataCenter101.pdf) 
 
+View Interactive Visualization [HERE](https://xiaofanliang.github.io/datacenter101/)
+
+Download High-Resolution Digital Image [HERE](https://www.xiaofanliang.com/publication/DataCenterVis/featured.jpg)
+
 **Project Introduction**
 
 This work is developed with Matthew Wizinsky, Yajun Dai, Samuel Sav, Huy Dung Lou, and Katherine Cafaro. 
