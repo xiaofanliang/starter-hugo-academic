@@ -39,7 +39,7 @@ tags: []
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
+links:
 - name: Interactive Media
   url: 'https://xiaofanliang.github.io/datacenter101/'
 
