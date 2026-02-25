@@ -40,8 +40,8 @@ featured: false
 
 # Custom links (uncomment lines below)
 # links:
-# - name: PDF
-#   url: 'https://www.xiaofanliang.com/publication/DataCenterVis/DataCenter101.pdf'
+- name: Interactive Media
+  url: 'https://xiaofanliang.github.io/datacenter101/'
 
 url_pdf: 'https://www.xiaofanliang.com/publication/DataCenterVis/DataCenter101.pdf'
 url_code: ''

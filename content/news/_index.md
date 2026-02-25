@@ -7,25 +7,27 @@ sections:
     content:
       title: News
       text: |-
-        :speaker: **[ROLLING]** I am highly motivated to work with a PhD student who is interested in the urban AI and/or urban networks system direction, starting Fall 2026. Find more details at [PhD Invitation](https://xfliang.notion.site/PhD-Invitation-to-work-with-Dr-Liang-e81f61ec6cd849cbad2e639880bca0f6). 
+        :speaker: **[March to May 2026]** I am looking to interview more urban planners (broadly defined—from those with an educational background in urban planning to those whose jobs frequently interact with urban planning considerations, those who works in planning consulting firms or in roles with “planning” in their job titles) to better understand the implications of data centers on urban life and the built environment, as well as the roles planners play within the data center ecosystem. The goal is to consolidate these insights into an academic paper, develop new visualizations to support shared understanding, and provide updates to the white paper and web prototype. If you would like to be interviewed, please fill in the form [here](https://docs.google.com/forms/d/e/1FAIpQLSfwagzynoepwrfc-3Vk1BGy4B_KIWZhBC4VH7OxTwkx_42Txw/viewform?usp=preview). 
 
-        :speaker: **[ROLLING]** I am seeking to speak with *Network Practitioners* (broadly defined)! As part of my research, I’m looking to better understand how practitioners engage with multi-network urban systems—especially when the priorities of one network system impose tradeoffs, barriers, or unintended consequences on others. I’m interested in how people work through data complexity, representation mismatches, infrastructural interdependencies, and overlapping flows, particularly when the systems they work with operate at different scales, speeds, or purposes. Find more details at this [LinkedIn Post](https://www.linkedin.com/posts/xiaofan-liang-b5705481_interest-form-for-network-practitioners-activity-7346520911254069248-UmjH?utm_source=share&utm_medium=member_desktop&rcm=ACoAABFFRnMB9Ulf66iu5vlWUTmOjdEDdhFHdCI). 
+        :page_facing_up: **NEW** Our new white paper: [From Infrastructure to Implications: Data Center 101 for Urban Planners](https://www.xiaofanliang.com/publication/DataCenterVis/DataCenter101.pdf) is published, together with an [interactive media prototype](https://xiaofanliang.github.io/datacenter101/) that reveal many-to-many relationship mapping between data center infrastructure components and their associated implications.   
 
-        :moneybag: I am awarded [2026 Graham Sustainability Catalyst grant](https://graham.umich.edu/news/catalyst-grants-2026) with a team of faculty, looking into how data centers shape water, energy, and communities. (Jan, 2026)
+        :speaker: **NEW** I served as a panelist at a media briefing organized by AAAS Center for Scientific Evidence in Public Issues and SciLine on the topic of "Local implications of data center growth". View recorded video and transcript [here](https://www.sciline.org/energy/data-center-news/#video-transcript). (Feburary, 2026)
+
+        :moneybag: **NEW** I am awarded [2026 Graham Sustainability Catalyst grant](https://graham.umich.edu/news/catalyst-grants-2026) with a team of faculty, looking into how data centers shape water, energy, and communities. (Jan, 2026)
 
         :page_facing_up: **NEW** My dissertation project [Transforming Mobility Barriers to Connectivity: Examining the Impact of the AeroATL Greenway Plan in Reconnecting Communities Around Aerotropolis Atlanta](https://www.xiaofanliang.com/publication/aerotropolis/Aerotropolis_Accepted.pdf) is published at Transportation Research Record: Journal of the Transportation Research Board!
 
-        :speaker: **NEW** I am invited as speaker at [Urban Tech Summit](https://www.urbantechsummit.com/speakers-2025) at Cornell Tech on November 11-12th to share our recent research on data center and zoning (November, 2025).
+        :speaker: **NEW** I was invited as speaker at [Urban Tech Summit](https://www.urbantechsummit.com/speakers-2025) at Cornell Tech on November 11-12th to share our recent research on data center and zoning (November, 2025).
 
-        :speaker: **NEW** I am invited as a roundtable panelist at University of Michigan Symposium on AI, Data Center Infrastructure, and Climate Change Challenge on October 30th. Register [here](https://docs.google.com/forms/d/e/1FAIpQLSfK0Y_uUg5Zvc1_CMOBX53__AXPis66Ju_iZahdy_OQanPvMg/viewform). 
+        :speaker: I am invited as a roundtable panelist at University of Michigan Symposium on AI, Data Center Infrastructure, and Climate Change Challenge on October 30th. Register [here](https://docs.google.com/forms/d/e/1FAIpQLSfK0Y_uUg5Zvc1_CMOBX53__AXPis66Ju_iZahdy_OQanPvMg/viewform). 
 
-        :speaker: **NEW** I was invited to join UM Science, Technology, and Public Policy Program as an Affiliated Faculty! (October, 2025)
+        :speaker: I was invited to join UM Science, Technology, and Public Policy Program as an Affiliated Faculty! (October, 2025)
 
-        :speaker: **NEW** I am going to present a variety of projects at ACSP 2025 and is open to meet with prospective PhD students in-person during the conference! Please reach out to me in email early to schedule a time (October, 2025). 
+        :speaker: I am going to present a variety of projects at ACSP 2025 and is open to meet with prospective PhD students in-person during the conference! Please reach out to me in email early to schedule a time (October, 2025). 
 
-        :speaker: **NEW** I spoke at UMSI (School of Information) again in a data center panel in the UM Climate Week. (October, 2025)
+        :speaker: I spoke at UMSI (School of Information) again in a data center panel in the UM Climate Week. (October, 2025)
 
-        :speaker: **NEW** I presented the work on Decoding Municipal AI Landscape at UM School of Information Computational Social Science Seminar (see [details](https://www.si.umich.edu/about-umsi/events/computational-social-science-seminar-xiaofan-liang-u-m-taubman-college)). (October, 2025)
+        :speaker: I presented the work on Decoding Municipal AI Landscape at UM School of Information Computational Social Science Seminar (see [details](https://www.si.umich.edu/about-umsi/events/computational-social-science-seminar-xiaofan-liang-u-m-taubman-college)). (October, 2025)
 
         :speaker: **[CLOSED]** I am hiring 1-3 research assistants Fall 2025 to support a project exploring the planning and community implications of data centers. Please apply through this [Google Form](https://docs.google.com/forms/d/1XjkAPlJ0gSCNYkR-yAQQYgp7ZloxhSBuXXAMxHgBwUo/preview). Application is due September 3rd. (August, 2025)
 
