@@ -1,5 +1,5 @@
 ---
-title: "Urban AI Pedagogy: Frameworks and Lessons from a Pilot Course in Urban Planning Education"
+title: "What and How Should Urban Planners Learn in the AI Era? Exploring Urban AI Pedagogy from a Pilot Course in Urban Planning Education"
 summary: What knowledge and skills define Urban AI? How should they be taught? And how can student learning be effectively evaluated?
  
 tags:
