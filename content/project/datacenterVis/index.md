@@ -1,6 +1,6 @@
 ---
-title: "Data Center Complexity Visualization Project"
-summary: What are different people, infrastructure, and governance layers needed to deliberate the planning and community impacts of a data center? 
+title: "From Infrastructure to Implications: Data Center 101 for Urban Planners"
+summary: What are data centers’ implications for the urban life and built environment? What are urban planners' role in data center development? 
  
 tags:
 - Urban Analytics
