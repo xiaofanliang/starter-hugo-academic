@@ -40,6 +40,8 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
+- name: DOI 
+  url: 'https://osf.io/preprints/socarxiv/ymqa8_v1'
 - name: Interactive Media
   url: 'https://xiaofanliang.github.io/datacenter101/'
 
