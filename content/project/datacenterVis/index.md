@@ -30,7 +30,7 @@ Read [HERE](https://www.xiaofanliang.com/publication/DataCenterVis/DataCenter101
 
 View Interactive Visualization [HERE](https://xiaofanliang.github.io/datacenter101/)
 
-Download High-Resolution Digital Image [HERE](https://www.xiaofanliang.com/project/datacenterVis/featured.jpg)
+Download High-Resolution Digital Image here. [Design v1](https://www.xiaofanliang.com/project/datacenterVis/featured.jpg); [Design v2](https://www.xiaofanliang.com/project/datacenterVis/featured2.jpg)
 
 **Project Introduction**
 
