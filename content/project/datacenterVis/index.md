@@ -34,7 +34,7 @@ Download High-Resolution Digital Image here. [Design v1](https://www.xiaofanlian
 
 **Project Introduction**
 
-This work is developed with Matthew Wizinsky, Yajun Dai, Samuel Sav, Huy Dung Lou, Katherine Cafaro, and Lyu Chen. 
+This work is developed with Matthew Wizinsky, Yajun Dai, Samuel Sav, Huy Dung Lou, Katherine Cafaro, and Chen Lyu. 
 
 We want to create an infographic and/or an interactive web media that helps urban planners, local government officials, and even the public to understand components of data centers and the interconnections between people, infrastructure, and governance layers of implications AND ask the right questions. Specially, we want to
 
