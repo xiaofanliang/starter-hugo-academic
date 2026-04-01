@@ -9,15 +9,19 @@ sections:
       text: |-
         :speaker: **[March to May 2026]** I am looking to interview more urban planners (broadly defined—from those with an educational background in urban planning to those whose jobs frequently interact with urban planning considerations, those who works in planning consulting firms or in roles with “planning” in their job titles) to better understand the implications of data centers on urban life and the built environment, as well as the roles planners play within the data center ecosystem. The goal is to consolidate these insights into an academic paper, develop new visualizations to support shared understanding, and provide updates to the white paper and web prototype. If you would like to be interviewed, please fill in the form [here](https://docs.google.com/forms/d/e/1FAIpQLSfwagzynoepwrfc-3Vk1BGy4B_KIWZhBC4VH7OxTwkx_42Txw/viewform?usp=preview). 
 
-        :page_facing_up: **NEW** Our new white paper: [From Infrastructure to Implications: Data Center 101 for Urban Planners](https://www.xiaofanliang.com/publication/DataCenterVis/DataCenter101.pdf) is published, together with an [interactive media prototype](https://xiaofanliang.github.io/datacenter101/) that reveal many-to-many relationship mapping between data center infrastructure components and their associated implications.   
+        :speaker: **NEW** I will be presenting multiple projects at NetSci 2026 Conference Satellites *Urban Networks in the Age of AI* and *UrbanNet2026: Transport, Cities, Complexity and Urban Networks*. Reach out to me if you will be there or interested to meet up in Boston! (June, 2026) 
+
+        :moneybag: **NEW** I was awarded the *Empowering Research with AI Award* by AI Institute at Michigan, University of Michigan! (March, 2026) 
+
+        :page_facing_up: **NEW** Our new white paper: [From Infrastructure to Implications: Data Center 101 for Urban Planners](https://www.xiaofanliang.com/publication/DataCenterVis/DataCenter101.pdf) is published, together with an [interactive media prototype](https://xiaofanliang.github.io/datacenter101/) that reveal many-to-many relationship mapping between data center infrastructure components and their associated implications. (Feburary, 2026)  
 
         :speaker: **NEW** I served as a panelist at a media briefing organized by AAAS Center for Scientific Evidence in Public Issues and SciLine on the topic of "Local implications of data center growth". View recorded video and transcript [here](https://www.sciline.org/energy/data-center-news/#video-transcript). (Feburary, 2026)
 
         :moneybag: **NEW** I am awarded [2026 Graham Sustainability Catalyst grant](https://graham.umich.edu/news/catalyst-grants-2026) with a team of faculty, looking into how data centers shape water, energy, and communities. (Jan, 2026)
 
-        :page_facing_up: **NEW** My dissertation project [Transforming Mobility Barriers to Connectivity: Examining the Impact of the AeroATL Greenway Plan in Reconnecting Communities Around Aerotropolis Atlanta](https://www.xiaofanliang.com/publication/aerotropolis/Aerotropolis_Accepted.pdf) is published at Transportation Research Record: Journal of the Transportation Research Board!
+        :page_facing_up: My dissertation project [Transforming Mobility Barriers to Connectivity: Examining the Impact of the AeroATL Greenway Plan in Reconnecting Communities Around Aerotropolis Atlanta](https://www.xiaofanliang.com/publication/aerotropolis/Aerotropolis_Accepted.pdf) is published at Transportation Research Record: Journal of the Transportation Research Board! (December, 2025)
 
-        :speaker: **NEW** I was invited as speaker at [Urban Tech Summit](https://www.urbantechsummit.com/speakers-2025) at Cornell Tech on November 11-12th to share our recent research on data center and zoning (November, 2025).
+        :speaker: I was invited as speaker at [Urban Tech Summit](https://www.urbantechsummit.com/speakers-2025) at Cornell Tech on November 11-12th to share our recent research on data center and zoning (November, 2025).
 
         :speaker: I am invited as a roundtable panelist at University of Michigan Symposium on AI, Data Center Infrastructure, and Climate Change Challenge on October 30th. Register [here](https://docs.google.com/forms/d/e/1FAIpQLSfK0Y_uUg5Zvc1_CMOBX53__AXPis66Ju_iZahdy_OQanPvMg/viewform). 
 

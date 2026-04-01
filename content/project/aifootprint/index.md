@@ -34,13 +34,11 @@ As generative AI systems drive demand for computational infrastructure, their so
 
 At the center of this challenge are zoning ordinances, the key legal instruments that regulate land use in every U.S. jurisdiction. These documents define permitted uses, spatial constraints, and development conditions—but they are decentralized, heterogeneous, and written in complex legal logic that jumps across sections. As a result, answering even a basic question—Where are data centers allowed? What restrictions apply to solar farms?—requires manually reviewing hundreds of lengthy PDF ordinances. Traditional rule-based extraction methods cannot keep pace with this complexity, and manual review is infeasible at scale.
 
-To address this gap, we propose a human-AI collaboration workflow to extract structured information from zoning codes related to data centers and renewable energy facilities. Our aims are threefold:
+To address this gap, we propose a human-AI collaboration workflow to extract structured information from zoning codes related to data centers and renewable energy facilities. Our aims include:
 
 - Design and evaluate a human-AI workflow for high-validity extraction of zoning information from complex, heterogeneous legal documents.
 
-- Build and validate a multi-state zoning database across Illinois, Indiana, Michigan, Minnesota, Ohio, and Wisconsin.
-
-- Develop a publicly accessible web tool that enables users to search, filter, and trace zoning regulations back to original ordinance PDFs.
+- Build and validate energy-related zoning variables against the Energy Zoning Dataset.
 
 This workflow will not only create the first standardized, multi-state zoning dataset for AI-era infrastructure, but also serve as the foundation for a broader computational interface for zoning documents. In future iterations, we envision using knowledge graphs as the backbone of a unified zoning information system—where modular zoning concepts become nodes, and their logical conditions form edges. A user interested in, for example, “solar panels in New York City” could click on a node and instantly see all relevant sections, cross-references, and regulatory conditions light up. Such an interface could reveal regulatory gaps, uncover inconsistencies, support permitting decisions, and allow planners to compare the structural complexity of zoning across jurisdictions.
 
