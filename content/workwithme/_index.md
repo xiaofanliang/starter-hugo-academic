@@ -16,13 +16,13 @@ sections:
 
         I had worked with students in two formats: 1) paid research assistant, and 2) independent study with academic credits. The first option is often project-based, and will usually have a formal announcement through Taubman College’s newsletter. The second option is opportunity-based. For the first option, they are likely to be announced in the first few weeks of the semesters, if any. For the second option, I am more likely to agree to advise an independent project if I already know that you are capable of conducting independent work and/or the project contributes to my research agenda. 
 
-        ### For Current / Outside Students
-
-        Working with me on research is a combination of skills, timing (e.g., alignment with research timeline), and my time availability. I often have to navigate a lot of timeline uncertainty and when I need to hire someone, I need them rather quickly. I am open to unstructured opportunities and student proposals. Feel free to email me and reach out. 
-
         **Reference Letter** 
 
         I usually write reference letters to students who have taken at least two of my courses or had actively worked with me through research assistantship or independent studies. Exceptions may be possible. If you have this intention, please come talk to me as early as possible so we can align expectations.
+
+        ### For Current / Outside Students
+
+        Working with me on research is a combination of skills, timing (e.g., alignment with research timeline), and my time availability. I often have to navigate a lot of timeline uncertainty and when I need to hire someone, I need them rather quickly. I am open to unstructured opportunities and student proposals. Feel free to email me and reach out. 
 
         ### For Prospective Students
 
