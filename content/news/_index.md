@@ -11,13 +11,15 @@ sections:
 
         :speaker: **NEW** I will be presenting multiple projects at NetSci 2026 Conference Satellites *Urban Networks in the Age of AI* and *UrbanNet2026: Transport, Cities, Complexity and Urban Networks*. Reach out to me if you will be there or interested to meet up in Boston! (June, 2026) 
 
+        :page_facing_up: My new paper titled [What and How Should Urban Planners Learn in the AI Era? Exploring Urban AI Pedagogy from a Pilot Course in Urban Planning Education](https://journals.sagepub.com/eprint/5S9UJHHVUNBEJZWMAGFB/full) is published in **Journal of Planning Education and Research**! It offers a thorough account of what I taught in the Urban AI course, why I structured it that way, how the pieces connect, what “success” (i.e., the critical use and understanding of AI) looks like in practice, and how it can be evaluated. I also wrote a [blog post](https://urbanaiatumich.substack.com/p/what-i-have-learned-from-teaching) to reflect on Urban AI classroom observations that are fun to read. 
+
         :moneybag: **NEW** I was awarded the *Empowering Research with AI Award* by AI Institute at Michigan, University of Michigan! (March, 2026) 
 
         :page_facing_up: **NEW** Our new white paper: [From Infrastructure to Implications: Data Center 101 for Urban Planners](https://www.xiaofanliang.com/publication/DataCenterVis/DataCenter101.pdf) is published, together with an [interactive media prototype](https://xiaofanliang.github.io/datacenter101/) that reveal many-to-many relationship mapping between data center infrastructure components and their associated implications. (Feburary, 2026)  
 
-        :speaker: **NEW** I served as a panelist at a media briefing organized by AAAS Center for Scientific Evidence in Public Issues and SciLine on the topic of "Local implications of data center growth". View recorded video and transcript [here](https://www.sciline.org/energy/data-center-news/#video-transcript). (Feburary, 2026)
+        :speaker: I served as a panelist at a media briefing organized by AAAS Center for Scientific Evidence in Public Issues and SciLine on the topic of "Local implications of data center growth". View recorded video and transcript [here](https://www.sciline.org/energy/data-center-news/#video-transcript). (Feburary, 2026)
 
-        :moneybag: **NEW** I am awarded [2026 Graham Sustainability Catalyst grant](https://graham.umich.edu/news/catalyst-grants-2026) with a team of faculty, looking into how data centers shape water, energy, and communities. (Jan, 2026)
+        :moneybag: I am awarded [2026 Graham Sustainability Catalyst grant](https://graham.umich.edu/news/catalyst-grants-2026) with a team of faculty, looking into how data centers shape water, energy, and communities. (Jan, 2026)
 
         :page_facing_up: My dissertation project [Transforming Mobility Barriers to Connectivity: Examining the Impact of the AeroATL Greenway Plan in Reconnecting Communities Around Aerotropolis Atlanta](https://www.xiaofanliang.com/publication/aerotropolis/Aerotropolis_Accepted.pdf) is published at Transportation Research Record: Journal of the Transportation Research Board! (December, 2025)
 

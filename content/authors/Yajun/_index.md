@@ -43,7 +43,7 @@ education:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Students
+- Alumni
 ---
 
 Yajun Dai is currently a graduate student in Urban Design at the University of Michigan’s Taubman College, with a Bachelor of Architecture degree from China. Her academic and professional interests focus on how urban design can serve as a bridge between governments and residents, fostering community participation, emotional connection, and a stronger sense of justice to create more inclusive, people-centered urban futures.

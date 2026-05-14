@@ -43,7 +43,7 @@ education:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Students
+- Alumni
 ---
 
 Samuel Sav is a graduate student pursuing a Master of Urban and Regional Planning at the University of Michigan’s Taubman College. He holds a Bachelor of Science in Geography from Pennsylvania State University and is certified in Geographic Information Systems (GIS). He focuses on the intersection of transportation and land-use planning, with a particular interest in applying mapping technologies to solve complex challenges in urban and suburban settings.

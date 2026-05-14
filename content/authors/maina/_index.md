@@ -43,7 +43,7 @@ education:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Students
+- Alumni
 ---
 
 Maina is a second year PhD student in Urban and Regional Planning at the University of Michigan. He earned an M.S. in Quantitative Methods and Social Analysis from Northeastern University and a B.A. in Philosophy from the University of Chicago. He is interested in bringing this background to bear in his research, with emerging interests in (1) the application of computational tools to planning and (2) the connections between theories of global development and planning.
