@@ -7,15 +7,22 @@ sections:
     content:
       title: News
       text: |-
-        :speaker: **[June to July 2026]** I am looking to interview more urban planners (broadly defined—from those with an educational background in urban planning to those whose jobs frequently interact with urban planning considerations, those who works in planning consulting firms or in roles with “planning” in their job titles) to better understand the implications of data centers on urban life and the built environment, as well as the roles planners play within the data center ecosystem. The goal is to consolidate these insights into an academic paper, develop new visualizations to support shared understanding, and provide updates to the white paper and web prototype. If you would like to be interviewed, please fill in the form [here](https://docs.google.com/forms/d/e/1FAIpQLSfwagzynoepwrfc-3Vk1BGy4B_KIWZhBC4VH7OxTwkx_42Txw/viewform?usp=preview). 
+        
+        :speaker: **NEW** (forthcoming) I will present my work at ACSP 2026, Pittsburgh. Interested to meet up during the conference? Email me or catch me on spot! 
 
-        :speaker: **NEW** I will be presenting multiple projects at NetSci 2026 Conference Satellites *Urban Networks in the Age of AI* and *UrbanNet2026: Transport, Cities, Complexity and Urban Networks*. Reach out to me if you will be there or interested to meet up in Boston! (June, 2026) 
+        :speaker: **NEW** (forthcoming) I was invited as a speaker at Texas A&M University AI Across AEC Industry symposium this Fall! Hit me up in Texas! (October 5-6, 2026) 
+
+        :speaker: **NEW** (forthcoming) I was invited as a speaker at a symposium at Emory University this Fall! Hit me up in Atlanta! (September 4, 2026) 
+
+        :speaker: **[CLOSED]** I am hiring 1-2 research assistants this summer to support a few weeks of sprint work to collect zoning documents and verify AI pipeline results for grant proposals. Application was announced to Taubman College students and now closed (July, 2026). 
+
+        :speaker: **NEW** I presented multiple projects at NetSci 2026 Conference Satellites *Urban Networks in the Age of AI* and *UrbanNet2026: Transport, Cities, Complexity and Urban Networks*. Reach out to me if you will be there or interested to meet up in Boston! (June, 2026) 
 
         :page_facing_up: **NEW** My new paper titled [What and How Should Urban Planners Learn in the AI Era? Exploring Urban AI Pedagogy from a Pilot Course in Urban Planning Education](https://journals.sagepub.com/eprint/5S9UJHHVUNBEJZWMAGFB/full) is published in **Journal of Planning Education and Research**! It offers a thorough account of what I taught in the Urban AI course, why I structured it that way, how the pieces connect, what “success” (i.e., the critical use and understanding of AI) looks like in practice, and how it can be evaluated. I also wrote a [blog post](https://urbanaiatumich.substack.com/p/what-i-have-learned-from-teaching) to reflect on Urban AI classroom observations that are fun to read. 
 
-        :moneybag: **NEW** I was awarded the *Empowering Research with AI Award* by AI Institute at Michigan, University of Michigan! (March, 2026) 
+        :moneybag: I was awarded the *Empowering Research with AI Award* by AI Institute at Michigan, University of Michigan! (March, 2026) 
 
-        :page_facing_up: **NEW** Our new white paper: [From Infrastructure to Implications: Data Center 101 for Urban Planners](https://www.xiaofanliang.com/publication/DataCenterVis/DataCenter101.pdf) is published, together with an [interactive media prototype](https://xiaofanliang.github.io/datacenter101/) that reveal many-to-many relationship mapping between data center infrastructure components and their associated implications. (Feburary, 2026)  
+        :page_facing_up: Our new white paper: [From Infrastructure to Implications: Data Center 101 for Urban Planners](https://www.xiaofanliang.com/publication/DataCenterVis/DataCenter101.pdf) is published, together with an [interactive media prototype](https://xiaofanliang.github.io/datacenter101/) that reveal many-to-many relationship mapping between data center infrastructure components and their associated implications. (Feburary, 2026)  
 
         :speaker: I served as a panelist at a media briefing organized by AAAS Center for Scientific Evidence in Public Issues and SciLine on the topic of "Local implications of data center growth". View recorded video and transcript [here](https://www.sciline.org/energy/data-center-news/#video-transcript). (Feburary, 2026)
 

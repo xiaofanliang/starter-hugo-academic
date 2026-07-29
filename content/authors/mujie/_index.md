@@ -1,17 +1,17 @@
 ---
 # Display name
-name: Zhixuan Qi
-title: Zhixuan Qi
+name: Mujie Sui
+title: Mujie Sui
 
 # Username (this should match the folder name)
 authors:
-- zhixuan
+- mujie
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD Research Assistant
+role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
@@ -23,10 +23,12 @@ bio: []
 
 education:
   courses:
-  - course: B.E. Software Engineering
-    institution: Beijing University of Technology (China)
-  - course: M.S. Information Science with a concentration in Urban Tech
-    institution: Cornell Tech
+  - course: B.ARCH. in Architecture 
+    institution: Beijing University of Civil Engineering and Architecture
+  - course: M.U.D in Urban Design 
+    institution: University of Michigan 
+  - course: M.S in Environment and Sustainability, specialized in Geospatial Data Sciences
+    institution: University of Michigan 
 
 
 # Social/Academic Networking
@@ -46,5 +48,4 @@ user_groups:
 - Students
 ---
 
-Zhixuan is a PhD student at Taubman College of Architecture and Urban Planning (2026-) at University of Michigan. She was a Research Associate with Prof. Xiaofan Liang (2025-2026), working on teaching machines to read, understand, memorize, and make use of zoning ordinances. Trained in Information Science and Software Engineering, she has always been an urbanist disguised as a tech person.
-Ask her about Roosevelt Island history, Beijing city burger rankings, and the long, meditative hours she has recently spent with truck simulators. When she is not enthusiastically typing on her keyboard, you can find her out biking or bouldering.
+Mujie Sui received dual master’s degrees in Urban Design and Environmental Science from the University of Michigan, and a bachelor’s degree in Architecture from China. Her research interests lie at the intersection of urban design, spatial analysis, and urban infrastructure planning. She is particularly interested in applying geospatial data and computational methods to support resilient and sustainable urban development.
