@@ -45,8 +45,22 @@
   status = 301
   force = true # COMMENT: ensure that we always redirect
 
-  [[redirects]]
+[[redirects]]
   from = "/w26urp530"
   to = "https://xfliang.notion.site/W26-Urban-AI-22bc9e21f8d38013957ad41734b926e5?source=copy_link"
   status = 301
   force = true # COMMENT: ensure that we always redirect
+
+[[redirects]]
+  from = "/f26urp506"
+  to = "https://xfliang.notion.site/F26-Planning-Methods-URP-506-324c9e21f8d380918484d17b05d2cd2e"
+  status = 301
+  force = true # COMMENT: ensure that we always redirect
+
+[[redirects]]
+  from = "/f26urp535"
+  to = "https://xfliang.notion.site/F26-Introduction-to-Urban-Informatics-URP-535-UT-435-324c9e21f8d380e6aa51e0982f486e5c"
+  status = 301
+  force = true # COMMENT: ensure that we always redirect
+
+  
