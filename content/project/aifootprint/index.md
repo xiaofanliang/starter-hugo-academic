@@ -38,7 +38,7 @@ To address this gap, we propose an agentic pipeline to extract structured inform
 
 - Design and evaluate an agentic pipeline and human-AI workflow for high-validity extraction of zoning information from complex, heterogeneous legal documents.
 
-- Evaluate performance of the pipelien against EnergyZoning database.
+- Evaluate performance of the pipeline against EnergyZoning database.
 
 - Evaluate the performance of the pipeline on a variety of queries varying in inferential and professional complexity on a single document, to examine the boundary between machine capability and human professional judgement. 
 
