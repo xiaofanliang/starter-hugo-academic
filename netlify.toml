@@ -63,4 +63,9 @@
   status = 301
   force = true # COMMENT: ensure that we always redirect
 
-  
+[[redirects]]
+  from = "/publication/DataCenterVis/DataCenter101.pdf"
+  to = "https://osf.io/preprints/socarxiv/ymqa8_v1"
+  status = 301
+  force = true # COMMENT: override static PDF so citations hit OSF for view/download tracking
+
