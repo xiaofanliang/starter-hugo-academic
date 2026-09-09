@@ -10,15 +10,17 @@ sections:
         
         :speaker: **NEW** (forthcoming) I will present my work at ACSP 2026, Pittsburgh. Interested to meet up during the conference? Email me or catch me on spot! 
 
-        :speaker: **NEW** (forthcoming) I was invited as a speaker at Texas A&M University AI Across AEC Industry symposium this Fall! Hit me up in Texas! (October 5-6, 2026) 
+        :speaker: **NEW** (forthcoming) I will be a speaker at Texas A&M University AI Across AEC Industry symposium this Fall! Hit me up in Texas! (October 5-6, 2026) 
 
-        :speaker: **NEW** (forthcoming) I was invited as a speaker at a symposium at Emory University this Fall! Hit me up in Atlanta! (September 4, 2026) 
+        :speaker: **NEW** I will be speaking at the APA Webinar: Balancing Land Use and Economic Tradeoffs of Data Centers. Register [here](https://account.planning.org/event-information?id=a0lQO00000HsZbiYAF). I was told that 2600+ people have registered! (September 10, 2026) 
+
+        :speaker: **NEW** I was invited as a speaker at a symposium at Emory University this Fall! Hit me up in Atlanta! (September 4, 2026) 
 
         :speaker: **[CLOSED]** I am hiring 1-2 research assistants this summer to support a few weeks of sprint work to collect zoning documents and verify AI pipeline results for grant proposals. Application was announced to Taubman College students and now closed (July, 2026). 
 
-        :speaker: **NEW** I presented multiple projects at NetSci 2026 Conference Satellites *Urban Networks in the Age of AI* and *UrbanNet2026: Transport, Cities, Complexity and Urban Networks*. Reach out to me if you will be there or interested to meet up in Boston! (June, 2026) 
+        :speaker: I presented multiple projects at NetSci 2026 Conference Satellites *Urban Networks in the Age of AI* and *UrbanNet2026: Transport, Cities, Complexity and Urban Networks*. Reach out to me if you will be there or interested to meet up in Boston! (June, 2026) 
 
-        :page_facing_up: **NEW** My new paper titled [What and How Should Urban Planners Learn in the AI Era? Exploring Urban AI Pedagogy from a Pilot Course in Urban Planning Education](https://journals.sagepub.com/eprint/5S9UJHHVUNBEJZWMAGFB/full) is published in **Journal of Planning Education and Research**! It offers a thorough account of what I taught in the Urban AI course, why I structured it that way, how the pieces connect, what “success” (i.e., the critical use and understanding of AI) looks like in practice, and how it can be evaluated. I also wrote a [blog post](https://urbanaiatumich.substack.com/p/what-i-have-learned-from-teaching) to reflect on Urban AI classroom observations that are fun to read. 
+        :page_facing_up: My new paper titled [What and How Should Urban Planners Learn in the AI Era? Exploring Urban AI Pedagogy from a Pilot Course in Urban Planning Education](https://journals.sagepub.com/eprint/5S9UJHHVUNBEJZWMAGFB/full) is published in **Journal of Planning Education and Research**! It offers a thorough account of what I taught in the Urban AI course, why I structured it that way, how the pieces connect, what “success” (i.e., the critical use and understanding of AI) looks like in practice, and how it can be evaluated. I also wrote a [blog post](https://urbanaiatumich.substack.com/p/what-i-have-learned-from-teaching) to reflect on Urban AI classroom observations that are fun to read. 
 
         :moneybag: I was awarded the *Empowering Research with AI Award* by AI Institute at Michigan, University of Michigan! (March, 2026) 
 

@@ -26,7 +26,7 @@ links:
 
 **"From Infrastructure to Implications: Data Center 101 for Urban Planners" White Paper is released!**
 
-Read [HERE](https://www.xiaofanliang.com/publication/DataCenterVis/DataCenter101.pdf) 
+Read [HERE](https://osf.io/preprints/socarxiv/ymqa8_v1) 
 
 View Interactive Visualization [HERE](https://xiaofanliang.github.io/datacenter101/)
 
