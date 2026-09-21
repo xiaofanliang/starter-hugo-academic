@@ -26,7 +26,7 @@ doi: "10.1177/0361198125138058"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Transportation Research Record: Journal of the Transportation Research Board"
+publication: "Transportation Research Record: Journal of the Transportation Research Board, 2680(6), 59-73"
 
 #publication_short: In *EPB*
 

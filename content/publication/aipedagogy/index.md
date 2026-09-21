@@ -24,7 +24,7 @@ date: "2026-05-14T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Planning Education and Research"
+publication: "Journal of Planning Education and Research, 0739456X261436057"
 
 #publication_short: In *EPB*
 

@@ -24,7 +24,7 @@ date: "2026-01-13T00:00:00Z"
 publication_types: ["Report"]
 
 # Publication name and optional abbreviated publication name.
-publication: "University of Michigan"
+publication: "White Paper. University of Michigan"
 
 #publication_short: In *EPB*
 

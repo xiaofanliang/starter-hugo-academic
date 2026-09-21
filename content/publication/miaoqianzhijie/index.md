@@ -24,7 +24,7 @@ date: "2026-09-21T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Transport and Land Use, 19(1), 305–331."
+publication: "Journal of Transport and Land Use, 19(1), 305–331"
 
 #publication_short: In *EPB*
 
