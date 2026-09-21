@@ -12,7 +12,9 @@ sections:
 
         :speaker: **NEW** (forthcoming) I will be a speaker at Texas A&M University AI Across AEC Industry symposium this Fall! Hit me up in Texas! (October 5-6, 2026) 
 
-        :speaker: **NEW** I will be speaking at the APA Webinar: Balancing Land Use and Economic Tradeoffs of Data Centers. Register [here](https://account.planning.org/event-information?id=a0lQO00000HsZbiYAF). I was told that 2600+ people have registered! (September 10, 2026) 
+        :page_facing_up: **NEW** My new paper [The cost of connectivity: Network tradeoffs in subway expansion and historic street preservation](https://jtlu.org/index.php/jtlu/article/view/2749) is published at Journal of Transport and Land Use! The paper is open access. See project / publication page for more details. (September 21, 2026) 
+
+        :speaker: **NEW** I spoke at the APA Webinar: Balancing Land Use and Economic Tradeoffs of Data Centers. Register [here](https://account.planning.org/event-information?id=a0lQO00000HsZbiYAF). I was told that 2600+ people have registered! (September 10, 2026) 
 
         :speaker: **NEW** I was invited as a speaker at a symposium at Emory University this Fall! Hit me up in Atlanta! (September 4, 2026) 
 
