@@ -75,14 +75,10 @@ user_groups:
   - Researchers
 ---
 
-I am an [Assistant Professor of Urban and Regional Planning](https://taubmancollege.umich.edu/faculty/directory/xiaofan-liang/) at Taubman College of Architecture & Urban Planning, University of Michigan - Ann Arbor. I am also affiliated with [Michigan Institute for Data & AI in Society](https://midas.umich.edu/directory/xiaofan-liang/), [UM Center for the Study of Complex Systems](https://lsa.umich.edu/cscs), and [Science, Technology, and Public Policy Program](https://stpp.fordschool.umich.edu/faculty/xiaofan-liang). 
-
-My research examines how networks and emerging technologies reshape cities—and how planners can better understand and govern their uneven impacts. I am particularly interested in infrastructure that connects people and places at one scale while creating costs, barriers, or new governance challenges at another. I develop computational methods, conceptual frameworks, and practical tools to make these tradeoffs visible and help communities make more informed decisions about infrastructure and technological change.
+I am an [Assistant Professor of Urban and Regional Planning](https://taubmancollege.umich.edu/faculty/directory/xiaofan-liang/) at Taubman College of Architecture & Urban Planning, University of Michigan - Ann Arbor. I am also affiliated with [Michigan Institute for Data & AI in Society](https://midas.umich.edu/directory/xiaofan-liang/), [UM Center for the Study of Complex Systems](https://lsa.umich.edu/cscs), and [Science, Technology, and Public Policy Program](https://stpp.fordschool.umich.edu/faculty/xiaofan-liang). My research examines how networks and emerging technologies reshape cities—and how planners can better understand and govern their uneven impacts. I am particularly interested in infrastructure that connects people and places at one scale while creating costs, barriers, or new governance challenges at another. I develop computational methods, conceptual frameworks, and practical tools to make these tradeoffs visible and help communities make more informed decisions about infrastructure and technological change.
 
 My work currently develops along two connected themes:
 
 1. **Urban Networks** examines how mobility, social, and digital infrastructures create uneven patterns of connectivity across places, scales, and users. I study the tradeoffs that emerge when networks designed to improve connection also divide communities, constrain some users, or compete with other urban networks for space and resources.
 
 2. **Urban AI** examines how AI is changing planning both as a tool and as an infrastructure to govern. My work develops planning-centered approaches to AI, including computational methods for making complex regulatory systems such as zoning more accessible and comparable, while also studying how communities can govern the land-use and infrastructure impacts of emerging technologies such as data centers.
-
-Across these areas, my broader goal is to help build more inclusive network infrastructures and stronger computational capacity for communities to understand, compare, and govern complex urban systems.
