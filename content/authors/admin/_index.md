@@ -21,9 +21,9 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - The Network Effects of Social, Digital, and Transportation Infrastructure   
-  - Effective, Appropriate, and Human-centered AI Applications for Urban Planning
-  - Planning Implications of AI Infrastructure 
+  - Network Impacts of Transportation, Social, and Digital Infrastructure
+  - Human-Centered AI for Urban Planning
+  - Planning and Governance of AI Infrastructure
 
 education:
   courses:
