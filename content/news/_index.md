@@ -8,7 +8,7 @@ sections:
       title: News
       text: |-
         
-        :moneybag: I was awarded the UM Building Better Future Grant to work on project "Zoning for AI Infrastructure: Regulatory Compatibility and Community Alignment in Michigan".
+        :moneybag: I was awarded the UM Building Better Future Grant to work on project "Zoning for AI Infrastructure: Regulatory Compatibility and Community Alignment in Michigan" (2027-2028).
 
         :speaker: **NEW** I will present my computational zoning work at [MIDAS lecture series](https://midas.umich.edu/midas-events/das-lecture-series/) (Students welcome). The presentation will be recorded and I will update the link once it is available. 
 
