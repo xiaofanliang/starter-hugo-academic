@@ -8,15 +8,21 @@ sections:
       title: News
       text: |-
         
-        :speaker: **NEW** (forthcoming) I will present my work at ACSP 2026, Pittsburgh. Interested to meet up during the conference? Email me or catch me on spot! 
+        :moneybag: I was awarded the UM Building Better Future Grant to work on project "Zoning for AI Infrastructure: Regulatory Compatibility and Community Alignment in Michigan".
 
-        :speaker: **NEW** (forthcoming) I will be a speaker at Texas A&M University AI Across AEC Industry symposium this Fall! Hit me up in Texas! (October 5-6, 2026) 
+        :speaker: **NEW** I will present my computational zoning work at [MIDAS lecture series](https://midas.umich.edu/midas-events/das-lecture-series/) (Students welcome). The presentation will be recorded and I will update the link once it is available. 
+
+        :speaker: **NEW** I will give a guest lecture about *Beyond Connectivity: Understanding the Barriers Created by Transportation Infrastructure* at UM Transportation Systems Seminar, invited by Department of Civil and Environmental Engineering. 
+
+        :speaker: **NEW** I presented my work at ACSP 2026, Pittsburgh. Interested to meet up during the conference? Email me or catch me on spot! 
+
+        :speaker: **NEW** I was a speaker at Texas A&M University AI Across AEC Industry symposium (October 5-6, 2026) 
 
         :page_facing_up: **NEW** My new paper [The cost of connectivity: Network tradeoffs in subway expansion and historic street preservation](https://jtlu.org/index.php/jtlu/article/view/2749) is published at Journal of Transport and Land Use! The paper is open access. See project / publication page for more details. (September 21, 2026) 
 
-        :speaker: **NEW** I spoke at the APA Webinar: Balancing Land Use and Economic Tradeoffs of Data Centers. Register [here](https://account.planning.org/event-information?id=a0lQO00000HsZbiYAF). I was told that 2600+ people have registered! (September 10, 2026) 
+        :speaker: I spoke at the APA Webinar: Balancing Land Use and Economic Tradeoffs of Data Centers. Register [here](https://account.planning.org/event-information?id=a0lQO00000HsZbiYAF). I was told that 2600+ people have registered! (September 10, 2026) 
 
-        :speaker: **NEW** I was invited as a speaker at a symposium at Emory University this Fall! Hit me up in Atlanta! (September 4, 2026) 
+        :speaker: I was invited as a speaker at a symposium at Emory University this Fall! Hit me up in Atlanta! (September 4, 2026) 
 
         :speaker: **[CLOSED]** I am hiring 1-2 research assistants this summer to support a few weeks of sprint work to collect zoning documents and verify AI pipeline results for grant proposals. Application was announced to Taubman College students and now closed (July, 2026). 
 
