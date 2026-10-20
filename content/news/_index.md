@@ -7,12 +7,12 @@ sections:
     content:
       title: News
       text: |-
-        
-        :moneybag: I was awarded the UM Building Better Future Grant to work on project "Zoning for AI Infrastructure: Regulatory Compatibility and Community Alignment in Michigan" (2027-2028).
 
-        :speaker: **NEW** I will present my computational zoning work at [MIDAS lecture series](https://midas.umich.edu/midas-events/das-lecture-series/) (Students welcome). The presentation will be recorded and I will update the link once it is available. 
+        :speaker: **NEW** I will present my computational zoning work at [MIDAS lecture series](https://midas.umich.edu/midas-events/das-lecture-series/) (Students welcome). The presentation will be recorded and I will update the link once it is available. (November 19th, 2026)
 
-        :speaker: **NEW** I will give a guest lecture about *Beyond Connectivity: Understanding the Barriers Created by Transportation Infrastructure* at UM Transportation Systems Seminar, invited by Department of Civil and Environmental Engineering. 
+        :moneybag: **NEW** I was awarded the UM Building Better Future Grant to work on project "Zoning for AI Infrastructure: Regulatory Compatibility and Community Alignment in Michigan" (2027-2028). (October, 2026)
+
+        :speaker: **NEW** I gave a guest lecture about *Beyond Connectivity: Understanding the Barriers Created by Transportation Infrastructure* at UM Transportation Systems Seminar, invited by Department of Civil and Environmental Engineering. (October 21, 2026)
 
         :speaker: **NEW** I presented my work at ACSP 2026, Pittsburgh. Interested to meet up during the conference? Email me or catch me on spot! 
 
