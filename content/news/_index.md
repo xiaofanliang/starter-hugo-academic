@@ -8,6 +8,8 @@ sections:
       title: News
       text: |-
 
+        :speaker: **NEW** I am hiring a 8-month computational zoning research assistant with 20h/week work commitment from January to August 2027. Please see the job details here on [my LinkedIn](https://lnkd.in/p/gQXjjdXN). (Nov 6th, 2026)
+
         :speaker: **NEW** I will present my computational zoning work at [MIDAS lecture series](https://midas.umich.edu/midas-events/das-lecture-series/) (Students welcome). The presentation will be recorded and I will update the link once it is available. (November 19th, 2026)
 
         :moneybag: **NEW** I was awarded the UM Building Better Future Grant to work on project "Zoning for AI Infrastructure: Regulatory Compatibility and Community Alignment in Michigan" (2027-2028). (October, 2026)
